@@ -1,12 +1,13 @@
 import requests
 import json
 import os
+import re
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 # ---------------- CONFIG ----------------
 
-API_URL = "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/?q=&format=json"
+URL = "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/?q="
 DATA_FILE = "daad_programs.json"
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
@@ -29,7 +30,11 @@ def create_session():
     session.mount("https://", adapter)
 
     session.headers.update({
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0 Safari/537.36"
+        )
     })
 
     return session
@@ -37,39 +42,57 @@ def create_session():
 
 session = create_session()
 
-# ---------------- FETCH ALL PAGES ----------------
+# ---------------- FETCH PROGRAMS ----------------
 
 def fetch_all_programs():
-    page = 1
-    all_programs = []
+    try:
+        r = session.get(URL, timeout=(10, 60))
+        r.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        print("Fetch failed:", e)
+        return None
 
-    while True:
-        try:
-            r = session.get(API_URL + f"&page={page}", timeout=(10, 60))
-            r.raise_for_status()
-        except requests.exceptions.RequestException as e:
-            print("Fetch failed:", e)
-            return None
+    html = r.text
 
-        data = r.json()
+    # Extract embedded JSON from page
+    match = re.search(
+        r'window\.__INITIAL_STATE__\s*=\s*(\{.*?\});',
+        html,
+        re.DOTALL
+    )
 
-        programs = data.get("results", [])
-        if not programs:
-            break
+    if not match:
+        print("Embedded JSON not found.")
+        return None
 
-        for p in programs:
-            all_programs.append({
-                "id": p.get("id"),
-                "title": p.get("title"),
-                "university": p.get("university"),
-                "degree": p.get("degree"),
-                "language": p.get("language"),
-                "city": p.get("city")
-            })
+    json_text = match.group(1)
 
-        page += 1
+    try:
+        data = json.loads(json_text)
+    except Exception as e:
+        print("JSON parsing failed:", e)
+        return None
 
-    return all_programs
+    # Navigate safely through structure
+    try:
+        results = data["search"]["results"]
+    except Exception:
+        print("Unexpected JSON structure.")
+        return None
+
+    programs = []
+
+    for p in results:
+        programs.append({
+            "id": p.get("id"),
+            "title": p.get("title"),
+            "university": p.get("universityName"),
+            "degree": p.get("degreeName"),
+            "city": p.get("city"),
+            "language": ", ".join(p.get("languages", []))
+        })
+
+    return programs
 
 
 # ---------------- STORAGE ----------------
@@ -77,8 +100,11 @@ def fetch_all_programs():
 def load_old():
     if not os.path.exists(DATA_FILE):
         return None
-    with open(DATA_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
 
 
 def save_current(data):
@@ -90,6 +116,7 @@ def save_current(data):
 
 def send_telegram(text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+
     try:
         session.post(
             url,
@@ -102,7 +129,7 @@ def send_telegram(text):
             timeout=(5, 20)
         )
     except Exception as e:
-        print("Telegram failed:", e)
+        print("Telegram send failed:", e)
 
 
 def send_long(text):
@@ -136,6 +163,7 @@ def main():
 
     current_ids = {p["id"] for p in current}
 
+    # FIRST RUN
     if old is None:
         save_current(current)
         print("Initial snapshot saved.")
