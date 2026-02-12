@@ -76,15 +76,15 @@ def fetch_all_programs():
             print("Fetch failed:", e)
             return None
 
-        if total is None:
-            total = data.get("total", 0)
+        # 🔹 SOLR STRUCTURE
+        solr_response = data.get("response", {})
+        docs = solr_response.get("docs", [])
+        total = solr_response.get("numFound", 0)
 
-        results = data.get("results", [])
-
-        if not results:
+        if not docs:
             break
 
-        for p in results:
+        for p in docs:
             all_programs.append({
                 "id": p.get("id"),
                 "title": p.get("title"),
@@ -148,7 +148,7 @@ def send_long_message(text):
 def categorize_by_degree(programs):
     categories = {}
     for p in programs:
-        degree = p["degree"] or "Other"
+        degree = p.get("degree") or "Other"
         categories.setdefault(degree, []).append(p)
     return categories
 
