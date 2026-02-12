@@ -46,14 +46,12 @@ def fetch_all_programs():
         response.raise_for_status()
 
         data = response.json()
-
         courses = data.get("courses", [])
 
         if not courses:
             break
 
         all_programs.extend(courses)
-
         offset += LIMIT
 
     return all_programs

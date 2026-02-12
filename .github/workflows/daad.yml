@@ -1,47 +1,41 @@
-name: DAAD Program Watcher
+name: DAAD Programs Fetcher
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Every 6 hours
+  workflow_dispatch:
 
 permissions:
   contents: write
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-concurrency:
-  group: daad-program-watcher
-  cancel-in-progress: false
-
 jobs:
-  check:
+  fetch:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Run watcher
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-        run: python daad_watcher.py
+      - name: Run DAAD fetcher
+        run: python daad_fetch.py
 
-      - name: Commit changes
+      - name: Commit if changed
         run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
           if [ -n "$(git status --porcelain daad_programs.json)" ]; then
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
             git add daad_programs.json
-            git commit -m "Update DAAD programs"
-            git pull --rebase
+            git commit -m "Update DAAD programs dataset"
             git push
           else
-            echo "No changes"
+            echo "No changes detected"
           fi
