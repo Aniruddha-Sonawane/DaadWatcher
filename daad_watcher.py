@@ -103,6 +103,38 @@ def send_long(text):
         send_telegram(text[i:i + MAX])
 
 
+# ---------------- FORMATTER ----------------
+
+def format_program(p):
+    name = p.get("courseName", "N/A")
+    university = p.get("academy", "N/A")
+    city = p.get("city", "N/A")
+    languages = ", ".join(p.get("languages", [])) if p.get("languages") else "N/A"
+    subject = p.get("subject", "N/A")
+    duration = p.get("programmeDuration", "N/A")
+
+    deadline = "N/A"
+    if p.get("date") and isinstance(p["date"], list):
+        deadlines = []
+        for d in p["date"]:
+            if d.get("registrationDeadline"):
+                deadlines.append(d["registrationDeadline"])
+        if deadlines:
+            deadline = ", ".join(deadlines)
+
+    formatted = (
+        f"*{name}*\n"
+        f"University: {university}\n"
+        f"City: {city}\n"
+        f"Languages: {languages}\n"
+        f"Subject: {subject}\n"
+        f"Duration: {duration}\n"
+        f"Application Deadline: {deadline}\n"
+    )
+
+    return formatted
+
+
 # ---------------- MAIN ----------------
 
 def main():
@@ -121,19 +153,16 @@ def main():
     added = []
     removed = []
 
-    # Detect new and removed IDs
     new_ids = set(current_by_id) - set(old_by_id)
     removed_ids = set(old_by_id) - set(current_by_id)
 
-    # Handle pure additions
     for pid in new_ids:
         added.append(current_by_id[pid])
 
-    # Handle pure removals
     for pid in removed_ids:
         removed.append(old_by_id[pid])
 
-    # Handle updates as remove + add
+    # Updates as remove + add
     common_ids = set(current_by_id) & set(old_by_id)
 
     for pid in common_ids:
@@ -148,16 +177,16 @@ def main():
     message = "🎓 *DAAD PROGRAMMES UPDATED*\n\n"
 
     if added:
-        message += "🆕 *Added:*\n"
+        message += "🆕 *Added:*\n\n"
         for p in added:
-            message += f"• {p['courseName']} – {p['academy']} ({p['city']})\n"
-        message += "\n"
-
+            message += format_program(p)
+            message += "\n"
+    
     if removed:
-        message += "❌ *Removed:*\n"
+        message += "❌ *Removed:*\n\n"
         for p in removed:
-            message += f"• {p['courseName']} – {p['academy']}\n"
-        message += "\n"
+            message += format_program(p)
+            message += "\n"
 
     send_long(message)
     save_current(current)
