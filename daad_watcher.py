@@ -118,38 +118,44 @@ def main():
 
     old_by_id = {p["id"]: p for p in old}
 
-    added_ids = set(current_by_id) - set(old_by_id)
+    added = []
+    removed = []
+
+    # Detect new and removed IDs
+    new_ids = set(current_by_id) - set(old_by_id)
     removed_ids = set(old_by_id) - set(current_by_id)
 
-    updated_ids = {
-        pid for pid in current_by_id
-        if pid in old_by_id and current_by_id[pid] != old_by_id[pid]
-    }
+    # Handle pure additions
+    for pid in new_ids:
+        added.append(current_by_id[pid])
 
-    if not added_ids and not removed_ids and not updated_ids:
+    # Handle pure removals
+    for pid in removed_ids:
+        removed.append(old_by_id[pid])
+
+    # Handle updates as remove + add
+    common_ids = set(current_by_id) & set(old_by_id)
+
+    for pid in common_ids:
+        if current_by_id[pid] != old_by_id[pid]:
+            removed.append(old_by_id[pid])
+            added.append(current_by_id[pid])
+
+    if not added and not removed:
         print("No changes detected.")
         return
 
     message = "🎓 *DAAD PROGRAMMES UPDATED*\n\n"
 
-    if added_ids:
+    if added:
         message += "🆕 *Added:*\n"
-        for pid in sorted(added_ids):
-            p = current_by_id[pid]
+        for p in added:
             message += f"• {p['courseName']} – {p['academy']} ({p['city']})\n"
         message += "\n"
 
-    if removed_ids:
+    if removed:
         message += "❌ *Removed:*\n"
-        for pid in sorted(removed_ids):
-            p = old_by_id[pid]
-            message += f"• {p['courseName']} – {p['academy']}\n"
-        message += "\n"
-
-    if updated_ids:
-        message += "🔄 *Updated:*\n"
-        for pid in sorted(updated_ids):
-            p = current_by_id[pid]
+        for p in removed:
             message += f"• {p['courseName']} – {p['academy']}\n"
         message += "\n"
 
