@@ -53,6 +53,10 @@ def fetch_all_programs():
         return None
 
     html = r.text
+    print("========== DEBUG START ==========")
+    print("HTML length:", len(html))
+    print(html[:1500])   # print first 1500 characters
+    print("========== DEBUG END ==========")
 
     # Extract embedded JSON from page
     match = re.search(
