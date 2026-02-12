@@ -31,8 +31,14 @@ def create_session():
     session.mount("http://", adapter)
     session.mount("https://", adapter)
 
+    # Full browser-like headers
     session.headers.update({
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/?q=",
+        "Origin": "https://www2.daad.de",
+        "Connection": "keep-alive"
     })
 
     return session
@@ -65,7 +71,8 @@ def fetch_all_programs():
             "offset": offset,
             "display": "list",
             "isElearning": "",
-            "isSep": ""
+            "isSep": "",
+            "wt": "json"
         }
 
         try:
@@ -76,7 +83,6 @@ def fetch_all_programs():
             print("Fetch failed:", e)
             return None
 
-        # 🔹 SOLR STRUCTURE
         solr_response = data.get("response", {})
         docs = solr_response.get("docs", [])
         total = solr_response.get("numFound", 0)
