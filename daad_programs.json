@@ -69,7 +69,7 @@
     "id": 10476,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6813b64cd845f.jpeg",
     "copyright": "Trier University",
-    "courseName": "52nd Trier International Summer School: Germany and its Neighbouring Countries 2025",
+    "courseName": "52nd Triier International Summer School: Germany and its Neighbouring Countries 2025",
     "courseNameShort": "52nd Trier International Summer School 2025",
     "academy": "Trier University",
     "city": "Trier",
@@ -89,7 +89,7 @@
     "date": [
       {
         "start": "2026-09-03",
-        "end": "2026-08-28",
+        "end": "2026-09-28",
         "costs": 790,
         "registrationDeadline": "2026-07-15"
       }
@@ -49178,42 +49178,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4216,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5b0e93eba3d3f546910328.jpeg",
-    "copyright": "Rhine-Waal University",
-    "courseName": "International Relations, BA",
-    "courseNameShort": "International Relations, BA",
-    "academy": "Rhine-Waal University of Applied Sciences",
-    "city": "Kleve",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>All applicants: 15 July (for the following winter semester)</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Specialist counselling"
-    ],
-    "subject": "International Relations",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4216/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 6312,
     "image": null,
     "copyright": null,
@@ -95647,5 +95611,43 @@
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8416/",
     "requestLanguage": "en"
+  },
+  
+  {
+    "id": 9137,
+    "image": null,
+    "copyright": null,
+    "courseName": "lodjllejef",
+    "courseNameShort": "asdfdgegds",
+    "academy": "sdfsdf",
+    "city": "Möcsdfsdfdskern",
+    "languages": [
+      "Englisdfsh"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "2,777",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application phase</p>\n\n<ul>\n\t<li>from 1 December to 31 March for non-EU applicants who need a visa and</li>\n\t<li>from 1 April to 31 August for EU applicants who don&rsquo;t need a visa</li>\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Specialist counselling | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Social Work",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9137/",
+    "requestLanguage": "en"
   }
+
 ]
