@@ -1,19 +1,21 @@
 import requests
 import json
 import os
-import re
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 # ---------------- CONFIG ----------------
 
-URL = "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/?q="
+BASE_API = "https://www2.daad.de/deutschland/studienangebote/international-programmes/api/solr/en/search.json"
 DATA_FILE = "daad_programs.json"
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
-# ---------------- SESSION ----------------
+LIMIT = 100  # Number of results per request
+
+
+# ---------------- SESSION SETUP ----------------
 
 def create_session():
     session = requests.Session()
@@ -30,11 +32,7 @@ def create_session():
     session.mount("https://", adapter)
 
     session.headers.update({
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/120.0 Safari/537.36"
-        )
+        "User-Agent": "Mozilla/5.0"
     })
 
     return session
@@ -42,61 +40,49 @@ def create_session():
 
 session = create_session()
 
-# ---------------- FETCH PROGRAMS ----------------
+
+# ---------------- FETCH ALL PROGRAMS ----------------
 
 def fetch_all_programs():
-    try:
-        r = session.get(URL, timeout=(10, 60))
-        r.raise_for_status()
-    except requests.exceptions.RequestException as e:
-        print("Fetch failed:", e)
-        return None
+    all_programs = []
+    offset = 0
 
-    html = r.text
-    print("========== DEBUG START ==========")
-    print("HTML length:", len(html))
-    print(html[:1500])   # print first 1500 characters
-    print("========== DEBUG END ==========")
+    while True:
+        params = {
+            "q": "",
+            "limit": LIMIT,
+            "offset": offset,
+            "sort": 4,
+            "display": "list"
+        }
 
-    # Extract embedded JSON from page
-    match = re.search(
-        r'window\.__INITIAL_STATE__\s*=\s*(\{.*?\});',
-        html,
-        re.DOTALL
-    )
+        try:
+            response = session.get(BASE_API, params=params, timeout=(10, 60))
+            response.raise_for_status()
+            data = response.json()
+        except Exception as e:
+            print("Fetch failed:", e)
+            return None
 
-    if not match:
-        print("Embedded JSON not found.")
-        return None
+        results = data.get("results", [])
 
-    json_text = match.group(1)
+        if not results:
+            break
 
-    try:
-        data = json.loads(json_text)
-    except Exception as e:
-        print("JSON parsing failed:", e)
-        return None
+        for p in results:
+            all_programs.append({
+                "id": p.get("id"),
+                "title": p.get("title"),
+                "university": p.get("university"),
+                "degree": p.get("degree"),
+                "city": p.get("city"),
+                "language": p.get("language")
+            })
 
-    # Navigate safely through structure
-    try:
-        results = data["search"]["results"]
-    except Exception:
-        print("Unexpected JSON structure.")
-        return None
+        offset += LIMIT
 
-    programs = []
-
-    for p in results:
-        programs.append({
-            "id": p.get("id"),
-            "title": p.get("title"),
-            "university": p.get("universityName"),
-            "degree": p.get("degreeName"),
-            "city": p.get("city"),
-            "language": ", ".join(p.get("languages", []))
-        })
-
-    return programs
+    print(f"Fetched {len(all_programs)} programs.")
+    return all_programs
 
 
 # ---------------- STORAGE ----------------
@@ -104,11 +90,8 @@ def fetch_all_programs():
 def load_old():
     if not os.path.exists(DATA_FILE):
         return None
-    try:
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return None
+    with open(DATA_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 
 def save_current(data):
@@ -136,25 +119,23 @@ def send_telegram(text):
         print("Telegram send failed:", e)
 
 
-def send_long(text):
+def send_long_message(text):
     MAX = 4000
     for i in range(0, len(text), MAX):
         send_telegram(text[i:i + MAX])
 
 
-# ---------------- CATEGORIZE ----------------
+# ---------------- CATEGORIZATION ----------------
 
-def categorize(programs):
+def categorize_by_degree(programs):
     categories = {}
-
     for p in programs:
         degree = p["degree"] or "Other"
         categories.setdefault(degree, []).append(p)
-
     return categories
 
 
-# ---------------- MAIN ----------------
+# ---------------- MAIN LOGIC ----------------
 
 def main():
     current = fetch_all_programs()
@@ -185,23 +166,23 @@ def main():
     added = [p for p in current if p["id"] in added_ids]
     removed = [p for p in old if p["id"] in removed_ids]
 
-    msg = "🎓 *DAAD PROGRAMMES UPDATED*\n\n"
+    message = "🎓 *DAAD PROGRAMMES UPDATED*\n\n"
 
     if added:
-        msg += "🆕 *New Programmes:*\n"
-        categorized = categorize(added)
+        message += "🆕 *New Programmes:*\n"
+        categorized = categorize_by_degree(added)
 
         for degree, items in categorized.items():
-            msg += f"\n*{degree}*\n"
+            message += f"\n*{degree}*\n"
             for p in items:
-                msg += f"• {p['title']} – {p['university']} ({p['city']})\n"
+                message += f"• {p['title']} – {p['university']} ({p['city']})\n"
 
     if removed:
-        msg += "\n❌ *Removed Programmes:*\n"
+        message += "\n❌ *Removed Programmes:*\n"
         for p in removed:
-            msg += f"• {p['title']} – {p['university']}\n"
+            message += f"• {p['title']} – {p['university']}\n"
 
-    send_long(msg)
+    send_long_message(message)
     save_current(current)
 
 
