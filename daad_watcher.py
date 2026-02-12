@@ -3,6 +3,7 @@ import json
 import os
 
 BASE_API = "https://www2.daad.de/deutschland/studienangebote/international-programmes/api/solr/en/search.json"
+BASE_LINK = "https://www2.daad.de"
 
 DATA_FILE = "daad_programs.json"
 
@@ -66,12 +67,36 @@ def fetch_all_programs():
     return all_programs
 
 
+# ---------------- NORMALIZATION ----------------
+
+def normalize_program(p):
+    return {
+        "courseName": p.get("courseName"),
+        "academy": p.get("academy"),
+        "city": p.get("city"),
+        "languages": sorted(p.get("languages", [])),
+        "subject": p.get("subject"),
+        "programmeDuration": p.get("programmeDuration"),
+        "date": sorted(
+            [
+                {
+                    "start": d.get("start"),
+                    "end": d.get("end"),
+                    "registrationDeadline": d.get("registrationDeadline"),
+                    "costs": d.get("costs"),
+                }
+                for d in p.get("date", [])
+            ],
+            key=lambda x: (x.get("start"), x.get("end"))
+        )
+    }
+
+
 # ---------------- STORAGE ----------------
 
 def load_old():
     if not os.path.exists(DATA_FILE):
         return None
-
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -92,7 +117,7 @@ def send_telegram(text):
             "chat_id": CHAT_ID,
             "text": text,
             "parse_mode": "Markdown",
-            "disable_web_page_preview": True
+            "disable_web_page_preview": False
         }
     )
 
@@ -103,33 +128,58 @@ def send_long(text):
         send_telegram(text[i:i + MAX])
 
 
-# ---------------- FORMATTER ----------------
+# ---------------- FORMAT PROGRAM ----------------
 
 def format_program(p):
     name = p.get("courseName", "N/A")
     university = p.get("academy", "N/A")
     city = p.get("city", "N/A")
-    languages = ", ".join(p.get("languages", [])) if p.get("languages") else "N/A"
+
+    languages = ", ".join(p.get("languages", [])) or "N/A"
+    german_level = ", ".join(p.get("languageLevelGerman", [])) if p.get("languageLevelGerman") else ""
+    english_level = ", ".join(p.get("languageLevelEnglish", [])) if p.get("languageLevelEnglish") else ""
+
     subject = p.get("subject", "N/A")
     duration = p.get("programmeDuration", "N/A")
 
-    deadline = "N/A"
-    if p.get("date") and isinstance(p["date"], list):
-        deadlines = []
+    # Dates & Costs
+    date_info = ""
+    if p.get("date"):
         for d in p["date"]:
-            if d.get("registrationDeadline"):
-                deadlines.append(d["registrationDeadline"])
-        if deadlines:
-            deadline = ", ".join(deadlines)
+            start = d.get("start", "N/A")
+            end = d.get("end", "N/A")
+            cost = d.get("costs", "N/A")
+            deadline = d.get("registrationDeadline", "N/A")
+
+            date_info += (
+                f"Course Dates: {start} → {end}\n"
+                f"Cost: €{cost}\n"
+                f"Registration Deadline: {deadline}\n"
+            )
+
+    tuition = p.get("tuitionFees") or "Not specified"
+
+    mode = "Online Available" if p.get("isCompleteOnlinePossible") else "Onsite"
+
+    financial = p.get("financialSupport") or "Not specified"
+
+    link_path = p.get("link")
+    full_link = f"{BASE_LINK}{link_path}" if link_path else "N/A"
 
     formatted = (
         f"*{name}*\n"
         f"University: {university}\n"
         f"City: {city}\n"
         f"Languages: {languages}\n"
+        f"German Level: {german_level}\n"
+        f"English Level: {english_level}\n"
         f"Subject: {subject}\n"
         f"Duration: {duration}\n"
-        f"Application Deadline: {deadline}\n"
+        f"{date_info}"
+        f"Tuition Fees: {tuition}\n"
+        f"Mode: {mode}\n"
+        f"Financial Support: {financial}\n"
+        f"Link: {full_link}\n"
     )
 
     return formatted
@@ -141,13 +191,12 @@ def main():
     current = fetch_all_programs()
     old = load_old()
 
-    current_by_id = {p["id"]: p for p in current}
-
     if old is None:
         save_current(current)
         print("Initial snapshot saved.")
         return
 
+    current_by_id = {p["id"]: p for p in current}
     old_by_id = {p["id"]: p for p in old}
 
     added = []
@@ -162,11 +211,10 @@ def main():
     for pid in removed_ids:
         removed.append(old_by_id[pid])
 
-    # Updates as remove + add
     common_ids = set(current_by_id) & set(old_by_id)
 
     for pid in common_ids:
-        if current_by_id[pid] != old_by_id[pid]:
+        if normalize_program(current_by_id[pid]) != normalize_program(old_by_id[pid]):
             removed.append(old_by_id[pid])
             added.append(current_by_id[pid])
 
@@ -179,14 +227,12 @@ def main():
     if added:
         message += "🆕 *Added:*\n\n"
         for p in added:
-            message += format_program(p)
-            message += "\n"
-    
+            message += format_program(p) + "\n"
+
     if removed:
         message += "❌ *Removed:*\n\n"
         for p in removed:
-            message += format_program(p)
-            message += "\n"
+            message += format_program(p) + "\n"
 
     send_long(message)
     save_current(current)
