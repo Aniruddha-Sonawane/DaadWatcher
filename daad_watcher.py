@@ -13,6 +13,16 @@ CHAT_ID = os.environ["CHAT_ID"]
 LIMIT = 100
 
 
+# ---------------- SAFE HELPERS ----------------
+
+def safe_list(value):
+    return value if isinstance(value, list) else []
+
+
+def safe_str(value):
+    return "" if value is None else str(value)
+
+
 # ---------------- SESSION ----------------
 
 def create_session():
@@ -70,25 +80,24 @@ def fetch_all_programs():
 # ---------------- NORMALIZATION ----------------
 
 def normalize_program(p):
+
+    dates = []
+    for d in safe_list(p.get("date")):
+        dates.append({
+            "start": safe_str(d.get("start")),
+            "end": safe_str(d.get("end")),
+            "registrationDeadline": safe_str(d.get("registrationDeadline")),
+            "costs": safe_str(d.get("costs")),
+        })
+
     return {
-        "courseName": p.get("courseName"),
-        "academy": p.get("academy"),
-        "city": p.get("city"),
-        "languages": sorted(p.get("languages", [])),
-        "subject": p.get("subject"),
-        "programmeDuration": p.get("programmeDuration"),
-        "date": sorted(
-            [
-                {
-                    "start": d.get("start"),
-                    "end": d.get("end"),
-                    "registrationDeadline": d.get("registrationDeadline"),
-                    "costs": d.get("costs"),
-                }
-                for d in p.get("date", [])
-            ],
-            key=lambda x: (x.get("start"), x.get("end"))
-        )
+        "courseName": safe_str(p.get("courseName")),
+        "academy": safe_str(p.get("academy")),
+        "city": safe_str(p.get("city")),
+        "languages": sorted(safe_list(p.get("languages"))),
+        "subject": safe_str(p.get("subject")),
+        "programmeDuration": safe_str(p.get("programmeDuration")),
+        "date": sorted(dates, key=lambda x: (x["start"], x["end"]))
     }
 
 
@@ -128,45 +137,42 @@ def send_long(text):
         send_telegram(text[i:i + MAX])
 
 
-# ---------------- FORMAT PROGRAM ----------------
+# ---------------- FORMAT ----------------
 
 def format_program(p):
-    name = p.get("courseName", "N/A")
-    university = p.get("academy", "N/A")
-    city = p.get("city", "N/A")
 
-    languages = ", ".join(p.get("languages", [])) or "N/A"
-    german_level = ", ".join(p.get("languageLevelGerman", [])) if p.get("languageLevelGerman") else ""
-    english_level = ", ".join(p.get("languageLevelEnglish", [])) if p.get("languageLevelEnglish") else ""
+    name = safe_str(p.get("courseName"))
+    university = safe_str(p.get("academy"))
+    city = safe_str(p.get("city"))
 
-    subject = p.get("subject", "N/A")
-    duration = p.get("programmeDuration", "N/A")
+    languages = ", ".join(safe_list(p.get("languages"))) or "Not specified"
+    german_level = ", ".join(safe_list(p.get("languageLevelGerman")))
+    english_level = ", ".join(safe_list(p.get("languageLevelEnglish")))
 
-    # Dates & Costs
+    subject = safe_str(p.get("subject")) or "Not specified"
+    duration = safe_str(p.get("programmeDuration")) or "Not specified"
+
     date_info = ""
-    if p.get("date"):
-        for d in p["date"]:
-            start = d.get("start", "N/A")
-            end = d.get("end", "N/A")
-            cost = d.get("costs", "N/A")
-            deadline = d.get("registrationDeadline", "N/A")
+    for d in safe_list(p.get("date")):
+        start = safe_str(d.get("start")) or "N/A"
+        end = safe_str(d.get("end")) or "N/A"
+        cost = safe_str(d.get("costs")) or "N/A"
+        deadline = safe_str(d.get("registrationDeadline")) or "N/A"
 
-            date_info += (
-                f"Course Dates: {start} → {end}\n"
-                f"Cost: €{cost}\n"
-                f"Registration Deadline: {deadline}\n"
-            )
+        date_info += (
+            f"Course Dates: {start} → {end}\n"
+            f"Cost: €{cost}\n"
+            f"Registration Deadline: {deadline}\n"
+        )
 
-    tuition = p.get("tuitionFees") or "Not specified"
-
+    tuition = safe_str(p.get("tuitionFees")) or "Not specified"
     mode = "Online Available" if p.get("isCompleteOnlinePossible") else "Onsite"
-
-    financial = p.get("financialSupport") or "Not specified"
+    financial = safe_str(p.get("financialSupport")) or "Not specified"
 
     link_path = p.get("link")
-    full_link = f"{BASE_LINK}{link_path}" if link_path else "N/A"
+    full_link = f"{BASE_LINK}{link_path}" if link_path else "Not available"
 
-    formatted = (
+    return (
         f"*{name}*\n"
         f"University: {university}\n"
         f"City: {city}\n"
@@ -182,20 +188,30 @@ def format_program(p):
         f"Link: {full_link}\n"
     )
 
-    return formatted
-
 
 # ---------------- MAIN ----------------
 
 def main():
+
     current = fetch_all_programs()
     old = load_old()
 
+    # FIRST RUN
     if old is None:
+
+        message = f"🎓 *DAAD PROGRAMMES INITIAL SNAPSHOT*\n"
+        message += f"Total Programmes: {len(current)}\n\n"
+
+        for p in current:
+            message += format_program(p) + "\n"
+
+        send_long(message)
         save_current(current)
-        print("Initial snapshot saved.")
+
+        print("Initial snapshot saved and sent.")
         return
 
+    # NORMAL RUN
     current_by_id = {p["id"]: p for p in current}
     old_by_id = {p["id"]: p for p in old}
 
@@ -236,6 +252,7 @@ def main():
 
     send_long(message)
     save_current(current)
+
     print("Changes detected and notification sent.")
 
 
