@@ -12,10 +12,10 @@ DATA_FILE = "daad_programs.json"
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
-LIMIT = 100  # Number of results per request
+LIMIT = 100
 
 
-# ---------------- SESSION SETUP ----------------
+# ---------------- SESSION ----------------
 
 def create_session():
     session = requests.Session()
@@ -24,7 +24,7 @@ def create_session():
         total=5,
         backoff_factor=2,
         status_forcelist=[500, 502, 503, 504],
-        allowed_methods=["GET", "POST"]
+        allowed_methods=["GET"]
     )
 
     adapter = HTTPAdapter(max_retries=retry)
@@ -46,14 +46,26 @@ session = create_session()
 def fetch_all_programs():
     all_programs = []
     offset = 0
+    total = None
 
     while True:
         params = {
+            "cert": "",
+            "admReq": "",
+            "langExamPC": "",
+            "langExamLC": "",
+            "langExamSC": "",
+            "langDeAvailable": "",
+            "langEnAvailable": "",
+            "fee": "",
+            "sort": 4,
+            "dur": "",
             "q": "",
             "limit": LIMIT,
             "offset": offset,
-            "sort": 4,
-            "display": "list"
+            "display": "list",
+            "isElearning": "",
+            "isSep": ""
         }
 
         try:
@@ -63,6 +75,9 @@ def fetch_all_programs():
         except Exception as e:
             print("Fetch failed:", e)
             return None
+
+        if total is None:
+            total = data.get("total", 0)
 
         results = data.get("results", [])
 
@@ -81,7 +96,10 @@ def fetch_all_programs():
 
         offset += LIMIT
 
-    print(f"Fetched {len(all_programs)} programs.")
+        if offset >= total:
+            break
+
+    print(f"Fetched {len(all_programs)} programs (Total reported: {total}).")
     return all_programs
 
 
@@ -135,7 +153,7 @@ def categorize_by_degree(programs):
     return categories
 
 
-# ---------------- MAIN LOGIC ----------------
+# ---------------- MAIN ----------------
 
 def main():
     current = fetch_all_programs()
@@ -148,7 +166,6 @@ def main():
 
     current_ids = {p["id"] for p in current}
 
-    # FIRST RUN
     if old is None:
         save_current(current)
         print("Initial snapshot saved.")
