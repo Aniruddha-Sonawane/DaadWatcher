@@ -283,7 +283,7 @@
     "copyright": null,
     "courseName": "Academic German Preparation Course Munich: Intensive Courses",
     "courseNameShort": "Academic German Preparation Course",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Deutsch"
@@ -323,7 +323,7 @@
     "copyright": null,
     "courseName": "Academic German Preparation Course Munich: Intensive Courses at the International University Munich",
     "courseNameShort": "Academic German Preparation Course Munich",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Deutsch"
@@ -20830,7 +20830,7 @@
     "copyright": null,
     "courseName": "Digital Media Manager",
     "courseNameShort": "Digital Media Manager",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Englisch"
@@ -33129,7 +33129,7 @@
     "copyright": null,
     "courseName": "German for Legal Professions",
     "courseNameShort": "German for Legal Professions",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Deutsch"
@@ -33174,7 +33174,7 @@
     "copyright": null,
     "courseName": "German for Medical Professions",
     "courseNameShort": "German for Medical Professions",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Deutsch"
@@ -33723,7 +33723,7 @@
     "copyright": null,
     "courseName": "German Summer Courses in Munich – Language and Culture",
     "courseNameShort": "German Language and Culture",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Deutsch"
@@ -40976,7 +40976,7 @@
     "copyright": null,
     "courseName": "Intercultural Communication",
     "courseNameShort": "Intercultural Communication",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Englisch"
@@ -43597,7 +43597,7 @@
     "copyright": null,
     "courseName": "International Communication and Business",
     "courseNameShort": "International Communication and Business",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Englisch"
@@ -50483,7 +50483,7 @@
     "copyright": null,
     "courseName": "Introduction to Methods of Translation",
     "courseNameShort": "Translation Methods",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Deutsch"
@@ -68910,42 +68910,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4736,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/633443190769e517441898.jpeg",
-    "copyright": "Christian Casper/TUM School of Management",
-    "courseName": "Master's in Management (MSc)",
-    "courseNameShort": "Master's in Management (MSc)",
-    "academy": "Technical University of Munich",
-    "city": "München",
-    "languages": [
-      "Englisch"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "4,000",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The application period runs from <strong>1 April to 31 May </strong>every year (national and international applicants).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4736/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9641,
     "image": null,
     "copyright": null,
@@ -68979,6 +68943,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9641/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4736,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/633443190769e517441898.jpeg",
+    "copyright": "Christian Casper/TUM School of Management",
+    "courseName": "Master's in Management (MSc)",
+    "courseNameShort": "Master's in Management (MSc)",
+    "academy": "Technical University of Munich",
+    "city": "München",
+    "languages": [
+      "Englisch"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "4,000",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The application period runs from <strong>1 April to 31 May </strong>every year (national and international applicants).</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4736/",
     "requestLanguage": "en"
   },
   {
@@ -93743,7 +93743,7 @@
     "copyright": null,
     "courseName": "Translation",
     "courseNameShort": "Translation",
-    "academy": "Internationale Hochschule SDI München/International University SDI München",
+    "academy": "International University SDI München",
     "city": "München",
     "languages": [
       "Deutsch"
