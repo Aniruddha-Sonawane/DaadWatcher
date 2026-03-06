@@ -45293,6 +45293,50 @@
     "requestLanguage": "en"
   },
   {
+    "id": 6311,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ccb076c1947f551055266.jpeg",
+    "copyright": null,
+    "courseName": "International Human Rights and Humanitarian Law",
+    "courseNameShort": "International Human Rights and Humanitarian Law",
+    "academy": "European University Viadrina",
+    "city": "Frankfurt (Oder)",
+    "languages": [
+      "Englisch"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters, 6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "2,633",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>Application for winter semester 2025/2026</strong></p>\r\n\r\n<p><strong>The winter semester 2025/26&nbsp;starts on 1 October 2025.</strong></p>\r\n\r\n<ul>\r\n\t<li>Regular admissions&nbsp;deadline for winter semester 2025-26&nbsp;is 1 September 2025, 11:59 pm (CET).&nbsp;<a href=\"https://europa-uni.submittable.com/submit/313115/winter-semester-2025-2026-ll-m-diploma-and-certificate-application\">Apply here!</a></li>\r\n</ul>\r\n\r\n<p><strong>Application for summer semester 2026</strong></p>\r\n\r\n<p><strong>The summer semester 2026&nbsp;starts on 1 April 2026.</strong></p>\r\n\r\n<ul>\r\n\t<li>Early admissions&nbsp;deadline for summer semester 2026&nbsp;is 1 January 2025 at 11:59 pm (CET).&nbsp;<a href=\"https://europa-uni.submittable.com/submit/326764/summer-semester-2026-ll-m-diploma-and-certificate\">Apply here!</a></li>\r\n\t<li>Regular admissions&nbsp;deadline for summer semester 2026&nbsp;is 15 February 2026&nbsp;at 11:59 pm (CET).&nbsp;<a href=\"https://europa-uni.submittable.com/submit/326764/summer-semester-2026-ll-m-diploma-and-certificate\">Apply here!</a></li>\r\n</ul>",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Specialist counselling | Visa matters"
+    ],
+    "subject": "International Law",
+    "typeOfElearning": [
+      "1",
+      "3",
+      "6",
+      "9",
+      "10",
+      "11",
+      "13"
+    ],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/6311/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4084,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5b2233a9492b9394203059.jpeg",
     "copyright": null,
@@ -58908,50 +58952,6 @@
     "subject": "Financial Management, Insurance",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6098/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 6311,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ccb076c1947f551055266.jpeg",
-    "copyright": null,
-    "courseName": "Master of International Human Rights and Humanitarian Law",
-    "courseNameShort": "Master of International Human Rights and Humanitarian Law",
-    "academy": "European University Viadrina",
-    "city": "Frankfurt (Oder)",
-    "languages": [
-      "Englisch"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters, 6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "2,633",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>Application for winter semester 2025/2026</strong></p>\r\n\r\n<p><strong>The winter semester 2025/26&nbsp;starts on 1 October 2025.</strong></p>\r\n\r\n<ul>\r\n\t<li>Regular admissions&nbsp;deadline for winter semester 2025-26&nbsp;is 1 September 2025, 11:59 pm (CET).&nbsp;<a href=\"https://europa-uni.submittable.com/submit/313115/winter-semester-2025-2026-ll-m-diploma-and-certificate-application\">Apply here!</a></li>\r\n</ul>\r\n\r\n<p><strong>Application for summer semester 2026</strong></p>\r\n\r\n<p><strong>The summer semester 2026&nbsp;starts on 1 April 2026.</strong></p>\r\n\r\n<ul>\r\n\t<li>Early admissions&nbsp;deadline for summer semester 2026&nbsp;is 1 January 2025 at 11:59 pm (CET).&nbsp;<a href=\"https://europa-uni.submittable.com/submit/326764/summer-semester-2026-ll-m-diploma-and-certificate\">Apply here!</a></li>\r\n\t<li>Regular admissions&nbsp;deadline for summer semester 2026&nbsp;is 15 February 2026&nbsp;at 11:59 pm (CET).&nbsp;<a href=\"https://europa-uni.submittable.com/submit/326764/summer-semester-2026-ll-m-diploma-and-certificate\">Apply here!</a></li>\r\n</ul>",
-    "isCompleteOnlinePossible": true,
-    "badgeLabel": "Partly online",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Specialist counselling | Visa matters"
-    ],
-    "subject": "International Law",
-    "typeOfElearning": [
-      "1",
-      "3",
-      "6",
-      "9",
-      "10",
-      "11",
-      "13"
-    ],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/6311/",
     "requestLanguage": "en"
   },
   {
@@ -72675,42 +72675,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9905,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/676124c406745352524513.jpeg",
-    "copyright": null,
-    "courseName": "Mechanical Engineering",
-    "courseNameShort": "Mechanical Engineering",
-    "academy": "Aalen University",
-    "city": "Aalen",
-    "languages": [
-      "Englisch"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "1,500",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>15 March 2026 for winter semester 2026/2027</li>\r\n\t<li>15 September 2026 for summer semester 2027</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Support with registration procedures | Accompanying programme"
-    ],
-    "subject": "Mechanical Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9905/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9993,
     "image": null,
     "copyright": null,
@@ -72745,6 +72709,42 @@
     "subject": "Mechanical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9993/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9905,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/676124c406745352524513.jpeg",
+    "copyright": null,
+    "courseName": "Mechanical Engineering",
+    "courseNameShort": "Mechanical Engineering",
+    "academy": "Aalen University",
+    "city": "Aalen",
+    "languages": [
+      "Englisch"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "1,500",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>10 June 2026 for winter semester 2026/2027</li>\r\n\t<li>15 September 2026 for summer semester 2027</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Support with registration procedures | Accompanying programme"
+    ],
+    "subject": "Mechanical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9905/",
     "requestLanguage": "en"
   },
   {
@@ -73610,7 +73610,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>15 March 2026 for winter semester 2026/2027</li>\r\n\t<li>15 September 2026 for summer semester 2027</li>\r\n</ul>",
+    "applicationDeadline": "<ul>\r\n\t<li>10 June 2026 for winter semester 2026/2027</li>\r\n\t<li>15 September 2026 for summer semester 2027</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -86724,7 +86724,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>15 March 2026 for winter semester 2026/2027</li>\r\n\t<li>15 September 2026 for summer semester 2027</li>\r\n</ul>",
+    "applicationDeadline": "<ul>\r\n\t<li>10 June 2026 for winter semester 2026/2027</li>\r\n\t<li>15 September 2026 for summer semester 2027</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
