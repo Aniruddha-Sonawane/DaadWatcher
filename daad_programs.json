@@ -5976,7 +5976,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>For international</strong> (non-EU) applicants (with school leaving certificates from countries outside the EU), the <strong>application deadline is 15 June.&nbsp;</strong></p>\r\n\r\n<p><strong>For German and EU applicants</strong>, the application deadline is 15 July.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>",
+    "applicationDeadline": "<p>We strongly recommend applying as early as possible, particularly for international (non-EU) students, as visa procedures may take several months.</p>\r\n\r\n<p><strong>For international</strong> (non-EU) applicants (with school leaving certificates from countries outside the EU), the <strong>application deadline is 15 June.&nbsp;</strong></p>\r\n\r\n<p><strong>For German and EU applicants</strong>, the application deadline is 15 July.</p>\r\n\r\n<p>Application deadlines may be extended. Please refer to the study programme website for more information.</p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -20417,6 +20417,45 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4427/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7648,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6273eb790629b420611636.jpeg",
+    "copyright": "Adam Czernenko",
+    "courseName": "Digital Entrepreneurship",
+    "courseNameShort": "Digital Entrepreneurship",
+    "academy": "European University Viadrina",
+    "city": "Frankfurt (Oder)",
+    "languages": [
+      "Englisch"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application period: 1 May to 31 May</p>",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Cultural and linguistic preparation | Visa matters | Tutors"
+    ],
+    "subject": "Political Science",
+    "typeOfElearning": [
+      "9",
+      "10"
+    ],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7648/",
     "requestLanguage": "en"
   },
   {
@@ -44234,7 +44273,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The application deadline is 15 July. If there are still places available after the deadline, applications can normally be submitted until the start of lectures.</p>",
+    "applicationDeadline": "<p>The application deadline depends on individual circumstances. We strongly recommend applying as soon as possible, particularly for international (non-EU) students, as visa procedures may take several months.</p>\r\n\r\n<p>The application deadline is 15 July. If there are still places available after the deadline, applications can normally be submitted until the start of lectures.</p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -58427,45 +58466,6 @@
     "subject": "Political Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7169/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 7648,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6273eb790629b420611636.jpeg",
-    "copyright": "Adam Czernenko",
-    "courseName": "Master of Digital Entrepreneurship",
-    "courseNameShort": "Master of Digital Entrepreneurship",
-    "academy": "European University Viadrina",
-    "city": "Frankfurt (Oder)",
-    "languages": [
-      "Englisch"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Application period: 1 May to 31 May</p>",
-    "isCompleteOnlinePossible": true,
-    "badgeLabel": "Partly online",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Cultural and linguistic preparation | Visa matters | Tutors"
-    ],
-    "subject": "Political Science",
-    "typeOfElearning": [
-      "9",
-      "10"
-    ],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7648/",
     "requestLanguage": "en"
   },
   {
