@@ -72806,7 +72806,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>EU applicants: 15 January for summer intake and 15 July for winter intake</p>\r\n\r\n<p>Non-EU applicants: 30 October for summer intake and 30 April for winter intake</p>",
+    "applicationDeadline": "<p>Application is possible from the<strong>&nbsp;beginning of May</strong>&nbsp;for the winter semester and from the&nbsp;<strong>beginning of November</strong>&nbsp;for the summer semester!</p>",
     "isCompleteOnlinePossible": true,
     "badgeLabel": "Hybrid",
     "financialSupport": null,
@@ -72814,7 +72814,7 @@
     "supportInternationalStudents": [
       "Specialist counselling | Visa matters | Support with registration procedures | Welcome event | Accompanying programme"
     ],
-    "subject": "Mechanical Engineering",
+    "subject": "Electrical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9993/",
     "requestLanguage": "en"
@@ -78468,6 +78468,42 @@
     "subject": "Applied Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7877/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 8581,
+    "image": null,
+    "copyright": null,
+    "courseName": "MSc Medical Sciences – Cardiovascular Research",
+    "courseNameShort": "MSc Medical Sciences – Cardiovascular Research",
+    "academy": "University of Freiburg",
+    "city": "Freiburg im Breisgau",
+    "languages": [
+      "Englisch"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "2 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>31 March for the following winter semester</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Help with finding accommodation"
+    ],
+    "subject": "Human Biology, Biomedicine",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8581/",
     "requestLanguage": "en"
   },
   {
