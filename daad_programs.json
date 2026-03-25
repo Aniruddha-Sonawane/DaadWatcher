@@ -10603,42 +10603,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 8969,
-    "image": null,
-    "copyright": null,
-    "courseName": "Biology",
-    "courseNameShort": "Biology",
-    "academy": "Carl von Ossietzky University of Oldenburg",
-    "city": "Oldenburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>General application deadline: 15 June for the following winter semester</li>\r\n\t<li>We appreciate earlier applications from international applicants (e.g. by 15 April) because applications via uni-assist need additional processing time.</li>\r\n\t<li>Application deadline for entry into higher semesters: 15 July and 15 January</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling"
-    ],
-    "subject": "Biology",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8969/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 7740,
     "image": null,
     "copyright": null,
@@ -10676,6 +10640,42 @@
       "15"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7740/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 8969,
+    "image": null,
+    "copyright": null,
+    "courseName": "Biology",
+    "courseNameShort": "Biology",
+    "academy": "Carl von Ossietzky University of Oldenburg",
+    "city": "Oldenburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>General application deadline: 15 June for the following winter semester</li>\r\n\t<li>We appreciate earlier applications from international applicants (e.g. by 15 April) because applications via uni-assist need additional processing time.</li>\r\n\t<li>Application deadline for entry into higher semesters: 15 July and 15 January</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling"
+    ],
+    "subject": "Biology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8969/",
     "requestLanguage": "en"
   },
   {
@@ -19224,42 +19224,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 7660,
-    "image": null,
-    "copyright": null,
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "Technische Universität Braunschweig",
-    "city": "Braunschweig",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Winter semester:</p>\r\n\r\n<ul>\r\n\t<li>1 February - 15 March<strong>&nbsp;</strong>(for non-EU applicants)</li>\r\n\t<li>1 June - 15 July (for EU applicants and applicants not subject to visa requirements)</li>\r\n</ul>\r\n\r\n<p>Summer semester:</p>\r\n\r\n<ul>\r\n\t<li>1 August - 15 September&nbsp;(for non-EU applicants)</li>\r\n\t<li>1 December - 15 January&nbsp;(for EU applicants and applicants not subject to visa requirements)</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Accompanying programme | Cultural and linguistic preparation"
-    ],
-    "subject": "Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7660/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9965,
     "image": null,
     "copyright": null,
@@ -19329,6 +19293,42 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7636/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7660,
+    "image": null,
+    "copyright": null,
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "Technische Universität Braunschweig",
+    "city": "Braunschweig",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Winter semester:</p>\r\n\r\n<ul>\r\n\t<li>1 February - 15 March<strong>&nbsp;</strong>(for non-EU applicants)</li>\r\n\t<li>1 June - 15 July (for EU applicants and applicants not subject to visa requirements)</li>\r\n</ul>\r\n\r\n<p>Summer semester:</p>\r\n\r\n<ul>\r\n\t<li>1 August - 15 September&nbsp;(for non-EU applicants)</li>\r\n\t<li>1 December - 15 January&nbsp;(for EU applicants and applicants not subject to visa requirements)</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Accompanying programme | Cultural and linguistic preparation"
+    ],
+    "subject": "Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7660/",
     "requestLanguage": "en"
   },
   {
@@ -31222,7 +31222,7 @@
     "date": [
       {
         "start": "2026-09-14",
-        "end": "2027-07-16"
+        "end": "2027-06-18"
       }
     ],
     "typeCourseDate": "The date of the course has been set",
@@ -34075,43 +34075,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 3656,
-    "image": null,
-    "copyright": null,
-    "courseName": "German-French Studies",
-    "courseNameShort": "German-French Studies",
-    "academy": "University of Bonn",
-    "city": "Bonn",
-    "languages": [
-      "German",
-      "French"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>End of June</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "German Studies",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3656/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 7725,
     "image": null,
     "copyright": null,
@@ -34146,6 +34109,43 @@
     "subject": "German Studies",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7725/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 3656,
+    "image": null,
+    "copyright": null,
+    "courseName": "German-French Studies",
+    "courseNameShort": "German-French Studies",
+    "academy": "University of Bonn",
+    "city": "Bonn",
+    "languages": [
+      "German",
+      "French"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>End of June</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "German Studies",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3656/",
     "requestLanguage": "en"
   },
   {
@@ -34225,43 +34225,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 3657,
-    "image": null,
-    "copyright": null,
-    "courseName": "German-Italian Studies",
-    "courseNameShort": "German-Italian Studies",
-    "academy": "University of Bonn",
-    "city": "Bonn",
-    "languages": [
-      "German",
-      "Italian"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Phase of application for the following winter semester: from 2 June to 15 September 2025</p>\r\n\r\n<p>For information on deadlines for the next summer semester, please visit:&nbsp;<a href=\"https://www.romanistik.uni-bonn.de/studium/ich-will-romanist-in-werden/ich-will-im-master-studieren/deutsch-italienische-studien\">https://www.romanistik.uni-bonn.de/studium/ich-will-romanist-in-werden/ich-will-im-master-studieren/deutsch-italienische-studien</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Specialist counselling"
-    ],
-    "subject": "German Studies",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3657/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3846,
     "image": null,
     "copyright": null,
@@ -34298,6 +34261,43 @@
     "subject": "German Studies",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3846/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 3657,
+    "image": null,
+    "copyright": null,
+    "courseName": "German-Italian Studies",
+    "courseNameShort": "German-Italian Studies",
+    "academy": "University of Bonn",
+    "city": "Bonn",
+    "languages": [
+      "German",
+      "Italian"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Phase of application for the following winter semester: from 2 June to 15 September 2025</p>\r\n\r\n<p>For information on deadlines for the next summer semester, please visit:&nbsp;<a href=\"https://www.romanistik.uni-bonn.de/studium/ich-will-romanist-in-werden/ich-will-im-master-studieren/deutsch-italienische-studien\">https://www.romanistik.uni-bonn.de/studium/ich-will-romanist-in-werden/ich-will-im-master-studieren/deutsch-italienische-studien</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Specialist counselling"
+    ],
+    "subject": "German Studies",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3657/",
     "requestLanguage": "en"
   },
   {
@@ -42004,6 +42004,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 9068,
+    "image": null,
+    "copyright": null,
+    "courseName": "International Business",
+    "courseNameShort": "International Business",
+    "academy": "Anhalt University of Applied Sciences",
+    "city": "Bernburg / Saale",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>15 March to 15 August (winter)<br />\r\n15 September to 15 January (summer)</p>\r\n\r\n<p>We only accept 50 students per semester. A personal online interview may be required for final assessment.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Welcome event"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9068/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3930,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67f7ab9e7bf32.jpeg",
     "copyright": "Hochschule Heilbronn",
@@ -42043,42 +42079,6 @@
       "11"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3930/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9068,
-    "image": null,
-    "copyright": null,
-    "courseName": "International Business",
-    "courseNameShort": "International Business",
-    "academy": "Anhalt University of Applied Sciences",
-    "city": "Bernburg / Saale",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>15 March to 15 August (winter)<br />\r\n15 September to 15 January (summer)</p>\r\n\r\n<p>We only accept 50 students per semester. A personal online interview may be required for final assessment.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Welcome event"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9068/",
     "requestLanguage": "en"
   },
   {
