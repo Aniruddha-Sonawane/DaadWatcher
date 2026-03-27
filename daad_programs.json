@@ -61907,42 +61907,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 5616,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6093d4957d72f907891360.jpeg",
-    "copyright": "Universität Paderborn, Judith Kraft",
-    "courseName": "Master of Science in Computer Science",
-    "courseNameShort": "Master of Science in Computer Science",
-    "academy": "Paderborn University",
-    "city": "Paderborn",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Winter semester (staring in October):<br />\r\n31 May for international applicants<br />\r\n(21 September for applications from Germany/EU)</p>\r\n\r\n<p>Summer semester (starting in April):<br />\r\n30 November for international applicants<br />\r\n(21 March for applications from Germany/EU)</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Specialist counselling | Buddy programme"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/5616/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 6148,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ce3f62403e98878484485.jpeg",
     "copyright": "Raissa Nickel, Uni Kiel",
@@ -61976,6 +61940,42 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6148/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5616,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6093d4957d72f907891360.jpeg",
+    "copyright": "Universität Paderborn, Judith Kraft",
+    "courseName": "Master of Science in Computer Science",
+    "courseNameShort": "Master of Science in Computer Science",
+    "academy": "Paderborn University",
+    "city": "Paderborn",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Winter semester (staring in October):<br />\r\n31 May for international applicants<br />\r\n(21 September for applications from Germany/EU)</p>\r\n\r\n<p>Summer semester (starting in April):<br />\r\n30 November for international applicants<br />\r\n(21 March for applications from Germany/EU)</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Specialist counselling | Buddy programme"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5616/",
     "requestLanguage": "en"
   },
   {
@@ -66411,7 +66411,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>1 April 2026</p>\r\n\r\n<p>For more information on the application procedure and deadlines, please refer to <a href=\"https://www.eah-jena.de/en/study-programme/study-program/master-scientific-instrumentation\">https://www.eah-jena.de/en/study-programme/study-program/master-scientific-instrumentation</a>.</p>",
+    "applicationDeadline": "<p>1 May 2026</p>\r\n\r\n<p>For more information on the application procedure and deadlines, please refer to <a href=\"https://www.eah-jena.de/en/study-programme/study-program/master-scientific-instrumentation\">https://www.eah-jena.de/en/study-programme/study-program/master-scientific-instrumentation</a>.</p>",
     "isCompleteOnlinePossible": true,
     "badgeLabel": "Partly online",
     "financialSupport": null,
@@ -71019,6 +71019,40 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4873,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ae97508772ce602941443.jpeg",
+    "copyright": "M. Michalewicz / FH Münster",
+    "courseName": "Materials Science and Engineering (MSc)",
+    "courseNameShort": "Materials Science and Engineering (MSc)",
+    "academy": "FH Münster University of Applied Sciences",
+    "city": "Steinfurt",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>31 May</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Ceramics (Materials Engineering)",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4873/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 6908,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5eaad47edf0d1653652457.jpeg",
     "copyright": "Adobe Stock",
@@ -71052,40 +71086,6 @@
     "subject": "Bioengineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6908/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4873,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ae97508772ce602941443.jpeg",
-    "copyright": "M. Michalewicz / FH Münster",
-    "courseName": "Materials Science and Engineering (MSc)",
-    "courseNameShort": "Materials Science and Engineering (MSc)",
-    "academy": "FH Münster University of Applied Sciences",
-    "city": "Steinfurt",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>31 May</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": null,
-    "subject": "Ceramics (Materials Engineering)",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4873/",
     "requestLanguage": "en"
   },
   {
@@ -71936,42 +71936,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 7037,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/635151ff22e6d058095965.jpeg",
-    "copyright": null,
-    "courseName": "Max Planck School Matter to Life – Master's to PhD Direct Track Programme",
-    "courseNameShort": "Max Planck School Matter to Life (Master of Science/PhD)",
-    "academy": "Heidelberg University",
-    "city": "Heidelberg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "9 semesters or more",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applications must be submitted by 1 December for a study start&nbsp;in September of the following year.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": true,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Bioengineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7037/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 6280,
     "image": null,
     "copyright": null,
@@ -72015,6 +71979,42 @@
       "13"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6280/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7037,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/635151ff22e6d058095965.jpeg",
+    "copyright": null,
+    "courseName": "Max Planck School Matter to Life – Master's to PhD Direct Track Programme",
+    "courseNameShort": "Max Planck School Matter to Life (Master of Science/PhD)",
+    "academy": "Heidelberg University",
+    "city": "Heidelberg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "9 semesters or more",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Applications must be submitted by 1 December for a study start&nbsp;in September of the following year.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": true,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "Bioengineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7037/",
     "requestLanguage": "en"
   },
   {
@@ -73691,42 +73691,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10523,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/681a195ccb0aa.jpeg",
-    "copyright": "Hochschule Nordhausen",
-    "courseName": "Mechatronics",
-    "courseNameShort": "Mechatronics",
-    "academy": "Nordhausen University of Applied Sciences",
-    "city": "Nordhausen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>30 April 2026&nbsp;(winter semester 2026/2027 and summer semester 2027)</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Welcome event | Tutors | Cultural and linguistic preparation | Support with registration procedures"
-    ],
-    "subject": "Mechatronics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10523/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3782,
     "image": null,
     "copyright": null,
@@ -73869,6 +73833,42 @@
     "subject": "Mechanical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3750/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10523,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/681a195ccb0aa.jpeg",
+    "copyright": "Hochschule Nordhausen",
+    "courseName": "Mechatronics",
+    "courseNameShort": "Mechatronics",
+    "academy": "Nordhausen University of Applied Sciences",
+    "city": "Nordhausen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters, 4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>30 April 2026&nbsp;(winter semester 2026/2027 and summer semester 2027)</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Welcome event | Tutors | Cultural and linguistic preparation | Support with registration procedures"
+    ],
+    "subject": "Mechatronics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10523/",
     "requestLanguage": "en"
   },
   {
@@ -92046,42 +92046,6 @@
     "subject": "Electrical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8585/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9591,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661502940e22c340607420.jpeg",
-    "copyright": null,
-    "courseName": "Sustainable Engineering and Project Management (MBA and Eng)",
-    "courseNameShort": "Sustainable Engineering and Project Management (MBA and Eng)",
-    "academy": "Hof University of Applied Sciences",
-    "city": "Hof",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "3,300",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Our <strong><a href=\"https://www3.primuss.de/cgi-bin/bew_anmeldung_v2/index.pl?Session=&amp;FH=fhh&amp;Email=&amp;Portal=1&amp;Language=en\">application portal</a></strong> is open during the following application periods:</p>\r\n\r\n<ul>\r\n\t<li>5 November &ndash; 30 November for the following summer semester</li>\r\n\t<li>15 April &ndash; 31 May for the following winter semester</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Environmental Protection Technology",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9591/",
     "requestLanguage": "en"
   },
   {
