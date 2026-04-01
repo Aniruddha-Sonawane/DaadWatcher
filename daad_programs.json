@@ -34758,8 +34758,8 @@
     "id": 9690,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6809f93535b17.jpeg",
     "copyright": "Leuphana University",
-    "courseName": "Global Environmental and Sustainability Studies (BSc)",
-    "courseNameShort": "Global Environmental and Sustainability Studies (BSc)",
+    "courseName": "Global Environmental and Sustainability Sciences (BSc)",
+    "courseNameShort": "Global Environmental and Sustainability Sciences (BSc)",
     "academy": "Leuphana University Lüneburg",
     "city": "Lüneburg",
     "languages": [
@@ -61789,6 +61789,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 5616,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6093d4957d72f907891360.jpeg",
+    "copyright": "Universität Paderborn, Judith Kraft",
+    "courseName": "Master of Science in Computer Science",
+    "courseNameShort": "Master of Science in Computer Science",
+    "academy": "Paderborn University",
+    "city": "Paderborn",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Winter semester (staring in October):<br />\r\n31 May for international applicants<br />\r\n(21 September for applications from Germany/EU)</p>\r\n\r\n<p>Summer semester (starting in April):<br />\r\n30 November for international applicants<br />\r\n(21 March for applications from Germany/EU)</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Specialist counselling | Buddy programme"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5616/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 6148,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ce3f62403e98878484485.jpeg",
     "copyright": "Raissa Nickel, Uni Kiel",
@@ -61895,42 +61931,6 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4455/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 5616,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6093d4957d72f907891360.jpeg",
-    "copyright": "Universität Paderborn, Judith Kraft",
-    "courseName": "Master of Science in Computer Science",
-    "courseNameShort": "Master of Science in Computer Science",
-    "academy": "Paderborn University",
-    "city": "Paderborn",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Winter semester (staring in October):<br />\r\n31 May for international applicants<br />\r\n(21 September for applications from Germany/EU)</p>\r\n\r\n<p>Summer semester (starting in April):<br />\r\n30 November for international applicants<br />\r\n(21 March for applications from Germany/EU)</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Specialist counselling | Buddy programme"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/5616/",
     "requestLanguage": "en"
   },
   {
@@ -62588,42 +62588,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4076,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Economics",
-    "courseNameShort": "Master of Science in Economics",
-    "academy": "University of Hamburg",
-    "city": "Hamburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Application period: from 15 February until 31 March<br />\r\nFor details, see the <a href=\"http://www.wiso.uni-hamburg.de/msc-econ\">course website</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event"
-    ],
-    "subject": "Economics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4076/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4236,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cc701278fb84986763078.jpeg",
     "copyright": "Trier University",
@@ -62657,6 +62621,42 @@
     "subject": "Financial Management, Insurance",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4236/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4076,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Economics",
+    "courseNameShort": "Master of Science in Economics",
+    "academy": "University of Hamburg",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application period: from 15 February until 31 March<br />\r\nFor details, see the <a href=\"http://www.wiso.uni-hamburg.de/msc-econ\">course website</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event"
+    ],
+    "subject": "Economics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4076/",
     "requestLanguage": "en"
   },
   {
@@ -71230,42 +71230,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 5609,
-    "image": null,
-    "copyright": null,
-    "courseName": "Mathematical Physics (MSc)",
-    "courseNameShort": "Mathematical Physics (MSc)",
-    "academy": "University of Hamburg",
-    "city": "Hamburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Winter semester: 1 May&nbsp;to 15 June<br />\r\nSummer semester: 1 December to 15 January</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Support with registration procedures"
-    ],
-    "subject": "Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/5609/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4741,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ae3218f6f060823222816.jpeg",
     "copyright": "University of Tübingen",
@@ -71299,6 +71263,42 @@
     "subject": "Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4741/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5609,
+    "image": null,
+    "copyright": null,
+    "courseName": "Mathematical Physics (MSc)",
+    "courseNameShort": "Mathematical Physics (MSc)",
+    "academy": "University of Hamburg",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Winter semester: 1 May&nbsp;to 15 June<br />\r\nSummer semester: 1 December to 15 January</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Support with registration procedures"
+    ],
+    "subject": "Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5609/",
     "requestLanguage": "en"
   },
   {
@@ -72420,42 +72420,6 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10435/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9080,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6464ff64c1abe336822925.jpeg",
-    "copyright": "RWU",
-    "courseName": "MBA International Business Management & Sustainability",
-    "courseNameShort": "MBA International Business Management & Sustainability",
-    "academy": "University of Applied Sciences Ravensburg-Weingarten",
-    "city": "Weingarten",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "5 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "3,590",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Summer semester: 15 November<br />\r\nWinter semester: 15 April</p>\r\n\r\n<p>Late applications: e-mail Prof Dr Barbara Niersbach (Dean of MBA programme) at: <a href=\"mailto:Barbara.Niersbach@rwu.de\">Barbara.Niersbach@rwu.de</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Accompanying programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures | Cultural and linguistic preparation"
-    ],
-    "subject": "International Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9080/",
     "requestLanguage": "en"
   },
   {
@@ -77940,42 +77904,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9755,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6634a4da5ebcb194692622.jpeg",
-    "copyright": "UHH",
-    "courseName": "MSc in Business Administration",
-    "courseNameShort": "MSc in Business Administration",
-    "academy": "University of Hamburg",
-    "city": "Hamburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applications from 1 May to 15 June each year, for a start in the coming winter semester (from October)</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9755/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 10333,
     "image": null,
     "copyright": null,
@@ -78009,6 +77937,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10333/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9755,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6634a4da5ebcb194692622.jpeg",
+    "copyright": "UHH",
+    "courseName": "MSc in Business Administration",
+    "courseNameShort": "MSc in Business Administration",
+    "academy": "University of Hamburg",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Applications from 1 May to 15 June each year, for a start in the coming winter semester (from October)</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9755/",
     "requestLanguage": "en"
   },
   {
