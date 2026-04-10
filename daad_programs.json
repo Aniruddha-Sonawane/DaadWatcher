@@ -40650,42 +40650,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10366,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/680f515be7de1.jpeg",
-    "copyright": null,
-    "courseName": "Intelligent Mechatronic Systems",
-    "courseNameShort": "Intelligent Mechatronic Systems",
-    "academy": "Heilbronn University of Applied Sciences",
-    "city": "Heilbronn",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>All application documents must be handed in by 15 September.</p>\r\n\r\n<p>Thus, all required documents (e.g. language certificates, confirmation of university entrance qualification, etc.) must be completed by this time.</p>\r\n\r\n<p>However,<strong> we strongly recommend to send all documents as early as possible to allow enough time for the visa process and/or organisational matters.</strong></p>\r\n\r\n<p>Please check the programme website for any updates regarding the application deadline.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Accompanying programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Electronics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10366/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 10372,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/680f7e0f8a014.jpeg",
     "copyright": null,
@@ -40719,6 +40683,42 @@
     "subject": "Electronics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10372/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10366,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/680f515be7de1.jpeg",
+    "copyright": null,
+    "courseName": "Intelligent Mechatronic Systems",
+    "courseNameShort": "Intelligent Mechatronic Systems",
+    "academy": "Heilbronn University of Applied Sciences",
+    "city": "Heilbronn",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>All application documents must be handed in by 15 September.</p>\r\n\r\n<p>Thus, all required documents (e.g. language certificates, confirmation of university entrance qualification, etc.) must be completed by this time.</p>\r\n\r\n<p>However,<strong> we strongly recommend to send all documents as early as possible to allow enough time for the visa process and/or organisational matters.</strong></p>\r\n\r\n<p>Please check the programme website for any updates regarding the application deadline.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Accompanying programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Electronics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10366/",
     "requestLanguage": "en"
   },
   {
@@ -41959,6 +41959,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 9068,
+    "image": null,
+    "copyright": null,
+    "courseName": "International Business",
+    "courseNameShort": "International Business",
+    "academy": "Anhalt University of Applied Sciences",
+    "city": "Bernburg / Saale",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>15 March to 15 August (winter)<br />\r\n15 September to 15 January (summer)</p>\r\n\r\n<p>We only accept 50 students per semester. A personal online interview may be required for final assessment.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Welcome event"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9068/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3930,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67f7ab9e7bf32.jpeg",
     "copyright": "Hochschule Heilbronn",
@@ -41998,42 +42034,6 @@
       "11"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3930/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9068,
-    "image": null,
-    "copyright": null,
-    "courseName": "International Business",
-    "courseNameShort": "International Business",
-    "academy": "Anhalt University of Applied Sciences",
-    "city": "Bernburg / Saale",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>15 March to 15 August (winter)<br />\r\n15 September to 15 January (summer)</p>\r\n\r\n<p>We only accept 50 students per semester. A personal online interview may be required for final assessment.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Welcome event"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9068/",
     "requestLanguage": "en"
   },
   {
@@ -55379,6 +55379,50 @@
     "requestLanguage": "en"
   },
   {
+    "id": 7705,
+    "image": null,
+    "copyright": null,
+    "courseName": "Marine Geosciences",
+    "courseNameShort": "Marine Geosciences",
+    "academy": "University of Bremen",
+    "city": "Bremen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The application deadline is 15 July for the following winter semester and 15 January for the following summer semester; non-EU applicants need a VPD from uni-assist to apply.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Cultural and linguistic preparation"
+    ],
+    "subject": "Geophysics",
+    "typeOfElearning": [
+      "1",
+      "3",
+      "5",
+      "10",
+      "11",
+      "13",
+      "14"
+    ],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7705/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3712,
     "image": null,
     "copyright": null,
@@ -55422,50 +55466,6 @@
       "14"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3712/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 7705,
-    "image": null,
-    "copyright": null,
-    "courseName": "Marine Geosciences",
-    "courseNameShort": "Marine Geosciences",
-    "academy": "University of Bremen",
-    "city": "Bremen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The application deadline is 15 July for the following winter semester and 15 January for the following summer semester; non-EU applicants need a VPD from uni-assist to apply.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Cultural and linguistic preparation"
-    ],
-    "subject": "Geophysics",
-    "typeOfElearning": [
-      "1",
-      "3",
-      "5",
-      "10",
-      "11",
-      "13",
-      "14"
-    ],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7705/",
     "requestLanguage": "en"
   },
   {
@@ -68350,42 +68350,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9843,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66f4059f92c4c781347245.jpeg",
-    "copyright": "Berlin&Cramer",
-    "courseName": "Master's in Finance (MSc)",
-    "courseNameShort": "Master's in Finance (MSc)",
-    "academy": "WHU - Otto Beisheim School of Management",
-    "city": "Düsseldorf",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "3 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "9,900",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Financial Management, Insurance",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9843/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3650,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5e99676ad56c9039139359.jpeg",
     "copyright": "Universität Ulm",
@@ -68455,6 +68419,42 @@
     "subject": "Financial Management, Insurance",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3955/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9843,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66f4059f92c4c781347245.jpeg",
+    "copyright": "Berlin&Cramer",
+    "courseName": "Master's in Finance (MSc)",
+    "courseNameShort": "Master's in Finance (MSc)",
+    "academy": "WHU - Otto Beisheim School of Management",
+    "city": "Düsseldorf",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "3 semesters, 4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "9,900",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Financial Management, Insurance",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9843/",
     "requestLanguage": "en"
   },
   {
@@ -68939,42 +68939,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9758,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/663b9c576e15e382427751.jpeg",
-    "copyright": "Julia Berlin Photography",
-    "courseName": "Master's in Management (MSc)",
-    "courseNameShort": "Master's in Management (MSc)",
-    "academy": "WHU - Otto Beisheim School of Management",
-    "city": "Vallendar",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "9,900",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9758/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3938,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661d4bca7b994490606779.jpeg",
     "copyright": "EBS Universität",
@@ -69083,6 +69047,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 9758,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/663b9c576e15e382427751.jpeg",
+    "copyright": "Julia Berlin Photography",
+    "courseName": "Master's in Management (MSc)",
+    "courseNameShort": "Master's in Management (MSc)",
+    "academy": "WHU - Otto Beisheim School of Management",
+    "city": "Vallendar",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "9,900",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9758/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 5676,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/68109dd2a2e0b.jpeg",
     "copyright": null,
@@ -69154,42 +69154,6 @@
       "1"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3709/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4168,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661e9cb7d14af398114668.jpeg",
-    "copyright": "EBS Universität",
-    "courseName": "Master's in Marketing (MSc)",
-    "courseNameShort": "Master's in Marketing",
-    "academy": "EBS Universität für Wirtschaft und Recht",
-    "city": "Oestrich-Winkel",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "2 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": null,
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>EBS Universit&auml;t conducts a holistic selection process. We assess your scores in the context of your overall profile, professional experience and background.</p>\r\n\r\n<p><strong>There are no application deadlines</strong> at EBS; however, early application is particularly recommended for international candidates and scholarship seekers.</p>\r\n\r\n<p><strong>Application recommendation for non-EU applicants with visa requirements:</strong><br />\r\nTo start in the autumn semester: end of May<br />\r\nTo start in the spring semester: end of September</p>\r\n\r\n<p><strong>Please apply well in advance,</strong> considering the duration of the visa process in your home country.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Welcome event | Help with finding accommodation"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4168/",
     "requestLanguage": "en"
   },
   {
