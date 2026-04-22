@@ -69737,7 +69737,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Please inform yourself about the current information at the <a href=\"https://www.th-bingen.de/studiengaenge/landwirtschaft-und-umwelt/ueberblick\">Bingen UAS website</a>:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://www.th-bingen.de/studium/master/sustainable-intensification-of-agricultural-production\">https://www.th-bingen.de/studium/master/sustainable-intensification-of-agricultural-production</a></li>\r\n\t<li><a href=\"https://www.th-bingen.de/en/studium/vor-dem-studium/application-and-enrolment/deadlines\">https://www.th-bingen.de/en/studium/vor-dem-studium/application-and-enrolment/deadlines</a></li>\r\n\t<li><a href=\"https://www.th-bingen.de/en/studium/vor-dem-studium/application-and-enrolment/bewerbung-mit-auslaendischen-zeugnissen\">https://www.th-bingen.de/en/studium/vor-dem-studium/application-and-enrolment/bewerbung-mit-auslaendischen-zeugnissen</a></li>\r\n</ul>",
+    "applicationDeadline": "<p>Please inform yourself about the current information at these&nbsp;Bingen UAS websites:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://www.th-bingen.de/studium/master/sustainable-intensification-of-agricultural-production\">https://www.th-bingen.de/studium/master/sustainable-intensification-of-agricultural-production</a></li>\r\n\t<li><a href=\"https://www.th-bingen.de/en/studium/vor-dem-studium/application-and-enrolment/deadlines\">https://www.th-bingen.de/en/studium/vor-dem-studium/application-and-enrolment/deadlines</a></li>\r\n\t<li><a href=\"https://www.th-bingen.de/en/studium/vor-dem-studium/application-and-enrolment/bewerbung-mit-auslaendischen-zeugnissen\">https://www.th-bingen.de/en/studium/vor-dem-studium/application-and-enrolment/bewerbung-mit-auslaendischen-zeugnissen</a></li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -82107,42 +82107,6 @@
     "subject": "Geodesy",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6963/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 6216,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cb835f33695c141939270.jpeg",
-    "copyright": "SRH University",
-    "courseName": "Photography (BA)",
-    "courseNameShort": "Photography (BA)",
-    "academy": "SRH University",
-    "city": "Berlin",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "4,500",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Non-EU/EEA applicants: Please <a href=\"https://apply.srh.de/en_GB/courses/course/64-ba-photography-english\">apply</a> by 1 February (April intake) or 15 August (October intake). We also recommend<strong> </strong>that you apply early (at least four months before the start of your programme).</p>\r\n\r\n<p>EU/EEA applicants: Please <a href=\"https://apply.srh.de/en_GB/courses/course/64-ba-photography-english\">apply</a> by 1 April (April intake) or 1 October (October intake).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "Photography",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/6216/",
     "requestLanguage": "en"
   },
   {
