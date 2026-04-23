@@ -10668,6 +10668,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 8549,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/63a17b7bd903f257181005.jpeg",
+    "copyright": null,
+    "courseName": "Biomedical Engineering",
+    "courseNameShort": "Biomedical Engineering",
+    "academy": "RWTH Aachen University",
+    "city": "Aachen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Please ensure that all required documents are uploaded as soon as possible on RWTHonline.</p>\r\n\r\n<p><strong>Deadline for non-EU students</strong>: We recommend submitting applications by January, but not later than the <strong>deadline of 1 March</strong>. The International Office is responsible for processing applications and assessment for the fulfilment of the formal requirements. Admission/rejection letters will be sent out by the beginning of May at the earliest.</p>\r\n\r\n<p><strong>Deadline for EU students</strong>: We recommend submitting applications by May, but not later than the <strong>deadline 15 July</strong>. The Registrar&#39;s Office is responsible for processing applications, assessment for the fulfilment of the formal requirements. Admission/rejection letters will be sent out by the beginning of August at the earliest.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Cultural and linguistic preparation | Specialist counselling | Visa matters"
+    ],
+    "subject": "Bioengineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8549/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 10437,
     "image": null,
     "copyright": null,
@@ -10702,42 +10738,6 @@
     "subject": "Biomedical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10437/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 8549,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/63a17b7bd903f257181005.jpeg",
-    "copyright": null,
-    "courseName": "Biomedical Engineering",
-    "courseNameShort": "Biomedical Engineering",
-    "academy": "RWTH Aachen University",
-    "city": "Aachen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Please ensure that all required documents are uploaded as soon as possible on RWTHonline.</p>\r\n\r\n<p><strong>Deadline for non-EU students</strong>: We recommend submitting applications by January, but not later than the <strong>deadline of 1 March</strong>. The International Office is responsible for processing applications and assessment for the fulfilment of the formal requirements. Admission/rejection letters will be sent out by the beginning of May at the earliest.</p>\r\n\r\n<p><strong>Deadline for EU students</strong>: We recommend submitting applications by May, but not later than the <strong>deadline 15 July</strong>. The Registrar&#39;s Office is responsible for processing applications, assessment for the fulfilment of the formal requirements. Admission/rejection letters will be sent out by the beginning of August at the earliest.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Cultural and linguistic preparation | Specialist counselling | Visa matters"
-    ],
-    "subject": "Bioengineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8549/",
     "requestLanguage": "en"
   },
   {
@@ -16844,42 +16844,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10354,
-    "image": null,
-    "copyright": null,
-    "courseName": "Computer Science",
-    "courseNameShort": "Computer Science",
-    "academy": "Dresden University of Technology",
-    "city": "Dresden",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>For the following <strong>winter semester</strong>:</p>\r\n\r\n<p>(Prospective) degree holders from non-German institutions of higher education:<br />\r\n<strong>1 April to 31 May:&nbsp;non-EU nationals<br />\r\n1 April to 15 July: German or EU nationals<br />\r\nAll other applicants / </strong>(prospective) graduates from German institutions of higher education<strong>:&nbsp;<br />\r\n1 June to 15 July</strong></p>\r\n\r\n<p>For the following <strong>summer semester</strong>:</p>\r\n\r\n<p>(Prospective) degree holders from non-German institutions of higher education:<br />\r\n<strong>1 October to 30 November: non-EU nationals<br />\r\n1 October to 15 January: EU nationals<br />\r\nAll other applicants / </strong>(prospective) graduates from German institutions of higher education<strong>:<br />\r\n1 December to 15 January</strong></p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Accompanying programme"
-    ],
-    "subject": "Applied Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10354/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 7606,
     "image": null,
     "copyright": null,
@@ -16913,6 +16877,42 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7606/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10354,
+    "image": null,
+    "copyright": null,
+    "courseName": "Computer Science",
+    "courseNameShort": "Computer Science",
+    "academy": "Dresden University of Technology",
+    "city": "Dresden",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>For the following <strong>winter semester</strong>:</p>\r\n\r\n<p>(Prospective) degree holders from non-German institutions of higher education:<br />\r\n<strong>1 April to 31 May:&nbsp;non-EU nationals<br />\r\n1 April to 15 July: German or EU nationals<br />\r\nAll other applicants / </strong>(prospective) graduates from German institutions of higher education<strong>:&nbsp;<br />\r\n1 June to 15 July</strong></p>\r\n\r\n<p>For the following <strong>summer semester</strong>:</p>\r\n\r\n<p>(Prospective) degree holders from non-German institutions of higher education:<br />\r\n<strong>1 October to 30 November: non-EU nationals<br />\r\n1 October to 15 January: EU nationals<br />\r\nAll other applicants / </strong>(prospective) graduates from German institutions of higher education<strong>:<br />\r\n1 December to 15 January</strong></p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Accompanying programme"
+    ],
+    "subject": "Applied Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10354/",
     "requestLanguage": "en"
   },
   {
@@ -17025,42 +17025,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9688,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6638f6856e9e4059241389.jpeg",
-    "copyright": "SRH Berlin University of Applied Sciences",
-    "courseName": "Computer Science (BSc)",
-    "courseNameShort": "Computer Science (BSc)",
-    "academy": "SRH University",
-    "city": "Leipzig",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "6 semesters, 7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "4,500",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Non-EU/EEA applicants: Please <a href=\"https://www.srh-berlin.de/en/bachelor/degree-computer-science-leipzig/tracks/\">apply</a> by 1 February (April intake) or 15 August (October intake). We also recommend<strong> </strong>that you apply early (at least four months before the start of your programme).</p>\r\n\r\n<p>EU/EEA applicants: Please <a href=\"https://www.srh-berlin.de/en/bachelor/degree-computer-science-leipzig/tracks/\">apply</a> by 1 April (April intake) or 1 October (October intake).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "Applied Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9688/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9692,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6638f95d6d562225959325.jpeg",
     "copyright": "SRH University",
@@ -17094,6 +17058,42 @@
     "subject": "Software Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9692/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9688,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6638f6856e9e4059241389.jpeg",
+    "copyright": "SRH Berlin University of Applied Sciences",
+    "courseName": "Computer Science (BSc)",
+    "courseNameShort": "Computer Science (BSc)",
+    "academy": "SRH University",
+    "city": "Leipzig",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "6 semesters, 7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "4,500",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Non-EU/EEA applicants: Please <a href=\"https://www.srh-berlin.de/en/bachelor/degree-computer-science-leipzig/tracks/\">apply</a> by 1 February (April intake) or 15 August (October intake). We also recommend<strong> </strong>that you apply early (at least four months before the start of your programme).</p>\r\n\r\n<p>EU/EEA applicants: Please <a href=\"https://www.srh-berlin.de/en/bachelor/degree-computer-science-leipzig/tracks/\">apply</a> by 1 April (April intake) or 1 October (October intake).</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
+    ],
+    "subject": "Applied Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9688/",
     "requestLanguage": "en"
   },
   {
@@ -19071,42 +19071,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 7660,
-    "image": null,
-    "copyright": null,
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "Technische Universität Braunschweig",
-    "city": "Braunschweig",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Winter semester:</p>\r\n\r\n<ul>\r\n\t<li>1 February - 15 March<strong>&nbsp;</strong>(for non-EU applicants)</li>\r\n\t<li>1 June - 15 July (for EU applicants and applicants not subject to visa requirements)</li>\r\n</ul>\r\n\r\n<p>Summer semester:</p>\r\n\r\n<ul>\r\n\t<li>1 August - 15 September&nbsp;(for non-EU applicants)</li>\r\n\t<li>1 December - 15 January&nbsp;(for EU applicants and applicants not subject to visa requirements)</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Accompanying programme | Cultural and linguistic preparation"
-    ],
-    "subject": "Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7660/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9965,
     "image": null,
     "copyright": null,
@@ -19176,6 +19140,42 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7636/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7660,
+    "image": null,
+    "copyright": null,
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "Technische Universität Braunschweig",
+    "city": "Braunschweig",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Winter semester:</p>\r\n\r\n<ul>\r\n\t<li>1 February - 15 March<strong>&nbsp;</strong>(for non-EU applicants)</li>\r\n\t<li>1 June - 15 July (for EU applicants and applicants not subject to visa requirements)</li>\r\n</ul>\r\n\r\n<p>Summer semester:</p>\r\n\r\n<ul>\r\n\t<li>1 August - 15 September&nbsp;(for non-EU applicants)</li>\r\n\t<li>1 December - 15 January&nbsp;(for EU applicants and applicants not subject to visa requirements)</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Accompanying programme | Cultural and linguistic preparation"
+    ],
+    "subject": "Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7660/",
     "requestLanguage": "en"
   },
   {
@@ -61682,42 +61682,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 8479,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Corporate Management & Economics | CME",
-    "courseNameShort": "MSc in Corporate Management & Economics | CME",
-    "academy": "Zeppelin University",
-    "city": "Friedrichshafen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "7,300",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Please inform yourself about the <a href=\"https://www.zeppelin-university.com/studying-lifelong-learning/master/corporate-management-economics/?utm_source=Studienportal&amp;utm_medium=DAAD\">application deadlines</a> at Zeppelin University.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Cultural and linguistic preparation | Help with finding accommodation"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8479/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4857,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/662b7cca86c26952974396.jpeg",
     "copyright": "R. Loges, Uni Kiel",
@@ -64376,42 +64340,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4852,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5aeb1a565e3db170114859.jpeg",
-    "copyright": "Leibniz University Hannover",
-    "courseName": "Master of Science in Mathematics",
-    "courseNameShort": "Master of Science in Mathematics",
-    "academy": "Leibniz University Hannover",
-    "city": "Hannover",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>Application from students from non-EU countries (<a href=\"https://www.uni-hannover.de/en/studium/vor-dem-studium/bewerbung-zulassung/studienplatzbewerbung/master-application-for-prospective-students-from-outside-the-eu#c81300\">VPD from uni-assist is required</a>.)</strong></p>\r\n\r\n<ul>\r\n\t<li>15 April to 31 May of the year for the winter semester</li>\r\n\t<li>15 October to 30 November of the previous year for the summer semester</li>\r\n</ul>\r\n\r\n<p><strong>Application from students from Germany and the EU</strong></p>\r\n\r\n<ul>\r\n\t<li>1 June to 15 July of the year for the winter semester</li>\r\n\t<li>1 December to 15 January of the year for the summer semester</li>\r\n</ul>\r\n\r\n<p>Prospective students applying from outside the EU must request a <strong>Preliminary Examination Documentation</strong> (VPD) from uni-assist before applying to the Master&#39;s programme. The processing time for the VPD takes <strong>up to eight weeks</strong>. Therefore, please allow enough time before applying for the programme. More information about applying for the VPD can be found on the <a href=\"https://go.lu-h.de/apply-for-vpd\">central application pages</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling"
-    ],
-    "subject": "Applied Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4852/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 5388,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cb5aab43404f155801741.jpeg",
     "copyright": "Department of Mathematics",
@@ -64445,6 +64373,42 @@
     "subject": "Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/5388/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4852,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5aeb1a565e3db170114859.jpeg",
+    "copyright": "Leibniz University Hannover",
+    "courseName": "Master of Science in Mathematics",
+    "courseNameShort": "Master of Science in Mathematics",
+    "academy": "Leibniz University Hannover",
+    "city": "Hannover",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>Application from students from non-EU countries (<a href=\"https://www.uni-hannover.de/en/studium/vor-dem-studium/bewerbung-zulassung/studienplatzbewerbung/master-application-for-prospective-students-from-outside-the-eu#c81300\">VPD from uni-assist is required</a>.)</strong></p>\r\n\r\n<ul>\r\n\t<li>15 April to 31 May of the year for the winter semester</li>\r\n\t<li>15 October to 30 November of the previous year for the summer semester</li>\r\n</ul>\r\n\r\n<p><strong>Application from students from Germany and the EU</strong></p>\r\n\r\n<ul>\r\n\t<li>1 June to 15 July of the year for the winter semester</li>\r\n\t<li>1 December to 15 January of the year for the summer semester</li>\r\n</ul>\r\n\r\n<p>Prospective students applying from outside the EU must request a <strong>Preliminary Examination Documentation</strong> (VPD) from uni-assist before applying to the Master&#39;s programme. The processing time for the VPD takes <strong>up to eight weeks</strong>. Therefore, please allow enough time before applying for the programme. More information about applying for the VPD can be found on the <a href=\"https://go.lu-h.de/apply-for-vpd\">central application pages</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling"
+    ],
+    "subject": "Applied Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4852/",
     "requestLanguage": "en"
   },
   {
@@ -69624,7 +69588,7 @@
     "date": [],
     "typeCourseDate": "",
     "costString": null,
-    "tuitionFees": "2,700",
+    "tuitionFees": "2,900",
     "courseType": 2,
     "isElearning": false,
     "preparationForDegree": null,
@@ -90154,42 +90118,6 @@
     "subject": "Economics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6427/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 7146,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5f60c187d5637560931995.jpeg",
-    "copyright": "SRH Berlin University of Applied Sciences",
-    "courseName": "Supply Chain Management (MSc)",
-    "courseNameShort": "Supply Chain Management (MSc)",
-    "academy": "SRH University",
-    "city": "Hamburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "6,450",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Non-EU/EEA applicants: Please <a href=\"https://apply.srh.de/en_GB/courses/course/46-msc-supply-chain-management\">apply</a> by 1 February (April intake) or 15 August (October intake). We also recommend<strong> </strong>that you apply early (at least four months before the start of your programme).</p>\r\n\r\n<p>EU/EEA applicants: Please <a href=\"https://apply.srh.de/en_GB/courses/course/46-msc-supply-chain-management\">apply</a> by 1 April (April intake) or 1 October (October intake).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "International Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7146/",
     "requestLanguage": "en"
   },
   {
