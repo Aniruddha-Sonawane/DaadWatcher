@@ -17025,42 +17025,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9692,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6638f95d6d562225959325.jpeg",
-    "copyright": "SRH University",
-    "courseName": "Computer Science (BSc)",
-    "courseNameShort": "Computer Science (BSc)",
-    "academy": "SRH University",
-    "city": "Berlin",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "6 semesters, 7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "4,740",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Non-EU/EEA applicants: Please <a href=\"https://apply.srh.de/de_DE_INFORMAL/courses/course/106-bsc-bachelor-science-computer-science-fast-track?search=467740\">apply</a> by 1 February (April intake) or 15 August (October intake). We also recommend<strong> </strong>that you apply early (at least four months before the start of your programme).</p>\r\n\r\n<p>EU/EEA applicants: Please <a href=\"https://apply.srh.de/de_DE_INFORMAL/courses/course/106-bsc-bachelor-science-computer-science-fast-track?search=467740\">apply</a> by 1 April (April intake) or 1 October (October intake).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "Software Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9692/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9688,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6638f6856e9e4059241389.jpeg",
     "copyright": "SRH Berlin University of Applied Sciences",
@@ -68098,42 +68062,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9843,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66f4059f92c4c781347245.jpeg",
-    "copyright": "Berlin&Cramer",
-    "courseName": "Master's in Finance (MSc)",
-    "courseNameShort": "Master's in Finance (MSc)",
-    "academy": "WHU - Otto Beisheim School of Management",
-    "city": "Düsseldorf",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "3 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "9,900",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Financial Management, Insurance",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9843/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3650,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5e99676ad56c9039139359.jpeg",
     "copyright": "Universität Ulm",
@@ -68203,6 +68131,42 @@
     "subject": "Financial Management, Insurance",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3955/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9843,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66f4059f92c4c781347245.jpeg",
+    "copyright": "Berlin&Cramer",
+    "courseName": "Master's in Finance (MSc)",
+    "courseNameShort": "Master's in Finance (MSc)",
+    "academy": "WHU - Otto Beisheim School of Management",
+    "city": "Düsseldorf",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "3 semesters, 4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "9,900",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Financial Management, Insurance",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9843/",
     "requestLanguage": "en"
   },
   {
@@ -68687,42 +68651,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9758,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/663b9c576e15e382427751.jpeg",
-    "copyright": "Julia Berlin Photography",
-    "courseName": "Master's in Management (MSc)",
-    "courseNameShort": "Master's in Management (MSc)",
-    "academy": "WHU - Otto Beisheim School of Management",
-    "city": "Vallendar",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "9,900",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9758/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3938,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661d4bca7b994490606779.jpeg",
     "copyright": "EBS Universität",
@@ -68828,6 +68756,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9641/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9758,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/663b9c576e15e382427751.jpeg",
+    "copyright": "Julia Berlin Photography",
+    "courseName": "Master's in Management (MSc)",
+    "courseNameShort": "Master's in Management (MSc)",
+    "academy": "WHU - Otto Beisheim School of Management",
+    "city": "Vallendar",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "9,900",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9758/",
     "requestLanguage": "en"
   },
   {
