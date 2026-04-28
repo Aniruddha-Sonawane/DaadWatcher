@@ -2556,42 +2556,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 3981,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6093a139cd060740701065.jpeg",
-    "copyright": "SRH University Heidelberg",
-    "courseName": "Applied Computer Science (MSc)",
-    "courseNameShort": "Applied Computer Science (MSc)",
-    "academy": "SRH University",
-    "city": "Heidelberg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "5,040",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>There are <strong>no application deadlines</strong>, so you can <strong>apply at any time </strong>until all of the places in the programme have been taken.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Accompanying programme | Tutors | Visa matters | Buddy programme | Specialist counselling"
-    ],
-    "subject": "Applied Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3981/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4700,
     "image": null,
     "copyright": null,
@@ -2625,6 +2589,42 @@
     "subject": "Applied Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4700/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 3981,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6093a139cd060740701065.jpeg",
+    "copyright": "SRH University Heidelberg",
+    "courseName": "Applied Computer Science (MSc)",
+    "courseNameShort": "Applied Computer Science (MSc)",
+    "academy": "SRH University",
+    "city": "Heidelberg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "5,040",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>There are <strong>no application deadlines</strong>, so you can <strong>apply at any time </strong>until all of the places in the programme have been taken.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Accompanying programme | Tutors | Visa matters | Buddy programme | Specialist counselling"
+    ],
+    "subject": "Applied Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3981/",
     "requestLanguage": "en"
   },
   {
@@ -3643,42 +3643,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9704,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6634b985471fc738167729.jpeg",
-    "copyright": null,
-    "courseName": "Artificial Intelligence",
-    "courseNameShort": "Artificial Intelligence",
-    "academy": "Technische Hochschule Ingolstadt",
-    "city": "Ingolstadt",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "1,200",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>1. Applicants with a Bachelor&#39;s degree from outside of Germany must first apply via <a href=\"https://my.uni-assist.de/\">uni-assist</a> from as soon as possible by 15 June for the following winter semester and by 1 December for the following summer semester at the latest.</p>\r\n\r\n<p>If you acquired your Bachelor&#39;s degree outside of Germany, uni-assist has to verify your eligibility to study in Germany and to convert your grades to the German grade system. You will have to submit all required documents to uni-assist online. The process takes four to six weeks.</p>\r\n\r\n<p>2. <a href=\"http://www.thi.de/go/online-application\">PRIMUSS &ndash; THI application portal</a>: from 2 May until 15 July for the following winter semester and from 15 November until 15 January for the following summer semester</p>\r\n\r\n<p>You will have to apply online at the PRIMUSS university application portal. In case of admission, you will have to send all required documents by mail later on.</p>\r\n\r\n<p>Please note: The application deadlines might change. Please check <a href=\"https://www.thi.de/en/international/studies/application\">the THI website</a> to get up-to-date information regarding the application periods.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Accompanying programme | Cultural and linguistic preparation | Welcome event | Buddy programme | Support with registration procedures"
-    ],
-    "subject": "Artificial Intelligence",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9704/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9003,
     "image": null,
     "copyright": null,
@@ -3717,6 +3681,42 @@
       "13"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9003/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9704,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6634b985471fc738167729.jpeg",
+    "copyright": null,
+    "courseName": "Artificial Intelligence",
+    "courseNameShort": "Artificial Intelligence",
+    "academy": "Technische Hochschule Ingolstadt",
+    "city": "Ingolstadt",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "1,200",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>1. Applicants with a Bachelor&#39;s degree from outside of Germany must first apply via <a href=\"https://my.uni-assist.de/\">uni-assist</a> from as soon as possible by 15 June for the following winter semester and by 1 December for the following summer semester at the latest.</p>\r\n\r\n<p>If you acquired your Bachelor&#39;s degree outside of Germany, uni-assist has to verify your eligibility to study in Germany and to convert your grades to the German grade system. You will have to submit all required documents to uni-assist online. The process takes four to six weeks.</p>\r\n\r\n<p>2. <a href=\"http://www.thi.de/go/online-application\">PRIMUSS &ndash; THI application portal</a>: from 2 May until 15 July for the following winter semester and from 15 November until 15 January for the following summer semester</p>\r\n\r\n<p>You will have to apply online at the PRIMUSS university application portal. In case of admission, you will have to send all required documents by mail later on.</p>\r\n\r\n<p>Please note: The application deadlines might change. Please check <a href=\"https://www.thi.de/en/international/studies/application\">the THI website</a> to get up-to-date information regarding the application periods.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Accompanying programme | Cultural and linguistic preparation | Welcome event | Buddy programme | Support with registration procedures"
+    ],
+    "subject": "Artificial Intelligence",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9704/",
     "requestLanguage": "en"
   },
   {
@@ -10668,42 +10668,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 8549,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/63a17b7bd903f257181005.jpeg",
-    "copyright": null,
-    "courseName": "Biomedical Engineering",
-    "courseNameShort": "Biomedical Engineering",
-    "academy": "RWTH Aachen University",
-    "city": "Aachen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Please ensure that all required documents are uploaded as soon as possible on RWTHonline.</p>\r\n\r\n<p><strong>Deadline for non-EU students</strong>: We recommend submitting applications by January, but not later than the <strong>deadline of 1 March</strong>. The International Office is responsible for processing applications and assessment for the fulfilment of the formal requirements. Admission/rejection letters will be sent out by the beginning of May at the earliest.</p>\r\n\r\n<p><strong>Deadline for EU students</strong>: We recommend submitting applications by May, but not later than the <strong>deadline 15 July</strong>. The Registrar&#39;s Office is responsible for processing applications, assessment for the fulfilment of the formal requirements. Admission/rejection letters will be sent out by the beginning of August at the earliest.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Cultural and linguistic preparation | Specialist counselling | Visa matters"
-    ],
-    "subject": "Bioengineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8549/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 10437,
     "image": null,
     "copyright": null,
@@ -10741,20 +10705,20 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10567,
-    "image": null,
+    "id": 8549,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/63a17b7bd903f257181005.jpeg",
     "copyright": null,
-    "courseName": "Biomedical Engineering (MSc)",
+    "courseName": "Biomedical Engineering",
     "courseNameShort": "Biomedical Engineering",
-    "academy": "RheinMain University of Applied Sciences",
-    "city": "Rüsselsheim",
+    "academy": "RWTH Aachen University",
+    "city": "Aachen",
     "languages": [
       "English"
     ],
     "languageLevelGerman": null,
     "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
     "date": [],
     "typeCourseDate": "",
     "costString": null,
@@ -10763,17 +10727,17 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The first possible application will be for the<strong> winter semester 2026</strong>, with the first application deadline on 15 July 2026.</p>\r\n\r\n<p>For subsequent years, the application deadline for the winter semester is <strong>15 July&nbsp;</strong>and for the summer semester <strong>15&nbsp;January</strong>.</p>\r\n\r\n<p>Further details are available on the <a href=\"https://www.hs-rm.de/en/international/from-abroad/international-students/studium/english-masters-programs\">HSRM application page</a>.</p>",
+    "applicationDeadline": "<p>Please ensure that all required documents are uploaded as soon as possible on RWTHonline.</p>\r\n\r\n<p><strong>Deadline for non-EU students</strong>: We recommend submitting applications by January, but not later than the <strong>deadline of 1 March</strong>. The International Office is responsible for processing applications and assessment for the fulfilment of the formal requirements. Admission/rejection letters will be sent out by the beginning of May at the earliest.</p>\r\n\r\n<p><strong>Deadline for EU students</strong>: We recommend submitting applications by May, but not later than the <strong>deadline 15 July</strong>. The Registrar&#39;s Office is responsible for processing applications, assessment for the fulfilment of the formal requirements. Admission/rejection letters will be sent out by the beginning of August at the earliest.</p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
     "structuredResearch": null,
     "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Specialist counselling | Cultural and linguistic preparation"
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Cultural and linguistic preparation | Specialist counselling | Visa matters"
     ],
-    "subject": "Health Technology",
+    "subject": "Bioengineering",
     "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10567/",
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8549/",
     "requestLanguage": "en"
   },
   {
@@ -10810,6 +10774,42 @@
     "subject": "Biomedical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4025/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10567,
+    "image": null,
+    "copyright": null,
+    "courseName": "Biomedical Engineering (MSc)",
+    "courseNameShort": "Biomedical Engineering",
+    "academy": "RheinMain University of Applied Sciences",
+    "city": "Rüsselsheim",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The first possible application will be for the<strong> winter semester 2026</strong>, with the first application deadline on 15 July 2026.</p>\r\n\r\n<p>For subsequent years, the application deadline for the winter semester is <strong>15 July&nbsp;</strong>and for the summer semester <strong>15&nbsp;January</strong>.</p>\r\n\r\n<p>Further details are available on the <a href=\"https://www.hs-rm.de/en/international/from-abroad/international-students/studium/english-masters-programs\">HSRM application page</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Health Technology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10567/",
     "requestLanguage": "en"
   },
   {
@@ -13950,78 +13950,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 3780,
-    "image": null,
-    "copyright": null,
-    "courseName": "Chemistry",
-    "courseNameShort": "Chemistry",
-    "academy": "University of Siegen",
-    "city": "Siegen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>1 January to 30 April for the following winter semester for non-EU applicants</p>\r\n\r\n<p>1 January to 31 August for the following winter semester for EU applicants</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "Chemistry",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3780/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 8325,
-    "image": null,
-    "copyright": null,
-    "courseName": "Chemistry",
-    "courseNameShort": "Chemistry",
-    "academy": "University of Bonn",
-    "city": "Bonn",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>Deadline for the following summer semester (EU and non-EU applicants): 7 January (start: 1 December)</li>\r\n\t<li>Deadline for the following winter semester (EU and non-EU applicants): 1 July (start: 1 June)</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "Inorganic Chemistry",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8325/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 6898,
     "image": null,
     "copyright": null,
@@ -14060,6 +13988,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3780,
+    "image": null,
+    "copyright": null,
+    "courseName": "Chemistry",
+    "courseNameShort": "Chemistry",
+    "academy": "University of Siegen",
+    "city": "Siegen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>1 January to 30 April for the following winter semester for non-EU applicants</p>\r\n\r\n<p>1 January to 31 August for the following winter semester for EU applicants</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Chemistry",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3780/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 8317,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/62863bce1492c339937429.jpeg",
     "copyright": "Martin Mayer",
@@ -14093,6 +14057,42 @@
     "subject": "Chemistry",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8317/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 8325,
+    "image": null,
+    "copyright": null,
+    "courseName": "Chemistry",
+    "courseNameShort": "Chemistry",
+    "academy": "University of Bonn",
+    "city": "Bonn",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>Deadline for the following summer semester (EU and non-EU applicants): 7 January (start: 1 December)</li>\r\n\t<li>Deadline for the following winter semester (EU and non-EU applicants): 1 July (start: 1 June)</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Inorganic Chemistry",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8325/",
     "requestLanguage": "en"
   },
   {
@@ -16357,42 +16357,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4593,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ae9681441bd8443760247.jpeg",
-    "copyright": null,
-    "courseName": "Computational Science and Engineering (CSE)",
-    "courseNameShort": "Computational Science and Engineering (CSE)",
-    "academy": "University of Rostock",
-    "city": "Rostock",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Please check the application periods online at <a href=\"https://www.uni-rostock.de/en/study/international-students/degree-students/application-for-non-german-prospective-students-via-uni-assist/\">https://www.uni-rostock.de/en/study/international-students/degree-students/application-for-non-german-prospective-students-via-uni-assist/</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Accompanying programme | Pick-up service | Welcome event | Tutors"
-    ],
-    "subject": "Electrical Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4593/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3591,
     "image": null,
     "copyright": null,
@@ -16426,6 +16390,42 @@
     "subject": "Applied Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3591/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4593,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ae9681441bd8443760247.jpeg",
+    "copyright": null,
+    "courseName": "Computational Science and Engineering (CSE)",
+    "courseNameShort": "Computational Science and Engineering (CSE)",
+    "academy": "University of Rostock",
+    "city": "Rostock",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Please check the application periods online at <a href=\"https://www.uni-rostock.de/en/study/international-students/degree-students/application-for-non-german-prospective-students-via-uni-assist/\">https://www.uni-rostock.de/en/study/international-students/degree-students/application-for-non-german-prospective-students-via-uni-assist/</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Accompanying programme | Pick-up service | Welcome event | Tutors"
+    ],
+    "subject": "Electrical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4593/",
     "requestLanguage": "en"
   },
   {
@@ -16657,6 +16657,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 9058,
+    "image": null,
+    "copyright": null,
+    "courseName": "Computer Science",
+    "courseNameShort": "Computer Science",
+    "academy": "Kiel University of Applied Sciences",
+    "city": "Kiel",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>Summer semester:</strong> 15 March<br />\r\n<strong>Winter semester:</strong> 15 September</p>\r\n\r\n<p>See also: <a href=\"https://www.haw-kiel.de/studium/studienangebot/computer-science\">https://www.haw-kiel.de/studium/studienangebot/computer-science</a></p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Specialist counselling | Cultural and linguistic preparation | Support with registration procedures"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9058/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4439,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/68109a3296028.jpeg",
     "copyright": "VISUS/Universität Stuttgart",
@@ -16697,6 +16733,42 @@
       "13"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4439/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4591,
+    "image": null,
+    "copyright": null,
+    "courseName": "Computer Science",
+    "courseNameShort": "Computer Science",
+    "academy": "University of Siegen",
+    "city": "Siegen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><a href=\"https://www.master-cs.eti.uni-siegen.de/en/application\">https://www.master-cs.eti.uni-siegen.de/en/application</a></p>\r\n\r\n<p>Non-EU applicants are advised to apply as early as possible, allowing for some delay to complete the visa process.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4591/",
     "requestLanguage": "en"
   },
   {
@@ -16769,78 +16841,6 @@
     "subject": "Medical Informatics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8305/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4591,
-    "image": null,
-    "copyright": null,
-    "courseName": "Computer Science",
-    "courseNameShort": "Computer Science",
-    "academy": "University of Siegen",
-    "city": "Siegen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><a href=\"https://www.master-cs.eti.uni-siegen.de/en/application\">https://www.master-cs.eti.uni-siegen.de/en/application</a></p>\r\n\r\n<p>Non-EU applicants are advised to apply as early as possible, allowing for some delay to complete the visa process.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4591/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9058,
-    "image": null,
-    "copyright": null,
-    "courseName": "Computer Science",
-    "courseNameShort": "Computer Science",
-    "academy": "Kiel University of Applied Sciences",
-    "city": "Kiel",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>Summer semester:</strong> 15 March<br />\r\n<strong>Winter semester:</strong> 15 September</p>\r\n\r\n<p>See also: <a href=\"https://www.haw-kiel.de/studium/studienangebot/computer-science\">https://www.haw-kiel.de/studium/studienangebot/computer-science</a></p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Specialist counselling | Cultural and linguistic preparation | Support with registration procedures"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9058/",
     "requestLanguage": "en"
   },
   {
@@ -17133,6 +17133,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 9042,
+    "image": null,
+    "copyright": null,
+    "courseName": "Computer Science (MSc)",
+    "courseNameShort": "Computer Science (MSc)",
+    "academy": "Marburg University",
+    "city": "Marburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>All details can be found at:<br />\r\n<a href=\"https://www.uni-marburg.de/en/studying/admissions/deadlines\">https://www.uni-marburg.de/en/studying/admissions/deadlines</a></p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9042/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 9953,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/676434d74c79c309651044.jpeg",
     "copyright": null,
@@ -17275,42 +17311,6 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3624/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9042,
-    "image": null,
-    "copyright": null,
-    "courseName": "Computer Science (MSc)",
-    "courseNameShort": "Computer Science (MSc)",
-    "academy": "Marburg University",
-    "city": "Marburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>All details can be found at:<br />\r\n<a href=\"https://www.uni-marburg.de/en/studying/admissions/deadlines\">https://www.uni-marburg.de/en/studying/admissions/deadlines</a></p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9042/",
     "requestLanguage": "en"
   },
   {
@@ -18412,6 +18412,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4785,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5aea01331f71a620475037.jpeg",
+    "copyright": "BTU Cottbus-Senftenberg",
+    "courseName": "Cyber Security",
+    "courseNameShort": "Cyber Security",
+    "academy": "Brandenburg University of Technology Cottbus-Senftenberg",
+    "city": "Cottbus",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>Applicants without European Union/European Economic Area citizenship: <strong>probably 15 May</strong> for the following winter semester</li>\r\n\t<li>Applicants with European Union/European Economic Area citizenship: <strong>probably 15 August </strong>for the following winter semester</li>\r\n</ul>\r\n\r\n<p>Please be sure to check <a href=\"https://www.b-tu.de/en/cybersecurity-ms/admission\">https://www.b-tu.de/en/cybersecurity-ms/admission</a> for updates and further details.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Support with registration procedures | Accompanying programme | Cultural and linguistic preparation"
+    ],
+    "subject": "Applied Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4785/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 7945,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661fd70c8de1a890440012.jpeg",
     "copyright": "HDBW/iStock",
@@ -18458,42 +18494,6 @@
       "14"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7945/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4785,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5aea01331f71a620475037.jpeg",
-    "copyright": "BTU Cottbus-Senftenberg",
-    "courseName": "Cyber Security",
-    "courseNameShort": "Cyber Security",
-    "academy": "Brandenburg University of Technology Cottbus-Senftenberg",
-    "city": "Cottbus",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>Applicants without European Union/European Economic Area citizenship: <strong>probably 15 May</strong> for the following winter semester</li>\r\n\t<li>Applicants with European Union/European Economic Area citizenship: <strong>probably 15 August </strong>for the following winter semester</li>\r\n</ul>\r\n\r\n<p>Please be sure to check <a href=\"https://www.b-tu.de/en/cybersecurity-ms/admission\">https://www.b-tu.de/en/cybersecurity-ms/admission</a> for updates and further details.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Support with registration procedures | Accompanying programme | Cultural and linguistic preparation"
-    ],
-    "subject": "Applied Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4785/",
     "requestLanguage": "en"
   },
   {
@@ -18747,6 +18747,76 @@
     "requestLanguage": "en"
   },
   {
+    "id": 7658,
+    "image": null,
+    "copyright": null,
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "University of Münster",
+    "city": "Münster",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The application deadline for the upcoming winter semester 2025/26&nbsp;is 15&nbsp;September 2025.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Statistics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7658/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 8285,
+    "image": null,
+    "copyright": null,
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "Kiel University of Applied Sciences",
+    "city": "Kiel",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><a href=\"https://www.fh-kiel.de/en/degree-courses/information-for-prospective-students/courses-and-application/\">https://www.haw-kiel.de/en/degree-courses/information-for-prospective-students/courses-and-application/</a></p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "Data Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8285/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 8910,
     "image": null,
     "copyright": null,
@@ -18817,148 +18887,6 @@
     "subject": "Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9858/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 7658,
-    "image": null,
-    "copyright": null,
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "University of Münster",
-    "city": "Münster",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": null,
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The application deadline for the upcoming winter semester 2025/26&nbsp;is 15&nbsp;September 2025.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": null,
-    "subject": "Statistics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7658/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9965,
-    "image": null,
-    "copyright": null,
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "University of Augsburg",
-    "city": "Augsburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>For every winter semester:</p>\r\n\r\n<ul>\r\n\t<li>1 September</li>\r\n\t<li><strong>Non-EU applicants: Due to visa issues we strongly recommend to apply well ahead (suggested: 1 May). Early admission will be granted to allow sufficient time for visa processing.</strong></li>\r\n</ul>\r\n\r\n<p>For every summer semester:</p>\r\n\r\n<ul>\r\n\t<li>1 March</li>\r\n\t<li><strong>Non-EU applicants: Due to visa issues we strongly recommend to apply well ahead (suggested: 1 December). Early admission will be granted to allow sufficient time for visa processing.</strong></li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation"
-    ],
-    "subject": "Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9965/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 7636,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/608a718183109582098642.jpeg",
-    "copyright": "CC BY-ND 4.0 Hinrikus Wolf",
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "RWTH Aachen University",
-    "city": "Aachen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Non-EU applicants:</p>\r\n\r\n<ul>\r\n\t<li>1 March for the following winter semester</li>\r\n\t<li>1 September for the following summer semester</li>\r\n</ul>\r\n\r\n<p>EU applicants:</p>\r\n\r\n<ul>\r\n\t<li>15 July for the following winter semester</li>\r\n\t<li>15 January for the following summer semester</li>\r\n</ul>\r\n\r\n<p><a href=\"https://www.rwth-aachen.de/go/id/dqml/lidx/1\">Click here</a> for <strong>details and exceptions</strong>.<br />\r\n<a href=\"https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/application-for-admission/\">Click here</a>&nbsp;for an overview of the <strong>academic requirements</strong> for the Master of Data Science at RWTH Aachen.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7636/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 8285,
-    "image": null,
-    "copyright": null,
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "Kiel University of Applied Sciences",
-    "city": "Kiel",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><a href=\"https://www.fh-kiel.de/en/degree-courses/information-for-prospective-students/courses-and-application/\">https://www.haw-kiel.de/en/degree-courses/information-for-prospective-students/courses-and-application/</a></p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Data Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8285/",
     "requestLanguage": "en"
   },
   {
@@ -19140,6 +19068,78 @@
     "subject": "Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7660/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9965,
+    "image": null,
+    "copyright": null,
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "University of Augsburg",
+    "city": "Augsburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>For every winter semester:</p>\r\n\r\n<ul>\r\n\t<li>1 September</li>\r\n\t<li><strong>Non-EU applicants: Due to visa issues we strongly recommend to apply well ahead (suggested: 1 May). Early admission will be granted to allow sufficient time for visa processing.</strong></li>\r\n</ul>\r\n\r\n<p>For every summer semester:</p>\r\n\r\n<ul>\r\n\t<li>1 March</li>\r\n\t<li><strong>Non-EU applicants: Due to visa issues we strongly recommend to apply well ahead (suggested: 1 December). Early admission will be granted to allow sufficient time for visa processing.</strong></li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation"
+    ],
+    "subject": "Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9965/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7636,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/608a718183109582098642.jpeg",
+    "copyright": "CC BY-ND 4.0 Hinrikus Wolf",
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "RWTH Aachen University",
+    "city": "Aachen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Non-EU applicants:</p>\r\n\r\n<ul>\r\n\t<li>1 March for the following winter semester</li>\r\n\t<li>1 September for the following summer semester</li>\r\n</ul>\r\n\r\n<p>EU applicants:</p>\r\n\r\n<ul>\r\n\t<li>15 July for the following winter semester</li>\r\n\t<li>15 January for the following summer semester</li>\r\n</ul>\r\n\r\n<p><a href=\"https://www.rwth-aachen.de/go/id/dqml/lidx/1\">Click here</a> for <strong>details and exceptions</strong>.<br />\r\n<a href=\"https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/application-for-admission/\">Click here</a>&nbsp;for an overview of the <strong>academic requirements</strong> for the Master of Data Science at RWTH Aachen.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7636/",
     "requestLanguage": "en"
   },
   {
@@ -23696,42 +23696,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 8939,
-    "image": null,
-    "copyright": null,
-    "courseName": "Economics",
-    "courseNameShort": "Economics",
-    "academy": "University of Regensburg",
-    "city": "Regensburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applications for the&nbsp;<strong>winter semester&nbsp;</strong>are to be submitted&nbsp;<strong>between <strong>1 May and 1 June</strong></strong>.<br />\r\nApplications for the&nbsp;<strong>summer semester&nbsp;</strong>are to be submitted&nbsp;<strong>between 1 November and 1 December </strong>of the preceding year.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Economics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8939/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 7960,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/621756abb242f781814041.jpeg",
     "copyright": "Universität Osnabrück | Jens Raddatz",
@@ -23804,13 +23768,13 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4461,
+    "id": 8939,
     "image": null,
     "copyright": null,
     "courseName": "Economics",
     "courseNameShort": "Economics",
-    "academy": "University of Bayreuth",
-    "city": "Bayreuth",
+    "academy": "University of Regensburg",
+    "city": "Regensburg",
     "languages": [
       "English"
     ],
@@ -23826,15 +23790,17 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>Application for EU citizens</strong><br />\r\n15 April to mid-October, recommendation: 1 September (for the following winter semester)<br />\r\n15 October to mid-April, recommendation: 1 March (for the following summer semester)</p>\r\n\r\n<p><strong>Application for non-EU citizens</strong><br />\r\n15 April to 15 July, recommendation: 1 June (for the following winter semester)<br />\r\n15 October to 15 January, recommendation: 1 December (for the following summer semester)</p>\r\n\r\n<p><a href=\"https://www.uni-bayreuth.de/en/master/economics#ee393a62\">https://www.uni-bayreuth.de/en/master/economics#ee393a62</a></p>",
+    "applicationDeadline": "<p>Applications for the&nbsp;<strong>winter semester&nbsp;</strong>are to be submitted&nbsp;<strong>between <strong>1 May and 1 June</strong></strong>.<br />\r\nApplications for the&nbsp;<strong>summer semester&nbsp;</strong>are to be submitted&nbsp;<strong>between 1 November and 1 December </strong>of the preceding year.</p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
     "structuredResearch": null,
-    "supportInternationalStudents": null,
-    "subject": "Economic Sciences, Economics",
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Economics",
     "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4461/",
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8939/",
     "requestLanguage": "en"
   },
   {
@@ -23905,6 +23871,40 @@
     "subject": "Economics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4034/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4461,
+    "image": null,
+    "copyright": null,
+    "courseName": "Economics",
+    "courseNameShort": "Economics",
+    "academy": "University of Bayreuth",
+    "city": "Bayreuth",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>Application for EU citizens</strong><br />\r\n15 April to mid-October, recommendation: 1 September (for the following winter semester)<br />\r\n15 October to mid-April, recommendation: 1 March (for the following summer semester)</p>\r\n\r\n<p><strong>Application for non-EU citizens</strong><br />\r\n15 April to 15 July, recommendation: 1 June (for the following winter semester)<br />\r\n15 October to 15 January, recommendation: 1 December (for the following summer semester)</p>\r\n\r\n<p><a href=\"https://www.uni-bayreuth.de/en/master/economics#ee393a62\">https://www.uni-bayreuth.de/en/master/economics#ee393a62</a></p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Economic Sciences, Economics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4461/",
     "requestLanguage": "en"
   },
   {
@@ -24563,6 +24563,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4140,
+    "image": null,
+    "copyright": null,
+    "courseName": "Electrical Engineering",
+    "courseNameShort": "Electrical Engineering",
+    "academy": "Kempten University of Applied Sciences",
+    "city": "Kempten (Allgäu)",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application period for the following summer semester: 15 November 2025 - 15 January 2026</p>\r\n\r\n<p>Application period for the following winter semester: end of April 2026 - 15 July 2026</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme"
+    ],
+    "subject": "Electrical Power Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4140/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 6926,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6810c57d050c2.jpeg",
     "copyright": "University of Stuttgart",
@@ -24636,42 +24672,6 @@
     "subject": "Electrical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10345/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4140,
-    "image": null,
-    "copyright": null,
-    "courseName": "Electrical Engineering",
-    "courseNameShort": "Electrical Engineering",
-    "academy": "Kempten University of Applied Sciences",
-    "city": "Kempten (Allgäu)",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Application period for the following summer semester: 15 November 2025 - 15 January 2026</p>\r\n\r\n<p>Application period for the following winter semester: end of April 2026 - 15 July 2026</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme"
-    ],
-    "subject": "Electrical Power Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4140/",
     "requestLanguage": "en"
   },
   {
@@ -24855,6 +24855,78 @@
     "requestLanguage": "en"
   },
   {
+    "id": 6091,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/60992b7598bc6893076824.jpeg",
+    "copyright": "OVGU, Stefan Berger",
+    "courseName": "Electrical Engineering and Information Technology",
+    "courseNameShort": "Electrical Engineering and Information Technology",
+    "academy": "Otto von Guericke University Magdeburg",
+    "city": "Magdeburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>15 July (international applicants)</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Accompanying programme | Specialist counselling"
+    ],
+    "subject": "Automation Technology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/6091/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7695,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/608fbbb4a4e66166266075.jpeg",
+    "copyright": "Andreas Reeg",
+    "courseName": "Electrical Engineering and Information Technology",
+    "courseNameShort": "Electrical Engineering and Information Technology",
+    "academy": "Karlsruhe University of Applied Sciences",
+    "city": "Karlsruhe",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>15 September</strong></p>\r\n\r\n<p>The online portal is open&nbsp;<strong>from the beginning of May&nbsp;until 15 September.&nbsp;</strong></p>\r\n\r\n<p>Once you have submitted all your documents, we can process your admission. Therefore, we recommend that you apply as early as possible.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Welcome event | Accompanying programme"
+    ],
+    "subject": "Automation Technology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7695/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 9157,
     "image": null,
     "copyright": null,
@@ -24925,78 +24997,6 @@
     "subject": "Electrical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3993/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 6091,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/60992b7598bc6893076824.jpeg",
-    "copyright": "OVGU, Stefan Berger",
-    "courseName": "Electrical Engineering and Information Technology",
-    "courseNameShort": "Electrical Engineering and Information Technology",
-    "academy": "Otto von Guericke University Magdeburg",
-    "city": "Magdeburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>15 July (international applicants)</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Accompanying programme | Specialist counselling"
-    ],
-    "subject": "Automation Technology",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/6091/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 7695,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/608fbbb4a4e66166266075.jpeg",
-    "copyright": "Andreas Reeg",
-    "courseName": "Electrical Engineering and Information Technology",
-    "courseNameShort": "Electrical Engineering and Information Technology",
-    "academy": "Karlsruhe University of Applied Sciences",
-    "city": "Karlsruhe",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>15 September</strong></p>\r\n\r\n<p>The online portal is open&nbsp;<strong>from the beginning of May&nbsp;until 15 September.&nbsp;</strong></p>\r\n\r\n<p>Once you have submitted all your documents, we can process your admission. Therefore, we recommend that you apply as early as possible.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Welcome event | Accompanying programme"
-    ],
-    "subject": "Automation Technology",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7695/",
     "requestLanguage": "en"
   },
   {
@@ -26535,42 +26535,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9999,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67cad8cd4ab7a.jpeg",
-    "copyright": "THWS",
-    "courseName": "Engineering Science",
-    "courseNameShort": "Engineering Science",
-    "academy": "Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)",
-    "city": "Schweinfurt",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": null,
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>For pre-year application deadline: see <a href=\"http://pre-year.thws.de\">http://pre-year.thws.de</a>.</p>\r\n\r\n<p>Application period for online study programme at THWS: 1 May until 15 July</p>",
-    "isCompleteOnlinePossible": true,
-    "badgeLabel": "Fully online",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "Information Technology",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9999/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9672,
     "image": null,
     "copyright": null,
@@ -26605,6 +26569,42 @@
     "subject": "Process Technology",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9672/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9999,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67cad8cd4ab7a.jpeg",
+    "copyright": "THWS",
+    "courseName": "Engineering Science",
+    "courseNameShort": "Engineering Science",
+    "academy": "Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)",
+    "city": "Schweinfurt",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>For pre-year application deadline: see <a href=\"http://pre-year.thws.de\">http://pre-year.thws.de</a>.</p>\r\n\r\n<p>Application period for online study programme at THWS: 1 May until 15 July</p>",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Fully online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Information Technology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9999/",
     "requestLanguage": "en"
   },
   {
@@ -26752,42 +26752,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 8918,
-    "image": null,
-    "copyright": null,
-    "courseName": "English and American Studies",
-    "courseNameShort": "English and American Studies",
-    "academy": "University of Tübingen",
-    "city": "Tübingen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>Non-EU applicants:</strong></p>\r\n\r\n<ul>\r\n\t<li>15 July for the following winter semester (major and minor)</li>\r\n\t<li>15 January for the following summer semester (minor only)</li>\r\n</ul>\r\n\r\n<p><strong>EU applicants:</strong></p>\r\n\r\n<ul>\r\n\t<li>30 September for the following winter semester (major and minor)</li>\r\n\t<li>31 March for the following summer semester (minor only)</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors"
-    ],
-    "subject": "English Studies",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8918/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4263,
     "image": null,
     "copyright": null,
@@ -26821,6 +26785,42 @@
     "subject": "English Studies",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4263/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 8918,
+    "image": null,
+    "copyright": null,
+    "courseName": "English and American Studies",
+    "courseNameShort": "English and American Studies",
+    "academy": "University of Tübingen",
+    "city": "Tübingen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>Non-EU applicants:</strong></p>\r\n\r\n<ul>\r\n\t<li>15 July for the following winter semester (major and minor)</li>\r\n\t<li>15 January for the following summer semester (minor only)</li>\r\n</ul>\r\n\r\n<p><strong>EU applicants:</strong></p>\r\n\r\n<ul>\r\n\t<li>30 September for the following winter semester (major and minor)</li>\r\n\t<li>31 March for the following summer semester (minor only)</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors"
+    ],
+    "subject": "English Studies",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8918/",
     "requestLanguage": "en"
   },
   {
@@ -34719,42 +34719,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 7734,
-    "image": null,
-    "copyright": null,
-    "courseName": "Global Health",
-    "courseNameShort": "Global Health",
-    "academy": "University of Bonn",
-    "city": "Bonn",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "2 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "4,850",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>Prospective scholarship holders (particularly DAAD-EPOS): 15 November for the following winter semester</li>\r\n\t<li>Non-EU applicants: 15 March&nbsp;for the following winter semester</li>\r\n\t<li>EU applicants: 15 July&nbsp;for the following winter semester</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Specialist counselling | Visa matters"
-    ],
-    "subject": "Health Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7734/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4883,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ad9cf8cb2453044459437.jpeg",
     "copyright": "Fulda University",
@@ -34788,6 +34752,42 @@
     "subject": "Sociology, Social Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4883/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7734,
+    "image": null,
+    "copyright": null,
+    "courseName": "Global Health",
+    "courseNameShort": "Global Health",
+    "academy": "University of Bonn",
+    "city": "Bonn",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "2 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "4,850",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>Prospective scholarship holders (particularly DAAD-EPOS): 15 November for the following winter semester</li>\r\n\t<li>Non-EU applicants: 15 March&nbsp;for the following winter semester</li>\r\n\t<li>EU applicants: 15 July&nbsp;for the following winter semester</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Specialist counselling | Visa matters"
+    ],
+    "subject": "Health Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7734/",
     "requestLanguage": "en"
   },
   {
@@ -34932,52 +34932,6 @@
     "subject": "International Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4473/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9004,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/645e0241541af314852475.jpeg",
-    "copyright": "chika_milan/315172698/stock.adobe.com",
-    "courseName": "Global MBA in Sustainability",
-    "courseNameShort": "Global MBA in Sustainability",
-    "academy": "SRH Distance Learning University",
-    "city": "Riedlingen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Other",
-    "programmeDuration": "2 semesters, 3 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": null,
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Since the lectures and examinations are repeated continuously, it is possible to start your studies at any time without any problems. Please submit your application for enrolment in a timely manner and allow two weeks for processing.</p>",
-    "isCompleteOnlinePossible": true,
-    "badgeLabel": "Fully online",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Specialist counselling | Cultural and linguistic preparation | Support with registration procedures"
-    ],
-    "subject": "Environmental Management, Energy Management",
-    "typeOfElearning": [
-      "7",
-      "9",
-      "11",
-      "13",
-      "1",
-      "3",
-      "10",
-      "12",
-      "6"
-    ],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9004/",
     "requestLanguage": "en"
   },
   {
@@ -38421,43 +38375,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9996,
-    "image": null,
-    "copyright": null,
-    "courseName": "Industrial Engineering",
-    "courseNameShort": "Industrial Engineering",
-    "academy": "Albstadt-Sigmaringen University",
-    "city": "Albstadt",
-    "languages": [
-      "English",
-      "German"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Application possible from the<strong> beginning of May</strong> for the winter semester and from the&nbsp;<strong>beginning of November</strong> for the summer semester!</p>",
-    "isCompleteOnlinePossible": true,
-    "badgeLabel": "Hybrid",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Specialist counselling | Visa matters | Support with registration procedures"
-    ],
-    "subject": "Renewable Energies",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9996/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9048,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6655e8642620a335578984.jpeg",
     "copyright": "FuE Zentrum Kiel",
@@ -38498,6 +38415,43 @@
       "11"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9048/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9996,
+    "image": null,
+    "copyright": null,
+    "courseName": "Industrial Engineering",
+    "courseNameShort": "Industrial Engineering",
+    "academy": "Albstadt-Sigmaringen University",
+    "city": "Albstadt",
+    "languages": [
+      "English",
+      "German"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application possible from the<strong> beginning of May</strong> for the winter semester and from the&nbsp;<strong>beginning of November</strong> for the summer semester!</p>",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Hybrid",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Specialist counselling | Visa matters | Support with registration procedures"
+    ],
+    "subject": "Renewable Energies",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9996/",
     "requestLanguage": "en"
   },
   {
@@ -41743,6 +41697,48 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3930,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67f7ab9e7bf32.jpeg",
+    "copyright": "Hochschule Heilbronn",
+    "courseName": "International Business",
+    "courseNameShort": "International Business",
+    "academy": "Heilbronn University of Applied Sciences",
+    "city": "Heilbronn",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>15 July for the winter semester</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [
+      "1",
+      "3",
+      "4",
+      "9",
+      "11"
+    ],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3930/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 6562,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6819f64b0e6e3.jpeg",
     "copyright": "Mats Karlsson",
@@ -41812,48 +41808,6 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9068/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3930,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67f7ab9e7bf32.jpeg",
-    "copyright": "Hochschule Heilbronn",
-    "courseName": "International Business",
-    "courseNameShort": "International Business",
-    "academy": "Heilbronn University of Applied Sciences",
-    "city": "Heilbronn",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>15 July for the winter semester</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [
-      "1",
-      "3",
-      "4",
-      "9",
-      "11"
-    ],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3930/",
     "requestLanguage": "en"
   },
   {
@@ -60227,42 +60181,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4609,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Biochemistry",
-    "courseNameShort": "MSc Biochemistry",
-    "academy": "Freie Universität Berlin",
-    "city": "Berlin",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Application and registration period: 15 April &ndash; 31 May (for the winter semester) and 1 December &ndash; 15 January (for the summer semester)</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event"
-    ],
-    "subject": "Biochemistry",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4609/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4340,
     "image": null,
     "copyright": null,
@@ -60296,6 +60214,42 @@
     "subject": "Biochemistry",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4340/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4609,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Biochemistry",
+    "courseNameShort": "MSc Biochemistry",
+    "academy": "Freie Universität Berlin",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application and registration period: 15 April &ndash; 31 May (for the winter semester) and 1 December &ndash; 15 January (for the summer semester)</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event"
+    ],
+    "subject": "Biochemistry",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4609/",
     "requestLanguage": "en"
   },
   {
@@ -60918,6 +60872,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 10490,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Chemistry",
+    "courseNameShort": "Master of Science in Chemistry",
+    "academy": "TU Dortmund University",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>Non-EU/EEA nationals with a degree from a foreign university:</strong></p>\r\n\r\n<ul>\r\n\t<li>winter semester: until 15 July</li>\r\n\t<li>summer semester: until 15 January</li>\r\n</ul>\r\n\r\n<p><strong>EU/EEA nationals with a foreign degree or non-EU applicants with an undergraduate degree from an EU/EEA country</strong>:</p>\r\n\r\n<ul>\r\n\t<li>Application is possible the whole year.</li>\r\n</ul>\r\n\r\n<p>Please see the&nbsp;<a href=\"https://international.tu-dortmund.de/en/international-applicants/\">website of the International Office</a> for more details about the application and enrolment process.</p>\r\n\r\n<p>For specific questions about application, admission, and enrolment, you can contact the <a href=\"https://international.tu-dortmund.de/en/international-applicants/\">Admissions &amp; Enrolment Office</a> and check the <a href=\"https://ccb.tu-dortmund.de/en/degree-pograms/chemical-biology/master/application/\">website of the Department of Chemistry and Chemical Biology.</a></p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Support with registration procedures"
+    ],
+    "subject": "Chemical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10490/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 10492,
     "image": null,
     "copyright": null,
@@ -60987,42 +60977,6 @@
     "subject": "Chemistry",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3706/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 10490,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Chemistry",
-    "courseNameShort": "Master of Science in Chemistry",
-    "academy": "TU Dortmund University",
-    "city": "Dortmund",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>Non-EU/EEA nationals with a degree from a foreign university:</strong></p>\r\n\r\n<ul>\r\n\t<li>winter semester: until 15 July</li>\r\n\t<li>summer semester: until 15 January</li>\r\n</ul>\r\n\r\n<p><strong>EU/EEA nationals with a foreign degree or non-EU applicants with an undergraduate degree from an EU/EEA country</strong>:</p>\r\n\r\n<ul>\r\n\t<li>Application is possible the whole year.</li>\r\n</ul>\r\n\r\n<p>Please see the&nbsp;<a href=\"https://international.tu-dortmund.de/en/international-applicants/\">website of the International Office</a> for more details about the application and enrolment process.</p>\r\n\r\n<p>For specific questions about application, admission, and enrolment, you can contact the <a href=\"https://international.tu-dortmund.de/en/international-applicants/\">Admissions &amp; Enrolment Office</a> and check the <a href=\"https://ccb.tu-dortmund.de/en/degree-pograms/chemical-biology/master/application/\">website of the Department of Chemistry and Chemical Biology.</a></p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "Chemical Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10490/",
     "requestLanguage": "en"
   },
   {
@@ -61393,42 +61347,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 8324,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/62838f107e384189253050.jpeg",
-    "copyright": "TH Bingen",
-    "courseName": "Master of Science in Computer Science",
-    "courseNameShort": "Master of Science in Computer Science",
-    "academy": "Bingen University of Applied Sciences",
-    "city": "Bingen am Rhein",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Enrolment is only possible for the winter semester.</p>\r\n\r\n<p><strong>Winter semester 2026/27</strong></p>\r\n\r\n<p>Start of the application period: <strong>2 May 2026</strong></p>\r\n\r\n<p>End of the application period: <strong>1 June 2026 </strong>(It presumably might end earlier, so please see our <a href=\"https://www.th-bingen.de/en/studium/master/computer-science\">website</a>.)</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Accompanying programme | Cultural and linguistic preparation"
-    ],
-    "subject": "Applied Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8324/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4455,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cf11d20106e0887234305.jpeg",
     "copyright": "University of Passau",
@@ -61535,6 +61453,42 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6148/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 8324,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/62838f107e384189253050.jpeg",
+    "copyright": "TH Bingen",
+    "courseName": "Master of Science in Computer Science",
+    "courseNameShort": "Master of Science in Computer Science",
+    "academy": "Bingen University of Applied Sciences",
+    "city": "Bingen am Rhein",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Enrolment is only possible for the winter semester.</p>\r\n\r\n<p><strong>Winter semester 2026/27</strong></p>\r\n\r\n<p>Start of the application period: <strong>2 May 2026</strong></p>\r\n\r\n<p>End of the application period: <strong>1 June 2026 </strong>(It presumably might end earlier, so please see our <a href=\"https://www.th-bingen.de/en/studium/master/computer-science\">website</a>.)</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Accompanying programme | Cultural and linguistic preparation"
+    ],
+    "subject": "Applied Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8324/",
     "requestLanguage": "en"
   },
   {
@@ -61754,42 +61708,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 7066,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Data Science",
-    "courseNameShort": "MSc Data Science",
-    "academy": "Freie Universität Berlin",
-    "city": "Berlin",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>All applicants:&nbsp;<strong>31 May</strong> for the following winter semester.</p>\r\n\r\n<p>The dates may change. Please&nbsp;<a href=\"https://www.fu-berlin.de/en/studium/bewerbung/master/konsekutive-masterstudiengaenge/index.html\">find more information here</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "Applied Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7066/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 8951,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/645cc95a3a622681466298.jpeg",
     "copyright": null,
@@ -61823,6 +61741,42 @@
     "subject": "Applied Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8951/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7066,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Data Science",
+    "courseNameShort": "MSc Data Science",
+    "academy": "Freie Universität Berlin",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>All applicants:&nbsp;<strong>31 May</strong> for the following winter semester.</p>\r\n\r\n<p>The dates may change. Please&nbsp;<a href=\"https://www.fu-berlin.de/en/studium/bewerbung/master/konsekutive-masterstudiengaenge/index.html\">find more information here</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Specialist counselling | Support with registration procedures"
+    ],
+    "subject": "Applied Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7066/",
     "requestLanguage": "en"
   },
   {
@@ -62012,42 +61966,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4236,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cc701278fb84986763078.jpeg",
-    "copyright": "Trier University",
-    "courseName": "Master of Science in Economics",
-    "courseNameShort": "Master of Science in Economics",
-    "academy": "Trier University",
-    "city": "Trier",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Non-EU citizens:</p>\r\n\r\n<ul>\r\n\t<li><strong>15 January 2026 </strong>for the summer semester 2026 (admission also valid for the winter semester 2026/27)</li>\r\n\t<li><strong>31 May 2026 </strong>for the winter semester 2026/27 (admission also valid for the summer semester 2027)</li>\r\n</ul>\r\n\r\n<p>German citizens,&nbsp; EU citizens, and applicants with a BA or MA degree from a German university:</p>\r\n\r\n<ul>\r\n\t<li><strong>15 March 2026 </strong>for the summer semester 2026 (admission also valid for the winter semester 2026/27)</li>\r\n\t<li><strong>15 September 2026</strong> for the winter semester 2026/27 (admission also valid for the summer semester 2027)</li>\r\n</ul>\r\n\r\n<p><strong>Recommended start of the programme: winter semester</strong></p>\r\n\r\n<p>Admission is generally valid for two subsequent semesters. Applicants from countries requiring a visa for entering Germany should consider applying until 15 January for beginning their studies in the winter semester of the same year, giving them more time to complete the visa process and to prepare their stay.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Specialist counselling | Buddy programme | Accompanying programme | Cultural and linguistic preparation | Visa matters"
-    ],
-    "subject": "Financial Management, Insurance",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4236/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4208,
     "image": null,
     "copyright": null,
@@ -62084,13 +62002,13 @@
     "requestLanguage": "en"
   },
   {
-    "id": 6323,
-    "image": null,
-    "copyright": null,
+    "id": 4193,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5b1663033927c138250115.jpeg",
+    "copyright": "Anna Logue",
     "courseName": "Master of Science in Economics",
     "courseNameShort": "Master of Science in Economics",
-    "academy": "Humboldt-Universität zu Berlin",
-    "city": "Berlin",
+    "academy": "University of Mannheim",
+    "city": "Mannheim",
     "languages": [
       "English"
     ],
@@ -62101,22 +62019,22 @@
     "date": [],
     "typeCourseDate": "",
     "costString": null,
-    "tuitionFees": "none",
+    "tuitionFees": "varied",
     "courseType": 2,
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>2 May to 31 May (limitation period) for the following winter semester</p>\r\n\r\n<p><a href=\"https://www.hu-berlin.de/en/studies/admission/calendar\">https://www.hu-berlin.de/en/studies/admission/calendar</a></p>",
+    "applicationDeadline": "<p>The <a href=\"https://www.uni-mannheim.de/en/academics/applying/?mtm_campaign=DAAD-Economics&amp;mtm_kwd=Application&amp;mtm_source=DAAD&amp;mtm_medium=Hyperlink\">application</a> period for the following winter semester opens 1 April and closes 15 May.</p>\r\n\r\n<p>Please also check the website of the admissions office regularly for the current application deadlines.</p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
     "structuredResearch": null,
     "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Accompanying programme | Specialist counselling | Visa matters"
+      "Buddy programme | Specialist counselling | Visa matters | Welcome event | Accompanying programme"
     ],
     "subject": "Economics",
     "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/6323/",
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4193/",
     "requestLanguage": "en"
   },
   {
@@ -62192,6 +62110,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4236,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cc701278fb84986763078.jpeg",
+    "copyright": "Trier University",
+    "courseName": "Master of Science in Economics",
+    "courseNameShort": "Master of Science in Economics",
+    "academy": "Trier University",
+    "city": "Trier",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Non-EU citizens:</p>\r\n\r\n<ul>\r\n\t<li><strong>15 January 2026 </strong>for the summer semester 2026 (admission also valid for the winter semester 2026/27)</li>\r\n\t<li><strong>31 May 2026 </strong>for the winter semester 2026/27 (admission also valid for the summer semester 2027)</li>\r\n</ul>\r\n\r\n<p>German citizens,&nbsp; EU citizens, and applicants with a BA or MA degree from a German university:</p>\r\n\r\n<ul>\r\n\t<li><strong>15 March 2026 </strong>for the summer semester 2026 (admission also valid for the winter semester 2026/27)</li>\r\n\t<li><strong>15 September 2026</strong> for the winter semester 2026/27 (admission also valid for the summer semester 2027)</li>\r\n</ul>\r\n\r\n<p><strong>Recommended start of the programme: winter semester</strong></p>\r\n\r\n<p>Admission is generally valid for two subsequent semesters. Applicants from countries requiring a visa for entering Germany should consider applying until 15 January for beginning their studies in the winter semester of the same year, giving them more time to complete the visa process and to prepare their stay.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Specialist counselling | Buddy programme | Accompanying programme | Cultural and linguistic preparation | Visa matters"
+    ],
+    "subject": "Financial Management, Insurance",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4236/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4076,
     "image": null,
     "copyright": null,
@@ -62228,13 +62182,13 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4193,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5b1663033927c138250115.jpeg",
-    "copyright": "Anna Logue",
+    "id": 6323,
+    "image": null,
+    "copyright": null,
     "courseName": "Master of Science in Economics",
     "courseNameShort": "Master of Science in Economics",
-    "academy": "University of Mannheim",
-    "city": "Mannheim",
+    "academy": "Humboldt-Universität zu Berlin",
+    "city": "Berlin",
     "languages": [
       "English"
     ],
@@ -62245,22 +62199,22 @@
     "date": [],
     "typeCourseDate": "",
     "costString": null,
-    "tuitionFees": "varied",
+    "tuitionFees": "none",
     "courseType": 2,
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The <a href=\"https://www.uni-mannheim.de/en/academics/applying/?mtm_campaign=DAAD-Economics&amp;mtm_kwd=Application&amp;mtm_source=DAAD&amp;mtm_medium=Hyperlink\">application</a> period for the following winter semester opens 1 April and closes 15 May.</p>\r\n\r\n<p>Please also check the website of the admissions office regularly for the current application deadlines.</p>",
+    "applicationDeadline": "<p>2 May to 31 May (limitation period) for the following winter semester</p>\r\n\r\n<p><a href=\"https://www.hu-berlin.de/en/studies/admission/calendar\">https://www.hu-berlin.de/en/studies/admission/calendar</a></p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
     "structuredResearch": null,
     "supportInternationalStudents": [
-      "Buddy programme | Specialist counselling | Visa matters | Welcome event | Accompanying programme"
+      "Welcome event | Buddy programme | Accompanying programme | Specialist counselling | Visa matters"
     ],
     "subject": "Economics",
     "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4193/",
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/6323/",
     "requestLanguage": "en"
   },
   {
@@ -64880,42 +64834,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 7861,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/616e9284d2629007728028.jpeg",
-    "copyright": "Hochschule München University of Applied Sciences",
-    "courseName": "Master of Science in Photonics",
-    "courseNameShort": "Master of Science in Photonics",
-    "academy": "Hochschule München University of Applied Sciences",
-    "city": "München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters, 6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li><strong>2 May</strong> to <strong>15 June</strong> for the following winter semester</li>\r\n\t<li><strong>15 November</strong> to <strong>15 January </strong>for the following summer semester</li>\r\n</ul>\r\n\r\n<p>Learn more at: <a href=\"https://hm.edu/en/your_stay_at_hm/students/fulltime/uebersichts____startseite_variante_31.en.html\">https://hm.edu/en/your_stay_at_hm/students/fulltime/uebersichts____startseite_variante_31.en.html</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Laser Technology",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7861/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3880,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5b178f41de1aa724975429.jpeg",
     "copyright": "ASP, FSU Jena, CWorsch",
@@ -64961,56 +64879,20 @@
     "requestLanguage": "en"
   },
   {
-    "id": 6111,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66309e3364ae8121907771.jpeg",
-    "copyright": "Ulm University",
-    "courseName": "Master of Science in Physics",
-    "courseNameShort": "Master of Science in Physics",
-    "academy": "Ulm University",
-    "city": "Ulm",
+    "id": 7861,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/616e9284d2629007728028.jpeg",
+    "copyright": "Hochschule München University of Applied Sciences",
+    "courseName": "Master of Science in Photonics",
+    "courseNameShort": "Master of Science in Photonics",
+    "academy": "Hochschule München University of Applied Sciences",
+    "city": "München",
     "languages": [
       "English"
     ],
     "languageLevelGerman": null,
     "languageLevelEnglish": null,
     "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li><strong>15 November</strong>&nbsp;for the summer semester</li>\r\n\t<li><strong>15 May</strong> for the winter semester</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Pick-up service | Specialist counselling"
-    ],
-    "subject": "Physics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/6111/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 6301,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Physics",
-    "courseNameShort": "Master of Science in Physics",
-    "academy": "University of Regensburg",
-    "city": "Regensburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
+    "programmeDuration": "3 semesters, 6 semesters",
     "date": [],
     "typeCourseDate": "",
     "costString": null,
@@ -65019,17 +64901,17 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>15 January and 15 June for the following semester for all applicants</p>",
+    "applicationDeadline": "<ul>\r\n\t<li><strong>2 May</strong> to <strong>15 June</strong> for the following winter semester</li>\r\n\t<li><strong>15 November</strong> to <strong>15 January </strong>for the following summer semester</li>\r\n</ul>\r\n\r\n<p>Learn more at: <a href=\"https://hm.edu/en/your_stay_at_hm/students/fulltime/uebersichts____startseite_variante_31.en.html\">https://hm.edu/en/your_stay_at_hm/students/fulltime/uebersichts____startseite_variante_31.en.html</a>.</p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
     "structuredResearch": null,
     "supportInternationalStudents": [
-      "Specialist counselling"
+      "Welcome event | Buddy programme"
     ],
-    "subject": "Nanosciences",
+    "subject": "Laser Technology",
     "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/6301/",
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7861/",
     "requestLanguage": "en"
   },
   {
@@ -65105,85 +64987,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9785,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Physics",
-    "courseNameShort": "MSc Physics",
-    "academy": "Ruhr-Universität Bochum",
-    "city": "Bochum",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Application deadline for <strong>national applicants</strong>:<br />\r\nThe application process is described here in detail:<br />\r\n<a href=\"https://www.physik.ruhr-uni-bochum.de/en/studium/unsere-studiengaenge/master-of-science/\">https://www.physik.ruhr-uni-bochum.de/en/studium/unsere-studiengaenge/master-of-science/</a>.</p>\r\n\r\n<p>The application process is to be finished before the regular deadline of enrolment (see website below).</p>\r\n\r\n<p>Application period for <strong>international applicants</strong>:</p>\r\n\r\n<ul>\r\n\t<li>Winter semester: 1 June to 15 July</li>\r\n\t<li>Summer semester: 1 December to 15 January</li>\r\n</ul>\r\n\r\n<p>Additional information can be found here:<br />\r\n<a href=\"https://studium.ruhr-uni-bochum.de/en/internationals-application-masters-degree\">https://studium.ruhr-uni-bochum.de/en/internationals-application-masters-degree</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Welcome event | Cultural and linguistic preparation | Help with finding accommodation | Support with registration procedures | Specialist counselling"
-    ],
-    "subject": "Physics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9785/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4154,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6079792b52a58236305334.jpeg",
-    "copyright": "Image by David Ausserhofer",
-    "courseName": "Master of Science in Physics",
-    "courseNameShort": "Master of Science in Physics",
-    "academy": "Freie Universität Berlin",
-    "city": "Berlin",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>Regular application times</strong></p>\r\n\r\n<ul>\r\n\t<li>Application deadline&nbsp;for the following summer semester is 15 January</li>\r\n\t<li>Application deadline&nbsp;for the following winter semester is 15 August</li>\r\n</ul>\r\n\r\n<p>Applicants who hold a Bachelor&#39;s degree from outside Germany should apply <strong>six weeks before these dates </strong>in order to allow for processing of their applications by uni-assist.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Specialist counselling"
-    ],
-    "subject": "Astrophysics",
-    "typeOfElearning": [
-      "4",
-      "5",
-      "9",
-      "10",
-      "13",
-      "14"
-    ],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4154/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 8606,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/642179057b4d1131330779.jpeg",
     "copyright": "KIT Department of Physics",
@@ -65217,6 +65020,78 @@
     "subject": "Astrophysics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8606/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 6111,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66309e3364ae8121907771.jpeg",
+    "copyright": "Ulm University",
+    "courseName": "Master of Science in Physics",
+    "courseNameShort": "Master of Science in Physics",
+    "academy": "Ulm University",
+    "city": "Ulm",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li><strong>15 November</strong>&nbsp;for the summer semester</li>\r\n\t<li><strong>15 May</strong> for the winter semester</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Pick-up service | Specialist counselling"
+    ],
+    "subject": "Physics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/6111/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 6301,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Physics",
+    "courseNameShort": "Master of Science in Physics",
+    "academy": "University of Regensburg",
+    "city": "Regensburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>15 January and 15 June for the following semester for all applicants</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Specialist counselling"
+    ],
+    "subject": "Nanosciences",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/6301/",
     "requestLanguage": "en"
   },
   {
@@ -65325,6 +65200,85 @@
     "subject": "Astrophysics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8400/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9785,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Physics",
+    "courseNameShort": "MSc Physics",
+    "academy": "Ruhr-Universität Bochum",
+    "city": "Bochum",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application deadline for <strong>national applicants</strong>:<br />\r\nThe application process is described here in detail:<br />\r\n<a href=\"https://www.physik.ruhr-uni-bochum.de/en/studium/unsere-studiengaenge/master-of-science/\">https://www.physik.ruhr-uni-bochum.de/en/studium/unsere-studiengaenge/master-of-science/</a>.</p>\r\n\r\n<p>The application process is to be finished before the regular deadline of enrolment (see website below).</p>\r\n\r\n<p>Application period for <strong>international applicants</strong>:</p>\r\n\r\n<ul>\r\n\t<li>Winter semester: 1 June to 15 July</li>\r\n\t<li>Summer semester: 1 December to 15 January</li>\r\n</ul>\r\n\r\n<p>Additional information can be found here:<br />\r\n<a href=\"https://studium.ruhr-uni-bochum.de/en/internationals-application-masters-degree\">https://studium.ruhr-uni-bochum.de/en/internationals-application-masters-degree</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Welcome event | Cultural and linguistic preparation | Help with finding accommodation | Support with registration procedures | Specialist counselling"
+    ],
+    "subject": "Physics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9785/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4154,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6079792b52a58236305334.jpeg",
+    "copyright": "Image by David Ausserhofer",
+    "courseName": "Master of Science in Physics",
+    "courseNameShort": "Master of Science in Physics",
+    "academy": "Freie Universität Berlin",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>Regular application times</strong></p>\r\n\r\n<ul>\r\n\t<li>Application deadline&nbsp;for the following summer semester is 15 January</li>\r\n\t<li>Application deadline&nbsp;for the following winter semester is 15 August</li>\r\n</ul>\r\n\r\n<p>Applicants who hold a Bachelor&#39;s degree from outside Germany should apply <strong>six weeks before these dates </strong>in order to allow for processing of their applications by uni-assist.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Specialist counselling"
+    ],
+    "subject": "Astrophysics",
+    "typeOfElearning": [
+      "4",
+      "5",
+      "9",
+      "10",
+      "13",
+      "14"
+    ],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4154/",
     "requestLanguage": "en"
   },
   {
@@ -65990,41 +65944,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4001,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cf62a2d472c0568643699.jpeg",
-    "copyright": null,
-    "courseName": "Master of Science in Software Engineering",
-    "courseNameShort": "Master of Science in Software Engineering",
-    "academy": "University of Augsburg",
-    "city": "Augsburg",
-    "languages": [
-      "English",
-      "German"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>All applicants: 1 May for the following winter semester</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": null,
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4001/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 8417,
     "image": null,
     "copyright": null,
@@ -66058,6 +65977,41 @@
     "subject": "Software Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8417/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4001,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cf62a2d472c0568643699.jpeg",
+    "copyright": null,
+    "courseName": "Master of Science in Software Engineering",
+    "courseNameShort": "Master of Science in Software Engineering",
+    "academy": "University of Augsburg",
+    "city": "Augsburg",
+    "languages": [
+      "English",
+      "German"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>All applicants: 1 May for the following winter semester</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4001/",
     "requestLanguage": "en"
   },
   {
@@ -68062,6 +68016,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3955,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661e65881b78e458169280.jpeg",
+    "copyright": "EBS Universität",
+    "courseName": "Master's in Finance (MSc)",
+    "courseNameShort": "Master's in Finance",
+    "academy": "EBS Universität für Wirtschaft und Recht",
+    "city": "Oestrich-Winkel",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "2 semesters, 4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>EBS Universit&auml;t conducts a holistic selection process. We assess the above minimum scores in the context of your overall profile, professional experience and background.</p>\r\n\r\n<p><strong>There are no application deadlines</strong> at EBS; however, early application is particularly recommended for international candidates and scholarship seekers.</p>\r\n\r\n<p><strong>Application recommendation for non-EU applicants with visa requirements:</strong><br />\r\nTo start in the autumn semester: end of May<br />\r\nTo start in the spring semester: end of September</p>\r\n\r\n<p><strong>Please apply well in advance,</strong> considering the visa process duration in your home country.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Welcome event | Help with finding accommodation"
+    ],
+    "subject": "Financial Management, Insurance",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3955/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 9843,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66f4059f92c4c781347245.jpeg",
     "copyright": "Berlin&Cramer",
@@ -68131,42 +68121,6 @@
     "subject": "Business Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3650/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3955,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661e65881b78e458169280.jpeg",
-    "copyright": "EBS Universität",
-    "courseName": "Master's in Finance (MSc)",
-    "courseNameShort": "Master's in Finance",
-    "academy": "EBS Universität für Wirtschaft und Recht",
-    "city": "Oestrich-Winkel",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "2 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": null,
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>EBS Universit&auml;t conducts a holistic selection process. We assess the above minimum scores in the context of your overall profile, professional experience and background.</p>\r\n\r\n<p><strong>There are no application deadlines</strong> at EBS; however, early application is particularly recommended for international candidates and scholarship seekers.</p>\r\n\r\n<p><strong>Application recommendation for non-EU applicants with visa requirements:</strong><br />\r\nTo start in the autumn semester: end of May<br />\r\nTo start in the spring semester: end of September</p>\r\n\r\n<p><strong>Please apply well in advance,</strong> considering the visa process duration in your home country.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Welcome event | Help with finding accommodation"
-    ],
-    "subject": "Financial Management, Insurance",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3955/",
     "requestLanguage": "en"
   },
   {
@@ -68651,42 +68605,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9758,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/663b9c576e15e382427751.jpeg",
-    "copyright": "Julia Berlin Photography",
-    "courseName": "Master's in Management (MSc)",
-    "courseNameShort": "Master's in Management (MSc)",
-    "academy": "WHU - Otto Beisheim School of Management",
-    "city": "Vallendar",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "9,900",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9758/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3938,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661d4bca7b994490606779.jpeg",
     "copyright": "EBS Universität",
@@ -68756,6 +68674,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4736/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9758,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/663b9c576e15e382427751.jpeg",
+    "copyright": "Julia Berlin Photography",
+    "courseName": "Master's in Management (MSc)",
+    "courseNameShort": "Master's in Management (MSc)",
+    "academy": "WHU - Otto Beisheim School of Management",
+    "city": "Vallendar",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "9,900",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Applicants requiring a visa: 30 April<br />\r\nApplicants not requiring a visa: 31 May</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9758/",
     "requestLanguage": "en"
   },
   {
@@ -70798,6 +70752,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3872,
+    "image": null,
+    "copyright": null,
+    "courseName": "Mathematics",
+    "courseNameShort": "Mathematics",
+    "academy": "Technical University of Munich",
+    "city": "Garching b. München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "6,000",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>1 January until 31 May for the winter semester<br />\r\n1 October until 30 November for the summer semester</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Tutors | Support with registration procedures"
+    ],
+    "subject": "Applied Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3872/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 7858,
     "image": null,
     "copyright": null,
@@ -70906,42 +70896,6 @@
       "5"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7263/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3872,
-    "image": null,
-    "copyright": null,
-    "courseName": "Mathematics",
-    "courseNameShort": "Mathematics",
-    "academy": "Technical University of Munich",
-    "city": "Garching b. München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "6,000",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>1 January until 31 May for the winter semester<br />\r\n1 October until 30 November for the summer semester</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Tutors | Support with registration procedures"
-    ],
-    "subject": "Applied Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3872/",
     "requestLanguage": "en"
   },
   {
@@ -71657,42 +71611,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 7090,
-    "image": null,
-    "copyright": null,
-    "courseName": "MBA in General Management",
-    "courseNameShort": "MBA in General Management",
-    "academy": "International School of Management (ISM)",
-    "city": "München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "8,700",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The standard period of study for the full-time MBA is <strong>three trimesters plus the thesis</strong>.</p>\r\n\r\n<p><strong>Applicants who require a visa</strong> for studying in Germany must submit their application documents by the following deadline:</p>\r\n\r\n<ul>\r\n\t<li><strong>15 July</strong>&nbsp;(semester starts end of September)</li>\r\n</ul>\r\n\r\n<p><strong>For all other applicants</strong>, the admission period is more flexible and ends at the latest in August.&nbsp;</p>\r\n\r\n<p>You can apply up to one year in advance (admission test result is valid for one year).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Visa matters | Support with registration procedures"
-    ],
-    "subject": "International Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7090/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3801,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5e9f10b5accf6131629564.jpeg",
     "copyright": "Melanie Scheller-Ratto",
@@ -71726,6 +71644,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3801/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7090,
+    "image": null,
+    "copyright": null,
+    "courseName": "MBA in General Management",
+    "courseNameShort": "MBA in General Management",
+    "academy": "International School of Management (ISM)",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "8,700",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The standard period of study for the full-time MBA is <strong>three trimesters plus the thesis</strong>.</p>\r\n\r\n<p><strong>Applicants who require a visa</strong> for studying in Germany must submit their application documents by the following deadline:</p>\r\n\r\n<ul>\r\n\t<li><strong>15 July</strong>&nbsp;(semester starts end of September)</li>\r\n</ul>\r\n\r\n<p><strong>For all other applicants</strong>, the admission period is more flexible and ends at the latest in August.&nbsp;</p>\r\n\r\n<p>You can apply up to one year in advance (admission test result is valid for one year).</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters | Support with registration procedures"
+    ],
+    "subject": "International Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7090/",
     "requestLanguage": "en"
   },
   {
@@ -72295,115 +72249,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9991,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67cad6ee3f180.jpeg",
-    "copyright": "THWS",
-    "courseName": "Mechanical Engineering",
-    "courseNameShort": "Mechanical Engineering",
-    "academy": "Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)",
-    "city": "Schweinfurt",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>1 April to 15 June for the following winter semester</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "Manufacturing Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9991/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9905,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/676124c406745352524513.jpeg",
-    "copyright": null,
-    "courseName": "Mechanical Engineering",
-    "courseNameShort": "Mechanical Engineering",
-    "academy": "Aalen University",
-    "city": "Aalen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "1,500",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>10 June 2026 for winter semester 2026/2027</li>\r\n\t<li>15 September 2026 for summer semester 2027</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Support with registration procedures | Accompanying programme"
-    ],
-    "subject": "Mechanical Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9905/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9993,
-    "image": null,
-    "copyright": null,
-    "courseName": "Mechanical Engineering",
-    "courseNameShort": "Mechanical Engineering",
-    "academy": "Albstadt-Sigmaringen University",
-    "city": "Albstadt",
-    "languages": [
-      "German",
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Application is possible from the<strong>&nbsp;beginning of May</strong>&nbsp;for the winter semester and from the&nbsp;<strong>beginning of November</strong>&nbsp;for the summer semester!</p>",
-    "isCompleteOnlinePossible": true,
-    "badgeLabel": "Hybrid",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Specialist counselling | Visa matters | Support with registration procedures | Welcome event | Accompanying programme"
-    ],
-    "subject": "Electrical Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9993/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 10370,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6813f6fff3c07.jpeg",
     "copyright": null,
@@ -72438,6 +72283,42 @@
     "subject": "Mechanical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10370/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9991,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67cad6ee3f180.jpeg",
+    "copyright": "THWS",
+    "courseName": "Mechanical Engineering",
+    "courseNameShort": "Mechanical Engineering",
+    "academy": "Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)",
+    "city": "Schweinfurt",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>1 April to 15 June for the following winter semester</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Manufacturing Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9991/",
     "requestLanguage": "en"
   },
   {
@@ -72559,13 +72440,13 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9743,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66336ac2df376030131053.jpeg",
+    "id": 9905,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/676124c406745352524513.jpeg",
     "copyright": null,
-    "courseName": "Mechanical Engineering (BEng)",
-    "courseNameShort": "Mechanical Engineering (BEng)",
-    "academy": "Kaiserslautern University of Applied Sciences",
-    "city": "Kaiserslautern",
+    "courseName": "Mechanical Engineering",
+    "courseNameShort": "Mechanical Engineering",
+    "academy": "Aalen University",
+    "city": "Aalen",
     "languages": [
       "English"
     ],
@@ -72576,22 +72457,59 @@
     "date": [],
     "typeCourseDate": "",
     "costString": null,
-    "tuitionFees": "none",
+    "tuitionFees": "1,500",
     "courseType": 1,
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>31 August for the following winter semester</p>",
+    "applicationDeadline": "<ul>\r\n\t<li>10 June 2026 for winter semester 2026/2027</li>\r\n\t<li>15 September 2026 for summer semester 2027</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
     "structuredResearch": null,
     "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Pick-up service | Help with finding accommodation"
+      "Welcome event | Buddy programme | Support with registration procedures | Accompanying programme"
     ],
-    "subject": "Design Engineering",
+    "subject": "Mechanical Engineering",
     "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9743/",
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9905/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9993,
+    "image": null,
+    "copyright": null,
+    "courseName": "Mechanical Engineering",
+    "courseNameShort": "Mechanical Engineering",
+    "academy": "Albstadt-Sigmaringen University",
+    "city": "Albstadt",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application is possible from the<strong>&nbsp;beginning of May</strong>&nbsp;for the winter semester and from the&nbsp;<strong>beginning of November</strong>&nbsp;for the summer semester!</p>",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Hybrid",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Specialist counselling | Visa matters | Support with registration procedures | Welcome event | Accompanying programme"
+    ],
+    "subject": "Electrical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9993/",
     "requestLanguage": "en"
   },
   {
@@ -72628,6 +72546,42 @@
     "subject": "Manufacturing Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9268/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9743,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66336ac2df376030131053.jpeg",
+    "copyright": null,
+    "courseName": "Mechanical Engineering (BEng)",
+    "courseNameShort": "Mechanical Engineering (BEng)",
+    "academy": "Kaiserslautern University of Applied Sciences",
+    "city": "Kaiserslautern",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>31 August for the following winter semester</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Pick-up service | Help with finding accommodation"
+    ],
+    "subject": "Design Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9743/",
     "requestLanguage": "en"
   },
   {
@@ -72962,42 +72916,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4492,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/64594027c4518656914009.jpeg",
-    "copyright": "Rhine-Waal University of Applied Sciences",
-    "courseName": "Mechanical Engineering, MSc",
-    "courseNameShort": "Mechanical Engineering, MSc",
-    "academy": "Rhine-Waal University of Applied Sciences",
-    "city": "Kleve",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>All applicants: 15 July for the following winter semester<br />\r\nAll applicants: 15 January for the following summer semester</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Specialist counselling"
-    ],
-    "subject": "Mechanical Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4492/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4352,
     "image": null,
     "copyright": null,
@@ -73031,6 +72949,42 @@
     "subject": "Design Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4352/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4492,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/64594027c4518656914009.jpeg",
+    "copyright": "Rhine-Waal University of Applied Sciences",
+    "courseName": "Mechanical Engineering, MSc",
+    "courseNameShort": "Mechanical Engineering, MSc",
+    "academy": "Rhine-Waal University of Applied Sciences",
+    "city": "Kleve",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>All applicants: 15 July for the following winter semester<br />\r\nAll applicants: 15 January for the following summer semester</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Specialist counselling"
+    ],
+    "subject": "Mechanical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4492/",
     "requestLanguage": "en"
   },
   {
@@ -73142,6 +73096,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3782,
+    "image": null,
+    "copyright": null,
+    "courseName": "Mechatronics",
+    "courseNameShort": "Mechatronics",
+    "academy": "University of Siegen",
+    "city": "Siegen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>30 April at midnight (CEST) each year for the following winter semester</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Mechatronics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3782/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3633,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6464c65827309525992157.jpeg",
     "copyright": "RWU",
@@ -73211,42 +73201,6 @@
     "subject": "Mechatronics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9717/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3782,
-    "image": null,
-    "copyright": null,
-    "courseName": "Mechatronics",
-    "courseNameShort": "Mechatronics",
-    "academy": "University of Siegen",
-    "city": "Siegen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>30 April at midnight (CEST) each year for the following winter semester</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "Mechatronics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3782/",
     "requestLanguage": "en"
   },
   {
@@ -78607,42 +78561,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4516,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66b0acf14663d216320933.jpeg",
-    "copyright": "Peter Winandy",
-    "courseName": "MSc Physics",
-    "courseNameShort": "MSc Physics",
-    "academy": "RWTH Aachen University",
-    "city": "Aachen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Non-EU applicants: 1 March for the following winter semester and 1 September for the following summer semester</p>\r\n\r\n<p>EU applicants: 15 July for the following winter semester and 15 January for the following summer semester</p>\r\n\r\n<p>Apply <a href=\"https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/login/ee/ui/ca2/app/desktop/#/\">here</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Specialist counselling"
-    ],
-    "subject": "Astrophysics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4516/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4311,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ae0a84927a3f635640278.jpeg",
     "copyright": null,
@@ -78715,6 +78633,42 @@
     "subject": "Astrophysics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10482/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4516,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66b0acf14663d216320933.jpeg",
+    "copyright": "Peter Winandy",
+    "courseName": "MSc Physics",
+    "courseNameShort": "MSc Physics",
+    "academy": "RWTH Aachen University",
+    "city": "Aachen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Non-EU applicants: 1 March for the following winter semester and 1 September for the following summer semester</p>\r\n\r\n<p>EU applicants: 15 July for the following winter semester and 15 January for the following summer semester</p>\r\n\r\n<p>Apply <a href=\"https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/login/ee/ui/ca2/app/desktop/#/\">here</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Specialist counselling"
+    ],
+    "subject": "Astrophysics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4516/",
     "requestLanguage": "en"
   },
   {
@@ -79160,42 +79114,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4613,
-    "image": null,
-    "copyright": null,
-    "courseName": "Nanoscience (MSc)",
-    "courseNameShort": "Nanoscience (MSc)",
-    "academy": "University of Tübingen",
-    "city": "Tübingen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "varied",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>15 July for beginning in winter semester<br />\r\n15 January for beginning in summer semester</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Accompanying programme"
-    ],
-    "subject": "Biology",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4613/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4735,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5ae03d2444a03679966944.jpeg",
     "copyright": "University of Kassel",
@@ -79229,6 +79147,42 @@
     "subject": "Molecular Biology",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4735/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4613,
+    "image": null,
+    "copyright": null,
+    "courseName": "Nanoscience (MSc)",
+    "courseNameShort": "Nanoscience (MSc)",
+    "academy": "University of Tübingen",
+    "city": "Tübingen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "varied",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>15 July for beginning in winter semester<br />\r\n15 January for beginning in summer semester</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Accompanying programme"
+    ],
+    "subject": "Biology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4613/",
     "requestLanguage": "en"
   },
   {
@@ -82074,42 +82028,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 3781,
-    "image": null,
-    "copyright": null,
-    "courseName": "Physics",
-    "courseNameShort": "Physics",
-    "academy": "University of Siegen",
-    "city": "Siegen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>For the winter semester (lectures starting in October):</p>\r\n\r\n<ul>\r\n\t<li>1 January &ndash; 30 April for non-EU citizens</li>\r\n\t<li>1 January &ndash; 30 September for EU citizens</li>\r\n</ul>\r\n\r\n<p>For the summer semester (lectures starting in April):</p>\r\n\r\n<ul>\r\n\t<li>1 July &ndash; 31 October for non-EU citizens</li>\r\n\t<li>1 July &ndash; 31 March for EU citizens</li>\r\n</ul>\r\n\r\n<p>Students with a degree from the European Higher Education Area (EHEA) and who do not require a visa can use the extended deadline.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "Experimental Physics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3781/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3858,
     "image": null,
     "copyright": null,
@@ -82143,6 +82061,42 @@
     "subject": "Experimental Physics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3858/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 3781,
+    "image": null,
+    "copyright": null,
+    "courseName": "Physics",
+    "courseNameShort": "Physics",
+    "academy": "University of Siegen",
+    "city": "Siegen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>For the winter semester (lectures starting in October):</p>\r\n\r\n<ul>\r\n\t<li>1 January &ndash; 30 April for non-EU citizens</li>\r\n\t<li>1 January &ndash; 30 September for EU citizens</li>\r\n</ul>\r\n\r\n<p>For the summer semester (lectures starting in April):</p>\r\n\r\n<ul>\r\n\t<li>1 July &ndash; 31 October for non-EU citizens</li>\r\n\t<li>1 July &ndash; 31 March for EU citizens</li>\r\n</ul>\r\n\r\n<p>Students with a degree from the European Higher Education Area (EHEA) and who do not require a visa can use the extended deadline.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Experimental Physics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3781/",
     "requestLanguage": "en"
   },
   {
@@ -82438,43 +82392,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9805,
-    "image": null,
-    "copyright": null,
-    "courseName": "Physics of the Earth and Atmosphere",
-    "courseNameShort": "Physics of the Earth and Atmosphere",
-    "academy": "University of Bonn",
-    "city": "Bonn",
-    "languages": [
-      "German",
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>15 September for following winter semester (October to March)</li>\r\n\t<li>15 March for following summer semester (April to September)</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling"
-    ],
-    "subject": "Geophysics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9805/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 8360,
     "image": null,
     "copyright": null,
@@ -82512,6 +82429,43 @@
       "13"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8360/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9805,
+    "image": null,
+    "copyright": null,
+    "courseName": "Physics of the Earth and Atmosphere",
+    "courseNameShort": "Physics of the Earth and Atmosphere",
+    "academy": "University of Bonn",
+    "city": "Bonn",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>15 September for following winter semester (October to March)</li>\r\n\t<li>15 March for following summer semester (April to September)</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling"
+    ],
+    "subject": "Geophysics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9805/",
     "requestLanguage": "en"
   },
   {
@@ -92554,42 +92508,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 3725,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cdbd75245f01422091536.jpeg",
-    "copyright": "Hochschule Emden/Leer",
-    "courseName": "Technical Management",
-    "courseNameShort": "Technical Management",
-    "academy": "University of Applied Sciences Emden/Leer",
-    "city": "Emden",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "5,980",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>For the winter semester (September to January)</strong><br />\r\nNon-EU Bachelor&#39;s degree applicants: 1 February to 30 April<br />\r\nEU Bachelor&#39;s degree applicants: 1 May to 15 July</p>\r\n\r\n<p><strong>For the summer semester (March to July)</strong><br />\r\nNon-EU Bachelor&#39;s degree applicants: 1 June to 31 October<br />\r\nEU Bachelor&#39;s degree applicants: 1 December to 15 January</p>\r\n\r\n<ul>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Visa matters"
-    ],
-    "subject": "Engineering and Management",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3725/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 10369,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/680f72531b9a6.jpeg",
     "copyright": null,
@@ -92624,6 +92542,42 @@
     "subject": "Process Technology",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10369/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 3725,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cdbd75245f01422091536.jpeg",
+    "copyright": "Hochschule Emden/Leer",
+    "courseName": "Technical Management",
+    "courseNameShort": "Technical Management",
+    "academy": "University of Applied Sciences Emden/Leer",
+    "city": "Emden",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "5,980",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>For the winter semester (September to January)</strong><br />\r\nNon-EU Bachelor&#39;s degree applicants: 1 February to 30 April<br />\r\nEU Bachelor&#39;s degree applicants: 1 May to 15 July</p>\r\n\r\n<p><strong>For the summer semester (March to July)</strong><br />\r\nNon-EU Bachelor&#39;s degree applicants: 1 June to 31 October<br />\r\nEU Bachelor&#39;s degree applicants: 1 December to 15 January</p>\r\n\r\n<ul>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Visa matters"
+    ],
+    "subject": "Engineering and Management",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3725/",
     "requestLanguage": "en"
   },
   {
