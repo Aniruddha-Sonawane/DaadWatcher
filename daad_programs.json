@@ -28574,7 +28574,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Please check the following link for the most up-to-date details:<br />\r\n<a href=\"https://en.th-wildau.de/study/application/degree-programmes/online-application/\">https://en.th-wildau.de/study/application/degree-programmes/online-application/</a></p>\r\n\r\n<p>Applicants with <strong>international education certificates </strong>must apply via uni-assist e.V.:<br />\r\n<a href=\"https://www.uni-assist.de\">https://www.uni-assist.de</a>.</p>\r\n\r\n<p>Application via uni-assist e.V.: <strong>1 May to 15 July</strong></p>\r\n\r\n<p>The online application must be completed in full, submitted electronically, printed and submitted signed along with all required documents no later than the application deadline.</p>",
+    "applicationDeadline": "<p>Please check the following link for the most up-to-date details:<br />\r\n<a href=\"https://en.th-wildau.de/study/application/degree-programmes/online-application/\">https://en.th-wildau.de/study/application/degree-programmes/online-application/</a></p>\r\n\r\n<p>Applicants with <strong>international education certificates </strong>must apply via uni-assist e.V.:<br />\r\n<a href=\"https://www.uni-assist.de\">https://www.uni-assist.de</a>.</p>\r\n\r\n<p>Application via uni-assist e.V.: <strong>1 May to 15 June</strong></p>\r\n\r\n<p>The online application must be completed in full, submitted electronically, printed and submitted signed along with all required documents no later than the application deadline.</p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -49438,49 +49438,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10487,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/681485d5ca516.jpeg",
-    "copyright": "Osnabrueck University of Applied Sciences",
-    "courseName": "International Study Programme 2026",
-    "courseNameShort": "ISP 2026",
-    "academy": "Osnabrück University of Applied Sciences",
-    "city": "Osnabrück",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": [
-      "B2"
-    ],
-    "beginning": null,
-    "programmeDuration": null,
-    "date": [
-      {
-        "start": "2026-05-10",
-        "end": "2026-06-19",
-        "costs": 3050,
-        "registrationDeadline": "2026-01-31"
-      }
-    ],
-    "typeCourseDate": "The date of the course has been set",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 6,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": null,
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": null,
-    "subject": "Automotive Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10487/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 10431,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/680a02304ee64.jpeg",
     "copyright": null,
@@ -56592,7 +56549,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>1 May&ndash;15 July</strong></p>\r\n\r\n<p>Please check the following link for the most up-to-date details: <a href=\"https://en.th-wildau.de/study/application/degree-programmes/online-application/\">https://en.th-wildau.de/study/application/degree-programmes/online-application/</a>.</p>",
+    "applicationDeadline": "<p><strong>1 May&ndash;15 June</strong></p>\r\n\r\n<p>Please check the following link for the most up-to-date details: <a href=\"https://en.th-wildau.de/study/application/degree-programmes/online-application/\">https://en.th-wildau.de/study/application/degree-programmes/online-application/</a>.</p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -61341,6 +61298,43 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4455,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cf11d20106e0887234305.jpeg",
+    "copyright": "University of Passau",
+    "courseName": "Master of Science in Computer Science",
+    "courseNameShort": "MSc Computer Science",
+    "academy": "University of Passau",
+    "city": "Passau",
+    "languages": [
+      "English",
+      "German"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The application round for the April intake starts in mid-November of the previous year; for the October intake, the application round starts in early April. As the application deadlines can change on short notice, we ask that you check <a href=\"https://www.uni-passau.de/en/apply/?mtm_campaign=DAADIPG\">our application pages</a> closer to the time for the specific dates (and what documents you need to submit).</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4455/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 5616,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6093d4957d72f907891360.jpeg",
     "copyright": "Universität Paderborn, Judith Kraft",
@@ -61410,43 +61404,6 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6148/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4455,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5cf11d20106e0887234305.jpeg",
-    "copyright": "University of Passau",
-    "courseName": "Master of Science in Computer Science",
-    "courseNameShort": "MSc Computer Science",
-    "academy": "University of Passau",
-    "city": "Passau",
-    "languages": [
-      "English",
-      "German"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The application round for the April intake starts in mid-November of the previous year; for the October intake, the application round starts in early April. As the application deadlines can change on short notice, we ask that you check <a href=\"https://www.uni-passau.de/en/apply/?mtm_campaign=DAADIPG\">our application pages</a> closer to the time for the specific dates (and what documents you need to submit).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4455/",
     "requestLanguage": "en"
   },
   {
@@ -63079,6 +63036,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 10672,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6972484dcadef.jpeg",
+    "copyright": "University of Passau",
+    "courseName": "Master of Science in Information Systems",
+    "courseNameShort": "MSc Information Systems",
+    "academy": "University of Passau",
+    "city": "Passau",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The application round for the April intake starts in mid-November of the previous year; for the October intake, the application round starts in early April. As the application deadlines can change on short notice, we ask that you check <a href=\"https://www.uni-passau.de/en/apply/?mtm_campaign=DAADIPG\">our application pages</a> closer to the time for the specific dates (and what documents you need to submit).</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10672/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4010,
     "image": null,
     "copyright": null,
@@ -63126,42 +63119,6 @@
       "14"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4010/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 10672,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6972484dcadef.jpeg",
-    "copyright": "University of Passau",
-    "courseName": "Master of Science in Information Systems",
-    "courseNameShort": "MSc Information Systems",
-    "academy": "University of Passau",
-    "city": "Passau",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The application round for the April intake starts in mid-November of the previous year; for the October intake, the application round starts in early April. As the application deadlines can change on short notice, we ask that you check <a href=\"https://www.uni-passau.de/en/apply/?mtm_campaign=DAADIPG\">our application pages</a> closer to the time for the specific dates (and what documents you need to submit).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10672/",
     "requestLanguage": "en"
   },
   {
@@ -81828,7 +81785,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Please check the following link for the most up-to-date details:<br />\r\n<a href=\"https://en.th-wildau.de/study/application/degree-programmes/online-application/\">https://en.th-wildau.de/study/application/degree-programmes/online-application/</a>.</p>\r\n\r\n<p>Application period via uni-assist e.V.: <strong>1 May to 15 July</strong></p>",
+    "applicationDeadline": "<p>Please check the following link for the most up-to-date details:<br />\r\n<a href=\"https://en.th-wildau.de/study/application/degree-programmes/online-application/\">https://en.th-wildau.de/study/application/degree-programmes/online-application/</a>.</p>\r\n\r\n<p>Application period via uni-assist e.V.: <strong>1 May to 15 June</strong></p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
