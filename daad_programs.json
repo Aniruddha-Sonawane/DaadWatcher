@@ -1586,51 +1586,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 5498,
-    "image": null,
-    "copyright": null,
-    "courseName": "AI and Translation",
-    "courseNameShort": "AI and Translation",
-    "academy": "Johannes Gutenberg University Mainz",
-    "city": "Germersheim",
-    "languages": [
-      "German"
-    ],
-    "languageLevelGerman": [
-      "B2",
-      "C1",
-      "C2"
-    ],
-    "languageLevelEnglish": null,
-    "beginning": null,
-    "programmeDuration": null,
-    "date": [
-      {
-        "start": "2026-07-13",
-        "end": "2026-07-17",
-        "costs": 220,
-        "registrationDeadline": "2026-05-15"
-      }
-    ],
-    "typeCourseDate": "The date of the course has been set",
-    "costString": null,
-    "tuitionFees": null,
-    "courseType": 56,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": null,
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": null,
-    "subject": "Computational Linguistics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/5498/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 8922,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6453d5c335f1b146139387.jpeg",
     "copyright": "THI",
@@ -10367,6 +10322,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 8969,
+    "image": null,
+    "copyright": null,
+    "courseName": "Biology",
+    "courseNameShort": "Biology",
+    "academy": "University of Oldenburg",
+    "city": "Oldenburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>General application deadline: 15 June for the following winter semester</li>\r\n\t<li>We appreciate earlier applications from international applicants (e.g. by 15 April) because applications via uni-assist need additional processing time.</li>\r\n\t<li>Application deadline for entry into higher semesters: 15 July and 15 January</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling"
+    ],
+    "subject": "Biology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8969/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 7740,
     "image": null,
     "copyright": null,
@@ -10404,42 +10395,6 @@
       "15"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7740/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 8969,
-    "image": null,
-    "copyright": null,
-    "courseName": "Biology",
-    "courseNameShort": "Biology",
-    "academy": "University of Oldenburg",
-    "city": "Oldenburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>General application deadline: 15 June for the following winter semester</li>\r\n\t<li>We appreciate earlier applications from international applicants (e.g. by 15 April) because applications via uni-assist need additional processing time.</li>\r\n\t<li>Application deadline for entry into higher semesters: 15 July and 15 January</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling"
-    ],
-    "subject": "Biology",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8969/",
     "requestLanguage": "en"
   },
   {
@@ -59834,42 +59789,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4340,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Biochemistry",
-    "courseNameShort": "Master of Science in Biochemistry",
-    "academy": "Friedrich Schiller University Jena",
-    "city": "Jena",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>1 April through 31 May (Non-EU nationals)</li>\r\n\t<li>1 April through 31 August (Germany and EU nationals)</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors"
-    ],
-    "subject": "Biochemistry",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4340/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4609,
     "image": null,
     "copyright": null,
@@ -59903,6 +59822,42 @@
     "subject": "Biochemistry",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4609/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4340,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Biochemistry",
+    "courseNameShort": "Master of Science in Biochemistry",
+    "academy": "Friedrich Schiller University Jena",
+    "city": "Jena",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>1 April through 31 May (Non-EU nationals)</li>\r\n\t<li>1 April through 31 August (Germany and EU nationals)</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors"
+    ],
+    "subject": "Biochemistry",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4340/",
     "requestLanguage": "en"
   },
   {
@@ -61763,42 +61718,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4251,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Economics",
-    "courseNameShort": "Master of Science in Economics",
-    "academy": "Friedrich Schiller University Jena",
-    "city": "Jena",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "none",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>1 April through 31 May (non-EU nationals)</li>\r\n\t<li>1 April through 31 August (Germany and EU nationals)</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event"
-    ],
-    "subject": "Economics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4251/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4076,
     "image": null,
     "copyright": null,
@@ -61868,6 +61787,42 @@
     "subject": "Economics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6323/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4251,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Economics",
+    "courseNameShort": "Master of Science in Economics",
+    "academy": "Friedrich Schiller University Jena",
+    "city": "Jena",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "none",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>1 April through 31 May (non-EU nationals)</li>\r\n\t<li>1 April through 31 August (Germany and EU nationals)</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event"
+    ],
+    "subject": "Economics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4251/",
     "requestLanguage": "en"
   },
   {
