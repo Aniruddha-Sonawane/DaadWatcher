@@ -9699,42 +9699,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 11000,
-    "image": null,
-    "copyright": null,
-    "courseName": "Bioinformatics",
-    "courseNameShort": "Bioinformatics",
-    "academy": "Saarland University",
-    "city": "Saarbrücken",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applicants who require a student visa to pursue their studies in Germany are strongly encouraged to submit their application by 15 November for admission to the winter semester of the following calendar year, and by 15 May for the summer semester of the following calendar year (e.g. by 15 November 2026 for entry in winter semester 2027/2028).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Cultural and linguistic preparation | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Bioinformatics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/11000/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 5373,
     "image": null,
     "copyright": null,
@@ -9768,6 +9732,42 @@
     "subject": "Bioinformatics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/5373/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11000,
+    "image": null,
+    "copyright": null,
+    "courseName": "Bioinformatics",
+    "courseNameShort": "Bioinformatics",
+    "academy": "Saarland University",
+    "city": "Saarbrücken",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Applicants who require a student visa to pursue their studies in Germany are strongly encouraged to submit their application by 15 November for admission to the winter semester of the following calendar year, and by 15 May for the summer semester of the following calendar year (e.g. by 15 November 2026 for entry in winter semester 2027/2028).</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Cultural and linguistic preparation | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Bioinformatics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11000/",
     "requestLanguage": "en"
   },
   {
@@ -54781,8 +54781,8 @@
     "id": 7169,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6819da4fe822f.jpeg",
     "copyright": "Hertie School",
-    "courseName": "Master of Data Science for Public Policy (MDS)",
-    "courseNameShort": "Master of Data Science for Public Policy (MDS)",
+    "courseName": "Master of Data Science and AI for Public Policy",
+    "courseNameShort": "Master of Data Science and AI for Public Policy",
     "academy": "Hertie School",
     "city": "Berlin",
     "languages": [
@@ -68253,42 +68253,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 11029,
-    "image": null,
-    "copyright": null,
-    "courseName": "Mechanical Engineering",
-    "courseNameShort": "Mechanical Engineering",
-    "academy": "Anhalt University of Applied Sciences",
-    "city": "Köthen / Anhalt",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>International students/applicants</strong>: via uni-assist</p>\r\n\r\n<p>15 January for the following summer semester<br />\r\n15 July for the following winter semester</p>\r\n\r\n<p>(In uni-assist, you need to select &quot;Maschinenbau Vertiefung ENG&quot; for the English-taught programme.)</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Manufacturing Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/11029/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9993,
     "image": null,
     "copyright": null,
@@ -68359,6 +68323,42 @@
     "subject": "Plant Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/11038/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11029,
+    "image": null,
+    "copyright": null,
+    "courseName": "Mechanical Engineering",
+    "courseNameShort": "Mechanical Engineering",
+    "academy": "Anhalt University of Applied Sciences",
+    "city": "Köthen / Anhalt",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>International students/applicants</strong>: via uni-assist</p>\r\n\r\n<p>15 January for the following summer semester<br />\r\n15 July for the following winter semester</p>\r\n\r\n<p>(In uni-assist, you need to select &quot;Maschinenbau Vertiefung ENG&quot; for the English-taught programme.)</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "Manufacturing Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11029/",
     "requestLanguage": "en"
   },
   {
@@ -88600,7 +88600,7 @@
     "courseName": "Toxicology",
     "courseNameShort": "Toxicology",
     "academy": "University of Potsdam",
-    "city": "Bergholz-Rehbrücke",
+    "city": "Potsdam",
     "languages": [
       "English"
     ],
