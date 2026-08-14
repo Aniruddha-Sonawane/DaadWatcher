@@ -2889,7 +2889,7 @@
     "courseName": "Applied Data Science and Artificial Intelligence (MSc)",
     "courseNameShort": "Applied Data Science and AI (MSc)",
     "academy": "SRH University",
-    "city": "Heidelberg",
+    "city": "Berlin",
     "languages": [
       "English"
     ],
@@ -12414,42 +12414,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9650,
-    "image": null,
-    "copyright": null,
-    "courseName": "Business Engineering (BEng)",
-    "courseNameShort": "Business Engineering (BEng)",
-    "academy": "SRH University",
-    "city": "Heidelberg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Cultural and linguistic preparation | Visa matters | Buddy programme | Accompanying programme"
-    ],
-    "subject": "Engineering and Management",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9650/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 10529,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69f228b6afbff.jpeg",
     "copyright": null,
@@ -15620,6 +15584,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3595,
+    "image": null,
+    "copyright": null,
+    "courseName": "Computational Mechanics",
+    "courseNameShort": "Computational Mechanics",
+    "academy": "Technical University of Munich",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 May 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Help with finding accommodation"
+    ],
+    "subject": "Civil Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3595/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 6249,
     "image": null,
     "copyright": null,
@@ -15658,42 +15658,6 @@
       "13"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6249/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3595,
-    "image": null,
-    "copyright": null,
-    "courseName": "Computational Mechanics",
-    "courseNameShort": "Computational Mechanics",
-    "academy": "Technical University of Munich",
-    "city": "München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 31 May 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Help with finding accommodation"
-    ],
-    "subject": "Civil Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3595/",
     "requestLanguage": "en"
   },
   {
@@ -16583,7 +16547,7 @@
     "courseName": "Computer Science (BSc)",
     "courseNameShort": "Computer Science (BSc)",
     "academy": "SRH University",
-    "city": "Leipzig",
+    "city": "Berlin",
     "languages": [
       "English"
     ],
@@ -17997,42 +17961,6 @@
     "subject": "Agricultural Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4857/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4787,
-    "image": null,
-    "copyright": null,
-    "courseName": "Dance Movement Therapy (MA)",
-    "courseNameShort": "Dance Movement Therapy (MA)",
-    "academy": "SRH University",
-    "city": "Heidelberg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Specialist counselling | Visa matters | Buddy programme | Tutors | Accompanying programme"
-    ],
-    "subject": "Musicology",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4787/",
     "requestLanguage": "en"
   },
   {
@@ -20608,42 +20536,6 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9222/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 7790,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6818d077a8886.jpeg",
-    "copyright": "SRH University",
-    "courseName": "Digital Transformation Management (MSc)",
-    "courseNameShort": "Digital Transformation Management (MSc)",
-    "academy": "SRH University",
-    "city": "Hamburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7790/",
     "requestLanguage": "en"
   },
   {
@@ -28309,42 +28201,6 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4542/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 7074,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ea02a97ccab.png",
-    "copyright": "SRH University",
-    "courseName": "Executive MBA General Management",
-    "courseNameShort": "Executive MBA General Management",
-    "academy": "SRH University",
-    "city": "Berlin",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "2 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7074/",
     "requestLanguage": "en"
   },
   {
@@ -39855,42 +39711,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 7087,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ea06096c79b.jpeg",
-    "copyright": "SRH University",
-    "courseName": "International Business & Leadership – Sustainability Management (MA)",
-    "courseNameShort": "International Business – Sustainability Management (MA)",
-    "academy": "SRH University",
-    "city": "Hamburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "International Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7087/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 5651,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/645120c2f3767994863018.jpeg",
     "copyright": "Hochschule Fulda",
@@ -40673,76 +40493,6 @@
     "subject": "International Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3811/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4293,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/681a546983897.jpeg",
-    "copyright": "SRH University",
-    "courseName": "International Business and Engineering (MEng)",
-    "courseNameShort": "International Business and Engineering (MEng)",
-    "academy": "SRH University",
-    "city": "Heidelberg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Visa matters | Buddy programme | Accompanying programme | Specialist counselling"
-    ],
-    "subject": "Engineering and Management",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4293/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 6423,
-    "image": null,
-    "copyright": null,
-    "courseName": "International Business and Engineering (MEng)",
-    "courseNameShort": "International Business and Engineering (MEng)",
-    "academy": "SRH University",
-    "city": "Heidelberg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": null,
-    "subject": "Engineering and Management",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/6423/",
     "requestLanguage": "en"
   },
   {
@@ -56355,6 +56105,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3965,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a16a42851101.jpeg",
+    "copyright": "TUM Asia",
+    "courseName": "Master of Science in Aerospace Engineering",
+    "courseNameShort": "Master of Science in Aerospace Engineering",
+    "academy": "Technical University of Munich",
+    "city": "Singapore",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 March 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Visa matters"
+    ],
+    "subject": "Aeronautical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3965/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 7775,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/60956184ed422425476648.jpeg",
     "copyright": "TU Darmstadt / Fachgebiet SLA",
@@ -56395,42 +56181,6 @@
       "13"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7775/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3965,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a16a42851101.jpeg",
-    "copyright": "TUM Asia",
-    "courseName": "Master of Science in Aerospace Engineering",
-    "courseNameShort": "Master of Science in Aerospace Engineering",
-    "academy": "Technical University of Munich",
-    "city": "Singapore",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 31 March 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Visa matters"
-    ],
-    "subject": "Aeronautical Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3965/",
     "requestLanguage": "en"
   },
   {
@@ -67032,6 +66782,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3872,
+    "image": null,
+    "copyright": null,
+    "courseName": "Mathematics",
+    "courseNameShort": "Mathematics",
+    "academy": "Technical University of Munich",
+    "city": "Garching b. München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 30 November 2026 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Tutors | Support with registration procedures"
+    ],
+    "subject": "Applied Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3872/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 8912,
     "image": null,
     "copyright": null,
@@ -67143,42 +66929,6 @@
     "subject": "Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3972/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3872,
-    "image": null,
-    "copyright": null,
-    "courseName": "Mathematics",
-    "courseNameShort": "Mathematics",
-    "academy": "Technical University of Munich",
-    "city": "Garching b. München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 November 2026 + 1 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Tutors | Support with registration procedures"
-    ],
-    "subject": "Applied Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3872/",
     "requestLanguage": "en"
   },
   {
@@ -68317,42 +68067,6 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9712/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4648,
-    "image": null,
-    "copyright": null,
-    "courseName": "MBA – General Management & Executive MBA",
-    "courseNameShort": "MBA – General Management & Executive MBA",
-    "academy": "SRH University",
-    "city": "Berlin",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4648/",
     "requestLanguage": "en"
   },
   {
@@ -85908,7 +85622,7 @@
     "courseName": "Supply Chain Management (MSc)",
     "courseNameShort": "Supply Chain Management (MSc)",
     "academy": "SRH University",
-    "city": "Hamm",
+    "city": "Berlin",
     "languages": [
       "English"
     ],
@@ -90465,42 +90179,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9078,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6464c348e2389089675622.jpeg",
-    "copyright": "SRH University",
-    "courseName": "User Experience Design and Content Creation (BA)",
-    "courseNameShort": "User Experience Design and Content Creation (BA)",
-    "academy": "SRH University",
-    "city": "Berlin",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Support with registration procedures"
-    ],
-    "subject": "Media Design",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9078/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9014,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/645a12fd73862126618583.jpeg",
     "copyright": "fizkes/386177198/stock.adobe.com",
@@ -91068,42 +90746,6 @@
     "subject": "Environmental Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9726/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 5614,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6093addc5758a963240358.jpeg",
-    "copyright": "SRH University",
-    "courseName": "Water Technology (MEng)",
-    "courseNameShort": "Water Technology (MEng)",
-    "academy": "SRH University",
-    "city": "Heidelberg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Visa matters | Buddy programme | Accompanying programme | Specialist counselling"
-    ],
-    "subject": "Hydraulic Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/5614/",
     "requestLanguage": "en"
   },
   {
