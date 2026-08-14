@@ -9373,6 +9373,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 10520,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a7a08d85b497.jpeg",
+    "copyright": null,
+    "courseName": "Biochemical Engineering – Specialisation: Biopharmaceutical Engineering",
+    "courseNameShort": "Biochemical Engineering (Biopharmaceutical Engineering)",
+    "academy": "TU Dortmund University",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 May 2027",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Specialist counselling | Cultural and linguistic preparation | Pick-up service | Support with registration procedures"
+    ],
+    "subject": "Bioengineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10520/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 6203,
     "image": null,
     "copyright": null,
@@ -13397,6 +13433,51 @@
     "requestLanguage": "en"
   },
   {
+    "id": 6565,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6453c398a4cc6589201464.jpeg",
+    "copyright": "TU Dortmund",
+    "courseName": "Chemical Engineering – Specialisation: Process Systems Engineering",
+    "courseNameShort": "Chemical Engineering (Process Systems Engineering)",
+    "academy": "TU Dortmund University",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 May 2027",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Tutors | Pick-up service | Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Support with registration procedures"
+    ],
+    "subject": "Chemical Engineering",
+    "typeOfElearning": [
+      "5",
+      "4",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "15"
+    ],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/6565/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 10513,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/681487933dae2.jpeg",
     "copyright": "University of Stuttgart / Faculty of Chemistry",
@@ -14334,9 +14415,9 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
+    "applicationDeadline": "Register by 14 August 2026",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Fully online",
     "financialSupport": null,
     "structuredResearch": null,
     "supportInternationalStudents": [
@@ -17334,6 +17415,52 @@
     "requestLanguage": "en"
   },
   {
+    "id": 5146,
+    "image": null,
+    "copyright": null,
+    "courseName": "Consulting for Dynamic Innovation",
+    "courseNameShort": "Consulting for Dynamic Innovation",
+    "academy": "HWR Berlin (Berlin School of Economics and Law)",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-01-03",
+        "end": "2027-01-16",
+        "costs": 930,
+        "registrationDeadline": "2026-10-15"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "International Business Administration",
+    "typeOfElearning": [
+      "10"
+    ],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5146/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 10336,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67c16a14b9f7b.jpeg",
     "copyright": "BTU Cottbus-Senftenberg",
@@ -18429,42 +18556,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9965,
-    "image": null,
-    "copyright": null,
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "University of Augsburg",
-    "city": "Augsburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>The programme can be begun in both winter and summer semesters; the regular deadlines are 1 September and 1 March.</p>\r\n\r\n<p>Due to visa processing times, we strongly encourage <strong>non-EU citizens</strong> to apply well ahead of the deadline (suggested: 1 May for winter, 1 December for summer). In this case, early admission is granted to allow sufficient time for visa processing.</p>\r\n\r\n<p>For more information please see our FAQ at&nbsp;<a href=\"https://www.uni-augsburg.de/en/fakultaet/fai/informatik/studienangebot/msc-dsc/#faq_contacts\">https://www.uni-augsburg.de/en/fakultaet/fai/informatik/studienangebot/msc-dsc/#faq_contacts</a>.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9965/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 7636,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/608a718183109582098642.jpeg",
     "copyright": "CC BY-ND 4.0 Hinrikus Wolf",
@@ -18498,6 +18589,42 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7636/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9965,
+    "image": null,
+    "copyright": null,
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "University of Augsburg",
+    "city": "Augsburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The programme can be begun in both winter and summer semesters; the regular deadlines are 1 September and 1 March.</p>\r\n\r\n<p>Due to visa processing times, we strongly encourage <strong>non-EU citizens</strong> to apply well ahead of the deadline (suggested: 1 May for winter, 1 December for summer). In this case, early admission is granted to allow sufficient time for visa processing.</p>\r\n\r\n<p>For more information please see our FAQ at&nbsp;<a href=\"https://www.uni-augsburg.de/en/fakultaet/fai/informatik/studienangebot/msc-dsc/#faq_contacts\">https://www.uni-augsburg.de/en/fakultaet/fai/informatik/studienangebot/msc-dsc/#faq_contacts</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Visa matters | Help with finding accommodation"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9965/",
     "requestLanguage": "en"
   },
   {
@@ -23219,7 +23346,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>There are different deadlines depending on the application procedure.</p>\r\n\r\n<ul>\r\n\t<li>Application with a foreign university degree via uni-assist</li>\r\n\t<li>Application with a German university degree via Marvin</li>\r\n</ul>\r\n\r\n<p>Please visit our website for more information.</p>",
+    "applicationDeadline": "<p>There are <strong>different deadlines</strong> depending on the application procedure.</p>\r\n\r\n<ul>\r\n\t<li>Application with a <strong>foreign university degree via uni-assist</strong>: 1 April to 15 July for a start in the winter semester; 1 October to 15 January for a start in the summer semester</li>\r\n\t<li>Application with a <strong>German university degree via Marvin</strong>: 1 June to 15 July for a start in the winter semester; 1 December to 15 January for a start in the summer semester</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -26286,6 +26413,50 @@
     "requestLanguage": "en"
   },
   {
+    "id": 5116,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5aec41ec1fd7e311393722.jpeg",
+    "copyright": "HWR Berlin",
+    "courseName": "Entrepreneurship and Innovation: Venture Creation",
+    "courseNameShort": "Entrepreneurship and Innovation: Venture Creation",
+    "academy": "HWR Berlin (Berlin School of Economics and Law)",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-07-04",
+        "end": "2027-07-24",
+        "costs": 995,
+        "registrationDeadline": "2027-04-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "International Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5116/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4223,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e7620e8a6d8.jpeg",
     "copyright": "Hochschule Rhein-Waal",
@@ -26846,42 +27017,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10683,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ebd94ea4478.jpeg",
-    "copyright": "JLU/Till Schürmann",
-    "courseName": "Environmental Sciences",
-    "courseNameShort": "Environmental Sciences",
-    "academy": "Justus Liebig University Giessen",
-    "city": "Gießen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 August 2026",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Arboriculture",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10683/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4337,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9e87dd5b6b.png",
     "copyright": "University of Freiburg - Major Wildlife and Biodiversity",
@@ -26915,6 +27050,42 @@
     "subject": "Landscape Conservation",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4337/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10683,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ebd94ea4478.jpeg",
+    "copyright": "JLU/Till Schürmann",
+    "courseName": "Environmental Sciences",
+    "courseNameShort": "Environmental Sciences",
+    "academy": "Justus Liebig University Giessen",
+    "city": "Gießen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 August 2026",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Arboriculture",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10683/",
     "requestLanguage": "en"
   },
   {
@@ -27239,6 +27410,50 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4589/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4941,
+    "image": null,
+    "copyright": null,
+    "courseName": "European Business and Economics Programme (EBEP)",
+    "courseNameShort": "European Business and Economics Programme (EBEP)",
+    "academy": "HWR Berlin (Berlin School of Economics and Law)",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-06-27",
+        "end": "2027-07-24",
+        "costs": 1080,
+        "registrationDeadline": "2027-04-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "International Relations",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4941/",
     "requestLanguage": "en"
   },
   {
@@ -28389,6 +28604,55 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/5517/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5023,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a75f30ed1065.jpeg",
+    "copyright": null,
+    "courseName": "Faculty Sustainable Business & Law – International Exchange Programme",
+    "courseNameShort": "International Exchange Programme",
+    "academy": "Trier University of Applied Sciences",
+    "city": "Hoppstädten-Weiersbach",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-03",
+        "end": "2027-08",
+        "costs": 680,
+        "registrationDeadline": "2026-11-01"
+      },
+      {
+        "start": "2027-10",
+        "end": "2028-03",
+        "costs": 680,
+        "registrationDeadline": "2027-05-15"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set approximately (month)",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5023/",
     "requestLanguage": "en"
   },
   {
@@ -35188,6 +35452,50 @@
     "subject": "Intercultural Studies",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/11056/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5015,
+    "image": null,
+    "copyright": null,
+    "courseName": "How Europe Works – Institutions & Law in the European Union",
+    "courseNameShort": "How Europe Works – Institutions & Law in the EU",
+    "academy": "HWR Berlin (Berlin School of Economics and Law)",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-07-04",
+        "end": "2027-07-24",
+        "costs": 995,
+        "registrationDeadline": "2027-04-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Political Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5015/",
     "requestLanguage": "en"
   },
   {
@@ -51876,6 +52184,50 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4732/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4930,
+    "image": null,
+    "copyright": null,
+    "courseName": "Markets and Management in Europe (M+M)",
+    "courseNameShort": "Markets and Management in Europe (M+M)",
+    "academy": "HWR Berlin (Berlin School of Economics and Law)",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-07-04",
+        "end": "2027-07-24",
+        "costs": 995,
+        "registrationDeadline": "2027-04-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "International Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4930/",
     "requestLanguage": "en"
   },
   {
@@ -84694,6 +85046,53 @@
     "requestLanguage": "en"
   },
   {
+    "id": 5434,
+    "image": null,
+    "copyright": null,
+    "courseName": "Strategy and Brand Management in the Brewing Industry",
+    "courseNameShort": "Strategy & Brand Management in the Brewing Industry",
+    "academy": "HWR Berlin (Berlin School of Economics and Law)",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-01-03",
+        "end": "2027-01-16",
+        "costs": 930,
+        "registrationDeadline": "2026-10-15"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "International Business Administration",
+    "typeOfElearning": [
+      "10",
+      "15"
+    ],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5434/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 9112,
     "image": null,
     "copyright": null,
@@ -86439,42 +86838,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9266,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/662b7e874b55b037698780.jpeg",
-    "copyright": "JLU/Elisa Monte",
-    "courseName": "Sustainable Chemistry",
-    "courseNameShort": "Sustainable Chemistry",
-    "academy": "Justus Liebig University Giessen",
-    "city": "Gießen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 June 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Chemistry",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9266/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 11065,
     "image": null,
     "copyright": null,
@@ -86508,6 +86871,42 @@
     "subject": "Inorganic Chemistry",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/11065/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9266,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/662b7e874b55b037698780.jpeg",
+    "copyright": "JLU/Elisa Monte",
+    "courseName": "Sustainable Chemistry",
+    "courseNameShort": "Sustainable Chemistry",
+    "academy": "Justus Liebig University Giessen",
+    "city": "Gießen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 June 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Chemistry",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9266/",
     "requestLanguage": "en"
   },
   {
@@ -88101,6 +88500,50 @@
     "subject": "Systems Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4827/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9762,
+    "image": null,
+    "copyright": null,
+    "courseName": "Systems, Sustainability, and Shaping Futures",
+    "courseNameShort": "Systems, Sustainability, and Shaping Futures",
+    "academy": "HWR Berlin (Berlin School of Economics and Law)",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-07-11",
+        "end": "2027-07-24",
+        "costs": 930,
+        "registrationDeadline": "2027-04-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Sustainability Sciences (Ecological)",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9762/",
     "requestLanguage": "en"
   },
   {
