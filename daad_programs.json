@@ -6471,7 +6471,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 November 2027",
+    "applicationDeadline": "Register by 30 November 2026",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -27017,42 +27017,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4337,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9e87dd5b6b.png",
-    "copyright": "University of Freiburg - Major Wildlife and Biodiversity",
-    "courseName": "Environmental Sciences",
-    "courseNameShort": "Environmental Sciences",
-    "academy": "University of Freiburg",
-    "city": "Freiburg im Breisgau",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 May 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Cultural and linguistic preparation"
-    ],
-    "subject": "Landscape Conservation",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4337/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 10683,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ebd94ea4478.jpeg",
     "copyright": "JLU/Till Schürmann",
@@ -27086,6 +27050,42 @@
     "subject": "Arboriculture",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10683/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4337,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9e87dd5b6b.png",
+    "copyright": "University of Freiburg - Major Wildlife and Biodiversity",
+    "courseName": "Environmental Sciences",
+    "courseNameShort": "Environmental Sciences",
+    "academy": "University of Freiburg",
+    "city": "Freiburg im Breisgau",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 May 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Cultural and linguistic preparation"
+    ],
+    "subject": "Landscape Conservation",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4337/",
     "requestLanguage": "en"
   },
   {
@@ -27219,7 +27219,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "This programme has no deadline.",
+    "applicationDeadline": "<p>Call for Applications (Scholarships)</p>\r\n\r\n<ul>\r\n\t<li>uni-assist portal open (1 October 2026&ndash;3 January 2027)</li>\r\n\t<li>Application portal open (1 October 2026&ndash;31 January 2027)</li>\r\n</ul>\r\n\r\n<p>Call for Applications (Self-Funded Students)</p>\r\n\r\n<ul>\r\n\t<li>uni-assist portal open (1 February&ndash;3 March 2027)</li>\r\n\t<li>Application portal open (1 February&ndash;31 March 2027)</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -30760,42 +30760,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 11100,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69dcf8c54c5f9.jpeg",
-    "copyright": "Anne-Sophie Stolz",
-    "courseName": "Geomatics",
-    "courseNameShort": "Geomatics",
-    "academy": "Karlsruhe University of Applied Sciences",
-    "city": "Karlsruhe",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 January 2027 + 1 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Tutors"
-    ],
-    "subject": "Geography",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/11100/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4750,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69eb3788af0e6.jpeg",
     "copyright": null,
@@ -30829,6 +30793,42 @@
     "subject": "Geodesy",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4750/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11100,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69dcf8c54c5f9.jpeg",
+    "copyright": "Anne-Sophie Stolz",
+    "courseName": "Geomatics",
+    "courseNameShort": "Geomatics",
+    "academy": "Karlsruhe University of Applied Sciences",
+    "city": "Karlsruhe",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 January 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Tutors"
+    ],
+    "subject": "Geography",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11100/",
     "requestLanguage": "en"
   },
   {
@@ -31263,6 +31263,90 @@
     "subject": "German as a Foreign Language",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4270/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9817,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a8479882eb19.jpeg",
+    "copyright": null,
+    "courseName": "German as a Foreign Language B2 with Additional Material on Psychology",
+    "courseNameShort": "German as a Foreign Language B2 with Material on Psychology",
+    "academy": "International Psychoanalytic University Berlin",
+    "city": "Berlin",
+    "languages": [
+      "German"
+    ],
+    "languageLevelGerman": [
+      "B2"
+    ],
+    "languageLevelEnglish": null,
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2026-10-12",
+        "end": "2027-02-12",
+        "costs": 160
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 5,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Fully online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Psychology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9817/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9889,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/673c871e2901f037344980.jpeg",
+    "copyright": "IPU Berlin",
+    "courseName": "German as a Foreign Language C1 with Additional Material on Psychology",
+    "courseNameShort": "German as a Foreign Language C1 with Material on Psychology",
+    "academy": "International Psychoanalytic University Berlin",
+    "city": "Berlin",
+    "languages": [
+      "German"
+    ],
+    "languageLevelGerman": [
+      "C1"
+    ],
+    "languageLevelEnglish": null,
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-04-05",
+        "end": "2027-07-15",
+        "costs": 190
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 5,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Fully online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "German Language Course (including Literature and Culture Studies)",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9889/",
     "requestLanguage": "en"
   },
   {
@@ -46312,7 +46396,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 April 2027 + 1 more",
+    "applicationDeadline": "<p>Application periods for the winter semester:</p>\r\n\r\n<ul>\r\n\t<li>5 November &ndash;&nbsp;28 February</li>\r\n\t<li>5 May &ndash; 15 July</li>\r\n</ul>\r\n\r\n<p>Application periods for the summer semester:</p>\r\n\r\n<ul>\r\n\t<li>5 November &ndash; 15 January</li>\r\n\t<li>5 May &ndash; 31 August</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -50841,7 +50925,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 7 August 2026",
+    "applicationDeadline": "Register by 30 August 2026",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -54131,7 +54215,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 November 2026 + 1 more",
+    "applicationDeadline": "Register by 15 September 2026 + 1 more",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -54310,7 +54394,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 7 August 2026",
+    "applicationDeadline": "Register by 30 August 2026",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -59817,7 +59901,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 10 June 2027",
+    "applicationDeadline": "Register by 15 March 2027",
     "isCompleteOnlinePossible": true,
     "badgeLabel": "Hybrid",
     "financialSupport": null,
@@ -60510,7 +60594,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 June 2027 + 1 more",
+    "applicationDeadline": "Register by 15 December 2026 + 1 more",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -62468,7 +62552,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 November 2026 + 1 more",
+    "applicationDeadline": "Register by 15 September 2026 + 1 more",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
