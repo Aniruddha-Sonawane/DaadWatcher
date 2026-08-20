@@ -870,7 +870,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>1 May &ndash; 15 June for students with an international&nbsp;university entrance qualification</li>\r\n\t<li>1 May &ndash; 1 September&nbsp;for students with a German university entrance qualification</li>\r\n</ul>",
+    "applicationDeadline": "<ul>\r\n\t<li>1 May &ndash; 15 June for students with an international&nbsp;Bachelor&rsquo;s degree</li>\r\n\t<li>1 June &ndash; 1 September&nbsp;for students with a German Bachelor&rsquo;s degree</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -27197,42 +27197,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10683,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ebd94ea4478.jpeg",
-    "copyright": "JLU/Till Schürmann",
-    "courseName": "Environmental Sciences",
-    "courseNameShort": "Environmental Sciences",
-    "academy": "Justus Liebig University Giessen",
-    "city": "Gießen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>1 May &ndash; 15 June for students with an international&nbsp;university entrance qualification</li>\r\n\t<li>1 May &ndash; 1 September&nbsp;for students with a German university entrance qualification</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Arboriculture",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10683/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4337,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9e87dd5b6b.png",
     "copyright": "University of Freiburg - Major Wildlife and Biodiversity",
@@ -27266,6 +27230,42 @@
     "subject": "Landscape Conservation",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4337/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10683,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ebd94ea4478.jpeg",
+    "copyright": "JLU/Till Schürmann",
+    "courseName": "Environmental Sciences",
+    "courseNameShort": "Environmental Sciences",
+    "academy": "Justus Liebig University Giessen",
+    "city": "Gießen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>1 May &ndash; 15 June for students with an international&nbsp;university entrance qualification</li>\r\n\t<li>1 June &ndash; 1 September&nbsp;for students with a German university entrance qualification</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Arboriculture",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10683/",
     "requestLanguage": "en"
   },
   {
@@ -33366,7 +33366,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>1 May &ndash; 15 June for students with an international&nbsp;university entrance qualification</li>\r\n\t<li>1 May &ndash; 1 September&nbsp;for students with a German university entrance qualification</li>\r\n</ul>",
+    "applicationDeadline": "<ul>\r\n\t<li>1 May &ndash; 15 June for students with an international&nbsp;university entrance qualification</li>\r\n\t<li>1 June &ndash; 1 September&nbsp;for students with a German university entrance qualification</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -72027,7 +72027,7 @@
       {
         "start": "2027-01-07",
         "end": "2027-02-18",
-        "costs": 785,
+        "costs": 815,
         "registrationDeadline": "2026-12-01"
       },
       {
