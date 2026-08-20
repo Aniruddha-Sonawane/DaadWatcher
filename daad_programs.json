@@ -27413,6 +27413,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3943,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69f2165adceae.jpeg",
+    "copyright": "Stefan Klenke",
+    "courseName": "Euromasters – MA Contemporary European Studies",
+    "courseNameShort": "Euromasters – MA Contemporary European Studies",
+    "academy": "Humboldt-Universität zu Berlin",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Accompanying programme | Specialist counselling | Visa matters | Welcome event | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "International Relations",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3943/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4941,
     "image": null,
     "copyright": null,
@@ -29456,7 +29492,7 @@
     ],
     "languageLevelGerman": null,
     "languageLevelEnglish": null,
-    "beginning": "Winter semester",
+    "beginning": "Winter semester, Summer semester",
     "programmeDuration": "6 semesters",
     "date": [],
     "typeCourseDate": "",
@@ -29466,7 +29502,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 July 2027",
+    "applicationDeadline": "Register by 15 January 2027 + 1 more",
     "isCompleteOnlinePossible": true,
     "badgeLabel": "Partly online",
     "financialSupport": null,
@@ -37235,42 +37271,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 7698,
-    "image": null,
-    "copyright": null,
-    "courseName": "Information Engineering",
-    "courseNameShort": "Information Engineering",
-    "academy": "Technical University of Munich",
-    "city": "Heilbronn",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "6 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<ul>\r\n\t<li>Application deadline for the winter semester:&nbsp;<strong>15 May to 15 July</strong></li>\r\n\t<li>Application deadline for the summer semester<strong>: 15 November to 15 January&nbsp;</strong>(only entry into the second or higher semester of enrolment in the degree programme)</li>\r\n</ul>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Accompanying programme | Cultural and linguistic preparation | Specialist counselling"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/7698/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9595,
     "image": null,
     "copyright": null,
@@ -37304,6 +37304,42 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9595/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7698,
+    "image": null,
+    "copyright": null,
+    "courseName": "Information Engineering",
+    "courseNameShort": "Information Engineering",
+    "academy": "Technical University of Munich",
+    "city": "Heilbronn",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<ul>\r\n\t<li>Application deadline for the winter semester:&nbsp;<strong>15 May to 15 July</strong></li>\r\n\t<li>Application deadline for the summer semester<strong>: 15 November to 15 January&nbsp;</strong>(only entry into the second or higher semester of enrolment in the degree programme)</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Accompanying programme | Cultural and linguistic preparation | Specialist counselling"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7698/",
     "requestLanguage": "en"
   },
   {
@@ -89534,6 +89570,42 @@
     "subject": "Mechanical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6096/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4129,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69f219531db40.jpeg",
+    "copyright": "Stefan Klenke",
+    "courseName": "Transatlantic Master's Programme in Social Sciences (TAM)",
+    "courseNameShort": "Transatlantic Master's Programme in Social Sciences (TAM)",
+    "academy": "Humboldt-Universität zu Berlin",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "4,500",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The application deadline is announced on the website of the University of North Carolina at Chapel Hill.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Accompanying programme | Specialist counselling | Visa matters | Cultural and linguistic preparation | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "International Relations",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4129/",
     "requestLanguage": "en"
   },
   {
