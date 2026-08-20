@@ -5964,6 +5964,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 7068,
+    "image": null,
+    "copyright": null,
+    "courseName": "Bachelor Finance & Management",
+    "courseNameShort": "Bachelor Finance & Management",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "5,970",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters | Support with registration procedures | Cultural and linguistic preparation"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7068/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4099,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69f0cd5fa78d5.jpeg",
     "copyright": "Photo by Kai Müller",
@@ -6416,8 +6452,8 @@
     "id": 9904,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67611ec27669a926548191.jpeg",
     "copyright": "Samuel Burkart",
-    "courseName": "Bachelor of Engineering in Mechatronics Engineering",
-    "courseNameShort": "BEng in Mechatronics Engineering",
+    "courseName": "Bachelor of Engineering in Mechatronics & Robotics Engineering",
+    "courseNameShort": "BEng in Mechatronics & Robotics Engineering",
     "academy": "Aalen University",
     "city": "Aalen",
     "languages": [
@@ -6962,6 +6998,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 9020,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5eafd3fd9d6ab736838219.jpeg",
+    "copyright": null,
+    "courseName": "Bachelor's in Applied Data Science & Business Analytics",
+    "courseNameShort": "Bachelor's in Applied Data Science & Business Analytics",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "5,970",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters | Specialist counselling | Support with registration procedures"
+    ],
+    "subject": "Information Systems and Management",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9020/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 9678,
     "image": null,
     "copyright": null,
@@ -7178,6 +7250,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3906/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5259,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5addca629ddca336129670.jpeg",
+    "copyright": null,
+    "courseName": "Bachelor's in International Management",
+    "courseNameShort": "Bachelor's in International Management",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "5,970",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters | Cultural and linguistic preparation | Support with registration procedures"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5259/",
     "requestLanguage": "en"
   },
   {
@@ -18052,6 +18160,78 @@
     "subject": "Applied Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10356/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7712,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/609a93f49f823138176985.jpeg",
+    "copyright": "CISPA",
+    "courseName": "Cybersecurity (BSc)",
+    "courseNameShort": "Cybersecurity (BSc)",
+    "academy": "Saarland University",
+    "city": "Saarbrücken",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>The English-language Bachelor&#39;s programme is subject to an admission restriction and is only offered with a start date in the winter semester. The regular application deadline is&nbsp;<strong>15 July </strong>(interview track:&nbsp;<strong>15 June)</strong>. An optional application for early admission is possible by <strong>15&nbsp;January </strong>and by&nbsp;<strong>15 June</strong>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Welcome event | Cultural and linguistic preparation | Visa matters | Tutors | Pick-up service"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7712/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7711,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/609a9b34d7038075122371.jpeg",
+    "copyright": "CISPA",
+    "courseName": "Cybersecurity (MSc)",
+    "courseNameShort": "Cybersecurity (MSc)",
+    "academy": "Saarland University",
+    "city": "Saarbrücken",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>For the winter semester</strong>:</p>\r\n\r\n<p>Early deadline: Applicants who apply by 15 November for the following winter semester are expected to receive a letter of admission by mid-February.</p>\r\n\r\n<p>Regular deadline: 15 May. A decision can be expected in August.</p>\r\n\r\n<p><strong>For the summer semester:</strong></p>\r\n\r\n<p>Early deadline: Applicants who apply by 15 May for the following summer semester are expected to receive a letter of admission by mid-July.</p>\r\n\r\n<p>Regular deadline: 15 November. A decision can be expected in January.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Cultural and linguistic preparation | Visa matters | Tutors | Pick-up service"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7711/",
     "requestLanguage": "en"
   },
   {
@@ -32712,6 +32892,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4849,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a7fc8196c39a.jpeg",
+    "copyright": null,
+    "courseName": "Global Business and Economics (Bachelor of Science)",
+    "courseNameShort": "Global Business and Economics (BSc)",
+    "academy": "FH Aachen University of Applied Sciences",
+    "city": "Aachen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "6 semesters, 7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 July 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Specialist counselling"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4849/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 8415,
     "image": null,
     "copyright": null,
@@ -41249,6 +41465,42 @@
     "subject": "Electrical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4248/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10401,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a7fcf997953d.jpeg",
+    "copyright": null,
+    "courseName": "International Business Development (MSc)",
+    "courseNameShort": "International Business Development (MSc)",
+    "academy": "FH Aachen University of Applied Sciences",
+    "city": "Aachen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 January 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Specialist counselling"
+    ],
+    "subject": "International Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10401/",
     "requestLanguage": "en"
   },
   {
@@ -52426,6 +52678,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 6238,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master Business Intelligence & Data Science",
+    "courseNameShort": "Master Business Intelligence & Data Science",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "6,480",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters | Support with registration procedures"
+    ],
+    "subject": "Information Systems and Management",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/6238/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3969,
     "image": null,
     "copyright": null,
@@ -52832,6 +53120,78 @@
     "requestLanguage": "en"
   },
   {
+    "id": 5263,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master International Business",
+    "courseNameShort": "Master International Business",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "6,480",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters | Support with registration procedures | Cultural and linguistic preparation"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5263/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5261,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master International Logistics & Supply Chain Management",
+    "courseNameShort": "Master International Logistics & Supply Chain Management",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "6,480",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Cultural and linguistic preparation | Visa matters | Support with registration procedures"
+    ],
+    "subject": "Logistics, Transport, Transport Management",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5261/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 5247,
     "image": null,
     "copyright": null,
@@ -52865,6 +53225,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/5247/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5265,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master Luxury, Sales & Fashion Management",
+    "courseNameShort": "Master Luxury, Sales & Fashion Management",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "6,480",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Cultural and linguistic preparation | Visa matters | Support with registration procedures"
+    ],
+    "subject": "Trade and Industry",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5265/",
     "requestLanguage": "en"
   },
   {
@@ -63822,6 +64218,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 5264,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master Strategic Marketing Management",
+    "courseNameShort": "Master Strategic Marketing Management",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "6,480",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Cultural and linguistic preparation | Visa matters | Support with registration procedures"
+    ],
+    "subject": "Marketing, Distribution",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5264/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 8597,
     "image": null,
     "copyright": null,
@@ -64745,6 +65177,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 5262,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a82eefeb4796.jpeg",
+    "copyright": null,
+    "courseName": "Master's in Finance",
+    "courseNameShort": "Master's in Finance",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "6,480",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Pick-up service"
+    ],
+    "subject": "Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5262/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3955,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661e65881b78e458169280.jpeg",
     "copyright": "EBS Universität",
@@ -64958,6 +65426,42 @@
     "subject": "Financial Management, Insurance",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3596/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5260,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a82ed01b9a34.jpeg",
+    "copyright": null,
+    "courseName": "Master's in International Management",
+    "courseNameShort": "Master's in International Management",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "6,480",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters | Support with registration procedures"
+    ],
+    "subject": "International Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5260/",
     "requestLanguage": "en"
   },
   {
@@ -65728,6 +66232,42 @@
       "15"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4667/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11235,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master's in Psychology & Management",
+    "courseNameShort": "Master's in Psychology & Management",
+    "academy": "International School of Management (ISM)",
+    "city": "Dortmund",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "6,480",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Cultural and linguistic preparation | Visa matters | Support with registration procedures"
+    ],
+    "subject": "Psychology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11235/",
     "requestLanguage": "en"
   },
   {
@@ -68093,6 +68633,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9604/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 7090,
+    "image": null,
+    "copyright": null,
+    "courseName": "MBA General Management",
+    "courseNameShort": "MBA General Management",
+    "academy": "International School of Management (ISM)",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "8,300",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "This programme has no deadline.",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters | Support with registration procedures"
+    ],
+    "subject": "International Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7090/",
     "requestLanguage": "en"
   },
   {
@@ -80975,6 +81551,42 @@
       "10"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/8284/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11236,
+    "image": null,
+    "copyright": null,
+    "courseName": "Quantum Information Theory",
+    "courseNameShort": "Quantum Information Theory",
+    "academy": "Saarland University",
+    "city": "Saarbrücken",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>For the winter semester</strong>:</p>\r\n\r\n<p>Early deadline: Applicants who apply by 1 December for the following winter semester can expect&nbsp;to receive a letter of admission by January.</p>\r\n\r\n<p>Regular deadline: 31 May. A decision can be expected in June.</p>\r\n\r\n<p><strong>For the summer semester:</strong></p>\r\n\r\n<p>Early deadline: Applicants who apply by 1 June for the following summer semester can expect&nbsp;to receive a letter of admission by July.</p>\r\n\r\n<p>Regular deadline: 30 November. A decision can be expected in December.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11236/",
     "requestLanguage": "en"
   },
   {
