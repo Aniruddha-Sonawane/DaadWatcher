@@ -7007,6 +7007,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11243,
+    "image": null,
+    "copyright": null,
+    "courseName": "Bachelor of Science in Industrial Engineering — Sustainable Energy Systems",
+    "courseNameShort": "Bachelor of Science in Industrial Engineering",
+    "academy": "FH Aachen University of Applied Sciences",
+    "city": "Jülich",
+    "languages": [
+      "German"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "6 semesters, 7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Deadlines:</p>\r\n\r\n<ul>\r\n\t<li>15 July for international applicants (only through uni-assist)</li>\r\n\t<li>31 August for applicants with a German &quot;Abitur&quot; or &quot;Fachhochschulreife&quot;</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Specialist counselling"
+    ],
+    "subject": "Environmental Protection Technology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11243/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 10674,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69f2197707b3a.jpeg",
     "copyright": "University of Passau",
@@ -14365,6 +14401,43 @@
     "subject": "Biology",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4028/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11242,
+    "image": null,
+    "copyright": null,
+    "courseName": "Circular Economy and Resilient Food Systems (MA)",
+    "courseNameShort": "CERES",
+    "academy": "Technische Hochschule Nürnberg Georg Simon Ohm",
+    "city": "Neumarkt in der Oberpfalz",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 July 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event"
+    ],
+    "subject": "Economics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11242/",
     "requestLanguage": "en"
   },
   {
@@ -24209,6 +24282,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 7927,
+    "image": null,
+    "copyright": null,
+    "courseName": "Electrical Engineering (Electronics Design / Communication Engineering / Automation)",
+    "courseNameShort": "Electrical Engineering",
+    "academy": "University of Siegen",
+    "city": "Siegen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 30 April 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Automation Technology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/7927/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4470,
     "image": null,
     "copyright": null,
@@ -32892,6 +33001,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3915,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69f20fda18fba.jpeg",
+    "copyright": "Stefan Klenke",
+    "courseName": "GET MA — Global and European Transformations Master's",
+    "courseNameShort": "GET MA — Global and European Transformations Master's",
+    "academy": "Humboldt-Universität zu Berlin",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "2,500",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application deadlines may vary. Please consult the programme website for the exact dates.</p>\r\n\r\n<p>There are two application deadlines: the first deadline is at the end of March, and the second deadline is in mid-June.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "International Relations",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3915/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3935,
     "image": null,
     "copyright": null,
@@ -36460,6 +36605,44 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11244,
+    "image": null,
+    "copyright": null,
+    "courseName": "Ibero-Romance Cultural Studies",
+    "courseNameShort": "Ibero-Romance Cultural Studies (IRK)",
+    "academy": "University of Augsburg",
+    "city": "Augsburg",
+    "languages": [
+      "German",
+      "Spanish",
+      "Other teaching language"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 September 2026 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Specialist counselling"
+    ],
+    "subject": "Intercultural Studies",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11244/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4623,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a3b8156ceae0.jpeg",
     "copyright": "Martin Braun",
@@ -39764,6 +39947,43 @@
     "subject": "Religious Studies",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4056/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 8524,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/636d17c7741a3960756325.jpeg",
+    "copyright": null,
+    "courseName": "Interdisciplinary Engineering",
+    "courseNameShort": "Interdisciplinary Engineering",
+    "academy": "Trier University of Applied Sciences",
+    "city": "Trier",
+    "languages": [
+      "English",
+      "German"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>All relevant information regarding application details and deadlines can be found here:&nbsp;<a href=\"https://www.hochschule-trier.de/hauptcampus/studium/bewerbung-zulassung/informationen\">https://www.hochschule-trier.de/hauptcampus/studium/bewerbung-zulassung/informationen</a>.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Specialist counselling"
+    ],
+    "subject": "Electrical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8524/",
     "requestLanguage": "en"
   },
   {
@@ -52678,6 +52898,40 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11241,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a79e581da863.jpeg",
+    "copyright": "Hochschule Koblenz",
+    "courseName": "Marketing and International Business",
+    "courseNameShort": "Marketing and International Business",
+    "academy": "University of Applied Sciences Koblenz",
+    "city": "Koblenz",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 June 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Trade and Industry",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11241/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4930,
     "image": null,
     "copyright": null,
@@ -58949,6 +59203,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11240,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Computer Science",
+    "courseNameShort": "MSc in Computer Science",
+    "academy": "Aalen University",
+    "city": "Aalen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 June 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Accompanying programme | Help with finding accommodation"
+    ],
+    "subject": "Applied Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11240/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 5351,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69f24a05eded3.jpeg",
     "copyright": "Trier University, Sheila Werner",
@@ -59165,6 +59455,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4208,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Economics",
+    "courseNameShort": "Master of Science in Economics",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 30 April 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "Economics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4208/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4193,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9e8aba5dc5.png",
     "copyright": "Anna Logue",
@@ -59378,42 +59704,6 @@
     "subject": "Economics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6323/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4208,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Economics",
-    "courseNameShort": "Master of Science in Economics",
-    "academy": "Ludwig-Maximilians-Universität München",
-    "city": "München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 April 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Economics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4208/",
     "requestLanguage": "en"
   },
   {
