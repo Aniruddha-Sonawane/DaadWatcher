@@ -6745,6 +6745,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11249,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a984e2f13f4d.png",
+    "copyright": null,
+    "courseName": "Bachelor of Science Business Administration",
+    "courseNameShort": "BSc in Business Administration",
+    "academy": "Kühne Logistics University",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "7,900",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 March 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11249/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 9973,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/67c1bd3a6f377.jpeg",
     "copyright": "Adobe Stock",
@@ -43277,40 +43313,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 5305,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6810c8c93304c.jpeg",
-    "copyright": "GCSC",
-    "courseName": "International Graduate Centre for the Study of Culture (GCSC)",
-    "courseNameShort": "International Graduate Centre for the Study of Culture",
-    "academy": "Justus Liebig University Giessen",
-    "city": "Gießen",
-    "languages": null,
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": null,
-    "programmeDuration": null,
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 4,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": null,
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": true,
-    "structuredResearch": true,
-    "supportInternationalStudents": [
-      "Welcome event | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/5305/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9576,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6810c56ef0068.jpeg",
     "copyright": null,
@@ -43345,6 +43347,40 @@
     "subject": "History",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9576/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5305,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6810c8c93304c.jpeg",
+    "copyright": "GCSC",
+    "courseName": "International Graduate Centre for the Study of Culture (GCSC)",
+    "courseNameShort": "International Graduate Centre for the Study of Culture",
+    "academy": "Justus Liebig University Giessen",
+    "city": "Gießen",
+    "languages": null,
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 4,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": true,
+    "structuredResearch": true,
+    "supportInternationalStudents": [
+      "Welcome event | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5305/",
     "requestLanguage": "en"
   },
   {
@@ -46669,6 +46705,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11253,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6aa7b273838ca.png",
+    "copyright": "DKFZ",
+    "courseName": "International PhD Programme at the German Cancer Research Center (DKFZ)",
+    "courseNameShort": "DKFZ International PhD Programme in Cancer Research",
+    "academy": "German Cancer Research Center (DKFZ) Heidelberg",
+    "city": "Heidelberg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Any time",
+    "programmeDuration": "6 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 3,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Winter selection: 19 October 2026</p>\r\n\r\n<p>Summer selection: mid/end April 2027</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": true,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Accompanying programme | Specialist counselling | Visa matters | Support with registration procedures"
+    ],
+    "subject": "Human Biology, Biomedicine",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11253/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3740,
     "image": null,
     "copyright": null,
@@ -49850,6 +49922,42 @@
     "subject": "Biochemistry",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4704/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11252,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a8c143039a35.jpeg",
+    "copyright": null,
+    "courseName": "Life Science (MSc)",
+    "courseNameShort": "Life Science (MSc)",
+    "academy": "University of Koblenz",
+    "city": "Koblenz",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 June 2027 + 3 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Biology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11252/",
     "requestLanguage": "en"
   },
   {
@@ -58262,6 +58370,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 10510,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/697cc652b18f4.jpeg",
+    "copyright": null,
+    "courseName": "Master of Science in Business Analytics and Data Science",
+    "courseNameShort": "MSc in Business Analytics and Data Science",
+    "academy": "Kühne Logistics University",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "8,800",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 March 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters"
+    ],
+    "subject": "Data Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10510/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 10412,
     "image": null,
     "copyright": null,
@@ -60611,6 +60755,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4246,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a97f7737179a.png",
+    "copyright": null,
+    "courseName": "Master of Science in Global Logistics and Supply Chain Management",
+    "courseNameShort": "MSc in Global Logistics and Supply Chain Management",
+    "academy": "Kühne Logistics University",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "8,800",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 March 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Visa matters | Buddy programme"
+    ],
+    "subject": "Trade and Industry",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4246/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3927,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a16a3ff9c12e.jpeg",
     "copyright": "TUM Asia",
@@ -61229,6 +61409,42 @@
     "subject": "Health Management",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6101/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4253,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a97fd1d4c8fa.png",
+    "copyright": null,
+    "courseName": "Master of Science in International Management",
+    "courseNameShort": "MSc in International Management",
+    "academy": "Kühne Logistics University",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "8,800",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 March 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Visa matters"
+    ],
+    "subject": "International Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4253/",
     "requestLanguage": "en"
   },
   {
@@ -62859,42 +63075,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4316,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ea7fd4d91cf.png",
-    "copyright": null,
-    "courseName": "Master of Science in Physics",
-    "courseNameShort": "Master of Science in Physics",
-    "academy": "University of Münster",
-    "city": "Münster",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 March 2027 + 1 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Specialist counselling | Tutors"
-    ],
-    "subject": "Physics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4316/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 7874,
     "image": null,
     "copyright": null,
@@ -63151,6 +63331,42 @@
       "14"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4154/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4316,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ea7fd4d91cf.png",
+    "copyright": null,
+    "courseName": "Master of Science in Physics",
+    "courseNameShort": "Master of Science in Physics",
+    "academy": "University of Münster",
+    "city": "Münster",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 March 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Specialist counselling | Tutors"
+    ],
+    "subject": "Physics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4316/",
     "requestLanguage": "en"
   },
   {
@@ -69194,6 +69410,42 @@
       "1"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3630/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11250,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a9859b4ec65e.png",
+    "copyright": null,
+    "courseName": "MBA in Leadership & Supply Chain Management",
+    "courseNameShort": "MBA in Leadership & Supply Chain Management",
+    "academy": "Kühne Logistics University",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "3 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "11,600",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 March 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Visa matters"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11250/",
     "requestLanguage": "en"
   },
   {
@@ -83511,6 +83763,43 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11251,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a996980c2d0a.jpeg",
+    "copyright": null,
+    "courseName": "Robotics and Machine Intelligence",
+    "courseNameShort": "Robotics and Machine Intelligence",
+    "academy": "Rosenheim Technical University of Applied Sciences",
+    "city": "Rosenheim",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Summer semester",
+    "programmeDuration": "8 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>With a university entrance qualification from abroad via <a href=\"https://www.uni-assist.de/en/\">uni-assist</a>:<br />\r\n1 May &ndash; 30 November for a study start in March (summer semester)</p>\r\n\r\n<p>With a German university entrance qualification via <a href=\"https://cm.th-rosenheim.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?page=Bewerber/-innen&amp;noDBAction=y&amp;init=y\">TH Rosenheim application portal</a>:<br />\r\n1 November &ndash; 15 January for a study start in March (summer semester)</p>\r\n\r\n<p>You can also apply for the German-taught study&nbsp;track which starts in the winter semester.&nbsp;</p>\r\n\r\n<p>Please check the website below, as the dates may be subject to change.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Cultural and linguistic preparation"
+    ],
+    "subject": "Mechatronics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11251/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 9838,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/66ed391c8bbe6540394475.jpeg",
     "copyright": "DIT Marketing Department",
@@ -88967,6 +89256,42 @@
     "subject": "Hydraulic Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/5229/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9844,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a998cf028fbd.jpeg",
+    "copyright": "University of Rostock",
+    "courseName": "Sustainable Maritime Engineering (SME)",
+    "courseNameShort": "Sustainable Maritime Engineering (SME)",
+    "academy": "University of Rostock",
+    "city": "Rostock",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>If you do not have a German citizenship, a German university entrance certificate or a graduation certificate from a German institution of higher education, you need to apply through UNI-ASSIST within the respective application periods:</p>\r\n\r\n<ul>\r\n\t<li>Summer semester: 1 October to 30 November each year</li>\r\n\t<li>Winter semester: 16 January to 30 April each year</li>\r\n</ul>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Mechanical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9844/",
     "requestLanguage": "en"
   },
   {
