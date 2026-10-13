@@ -18809,42 +18809,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10360,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6814f697083b5.jpeg",
-    "copyright": "Katholische Universität Eichstätt-Ingolstadt",
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "Catholic University of Eichstätt-Ingolstadt",
-    "city": "Ingolstadt",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Application period for a start in the winter semester: <strong>1 May &ndash; 15 July</strong>&nbsp;</p>\r\n\r\n<p>There is a limited admission window, 1 December &ndash; 15 January,&nbsp;for a start in the summer semester. This admission window is strictly restricted to applicants who obtained their first degree in an EU country and who fulfil all requirements for direct admission without aptitude evaluation. Please consult the programme web pages whether you might be eligible. In general, we recommend starting the programme in the winter semester.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10360/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 6916,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69eb399a78ba9.jpeg",
     "copyright": null,
@@ -18987,6 +18951,42 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7636/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10360,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6814f697083b5.jpeg",
+    "copyright": "Katholische Universität Eichstätt-Ingolstadt",
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "Catholic University of Eichstätt-Ingolstadt",
+    "city": "Ingolstadt",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application period for a start in the winter semester: <strong>1 May &ndash; 15 July</strong>&nbsp;</p>\r\n\r\n<p>There is a limited admission window, 1 December &ndash; 15 January,&nbsp;for a start in the summer semester. This admission window is strictly restricted to applicants who obtained their first degree in an EU country and who fulfil all requirements for direct admission without aptitude evaluation. Please consult the programme web pages whether you might be eligible. In general, we recommend starting the programme in the winter semester.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10360/",
     "requestLanguage": "en"
   },
   {
@@ -20908,6 +20908,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 9997,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69eb663f69f4b.jpeg",
+    "copyright": "https://pixabay.com/de/illustrations/ai-k%C3%BCnstliche-intelligenz-7111802/, tungnguyen0905",
+    "courseName": "Digital Technology and Consulting (DTC)",
+    "courseNameShort": "Digital Technology and Consulting",
+    "academy": "Albstadt-Sigmaringen University",
+    "city": "Albstadt",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 January 2027 + 1 more",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Hybrid",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Specialist counselling | Visa matters | Support with registration procedures"
+    ],
+    "subject": "Information Systems and Management",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9997/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 7702,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69f2151212396.png",
     "copyright": null,
@@ -20953,42 +20989,6 @@
       "14"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7702/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 9997,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69eb663f69f4b.jpeg",
-    "copyright": "https://pixabay.com/de/illustrations/ai-k%C3%BCnstliche-intelligenz-7111802/, tungnguyen0905",
-    "courseName": "Digital Technology Consulting (DTC)",
-    "courseNameShort": "Digital Technology Consulting",
-    "academy": "Albstadt-Sigmaringen University",
-    "city": "Albstadt",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 January 2027 + 1 more",
-    "isCompleteOnlinePossible": true,
-    "badgeLabel": "Hybrid",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Specialist counselling | Visa matters | Support with registration procedures"
-    ],
-    "subject": "Information Systems and Management",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9997/",
     "requestLanguage": "en"
   },
   {
@@ -25585,42 +25585,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 6329,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a0c490b46c22.jpeg",
-    "copyright": "Fakultät für Wirtschaftsingenieurwesen, TH Mannheim",
-    "courseName": "Engineering and Management (BSc)",
-    "courseNameShort": "Engineering and Management",
-    "academy": "Technische Hochschule Mannheim",
-    "city": "Mannheim",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "7 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 July 2027 + 3 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Pick-up service | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Engineering and Management",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/6329/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 7168,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9f1b29a375.jpeg",
     "copyright": "THI",
@@ -25690,6 +25654,42 @@
     "subject": "Electronics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/11046/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 6329,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a0c490b46c22.jpeg",
+    "copyright": "Fakultät für Wirtschaftsingenieurwesen, TH Mannheim",
+    "courseName": "Engineering and Management International (BSc)",
+    "courseNameShort": "Engineering and Management International",
+    "academy": "Technische Hochschule Mannheim",
+    "city": "Mannheim",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 July 2027 + 3 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Pick-up service | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Engineering and Management",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/6329/",
     "requestLanguage": "en"
   },
   {
@@ -36502,7 +36502,7 @@
     "date": [],
     "typeCourseDate": "",
     "costString": null,
-    "tuitionFees": "4,400",
+    "tuitionFees": "No tuition fees",
     "courseType": 2,
     "isElearning": false,
     "preparationForDegree": null,
@@ -66408,42 +66408,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 9641,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master's in Management (MSc)",
-    "courseNameShort": "Master's in Management (MSc)",
-    "academy": "Frankfurt School of Finance & Management",
-    "city": "Frankfurt am Main",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "8,875",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 June 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/9641/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4736,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/633443190769e517441898.jpeg",
     "copyright": "Christian Casper/TUM School of Management",
@@ -66477,6 +66441,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4736/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 9641,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master's in Management (MSc)",
+    "courseNameShort": "Master's in Management (MSc)",
+    "academy": "Frankfurt School of Finance & Management",
+    "city": "Frankfurt am Main",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "8,875",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 30 June 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/9641/",
     "requestLanguage": "en"
   },
   {
@@ -67614,42 +67614,6 @@
     "subject": "Visual Arts, Fine Art",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4671/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 5395,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/61f2f66bc983c855464103.jpeg",
-    "copyright": null,
-    "courseName": "Master's Programme International Business with Regional Focus (MBA)",
-    "courseNameShort": "MBA International Business with Regional Focus",
-    "academy": "Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)",
-    "city": "Würzburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "5,500",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Applications can be submitted&nbsp;<strong>at any time</strong>. However, please note that you may need a student visa and plan accordingly.</p>\r\n\r\n<p>We kindly ask you to submit your application by<strong>&nbsp;31 July</strong>&nbsp;for the coming winter semester of the respective year.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Specialist counselling | Cultural and linguistic preparation | Visa matters | Buddy programme"
-    ],
-    "subject": "Trade and Industry",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/5395/",
     "requestLanguage": "en"
   },
   {
@@ -69643,7 +69607,7 @@
     "date": [],
     "typeCourseDate": "",
     "costString": null,
-    "tuitionFees": "5,970",
+    "tuitionFees": "6,300",
     "courseType": 2,
     "isElearning": false,
     "preparationForDegree": null,
