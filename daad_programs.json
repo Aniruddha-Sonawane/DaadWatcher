@@ -16659,42 +16659,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 11217,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a731e7939054.jpeg",
-    "copyright": null,
-    "courseName": "Computer Science",
-    "courseNameShort": "Computer Science",
-    "academy": "Osnabrück University of Applied Sciences",
-    "city": "Osnabrück",
-    "languages": [
-      "German"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "8 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 June 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Support with registration procedures"
-    ],
-    "subject": "Applied Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/11217/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 9058,
     "image": null,
     "copyright": null,
@@ -16764,6 +16728,42 @@
     "subject": "Applied Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10354/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11217,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a731e7939054.jpeg",
+    "copyright": null,
+    "courseName": "Computer Science",
+    "courseNameShort": "Computer Science",
+    "academy": "Osnabrück University of Applied Sciences",
+    "city": "Osnabrück",
+    "languages": [
+      "German"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "8 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 June 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Support with registration procedures"
+    ],
+    "subject": "Applied Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11217/",
     "requestLanguage": "en"
   },
   {
@@ -18809,6 +18809,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 10360,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6814f697083b5.jpeg",
+    "copyright": "Katholische Universität Eichstätt-Ingolstadt",
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "Catholic University of Eichstätt-Ingolstadt",
+    "city": "Ingolstadt",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application period for a start in the winter semester: <strong>1 May &ndash; 15 July</strong>&nbsp;</p>\r\n\r\n<p>There is a limited admission window, 1 December &ndash; 15 January,&nbsp;for a start in the summer semester. This admission window is strictly restricted to applicants who obtained their first degree in an EU country and who fulfil all requirements for direct admission without aptitude evaluation. Please consult the programme web pages whether you might be eligible. In general, we recommend starting the programme in the winter semester.</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
+    ],
+    "subject": "Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10360/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 6916,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69eb399a78ba9.jpeg",
     "copyright": null,
@@ -18951,42 +18987,6 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7636/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 10360,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6814f697083b5.jpeg",
-    "copyright": "Katholische Universität Eichstätt-Ingolstadt",
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "Catholic University of Eichstätt-Ingolstadt",
-    "city": "Ingolstadt",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>Application period for a start in the winter semester: <strong>1 May &ndash; 15 July</strong>&nbsp;</p>\r\n\r\n<p>There is a limited admission window, 1 December &ndash; 15 January,&nbsp;for a start in the summer semester. This admission window is strictly restricted to applicants who obtained their first degree in an EU country and who fulfil all requirements for direct admission without aptitude evaluation. Please consult the programme web pages whether you might be eligible. In general, we recommend starting the programme in the winter semester.</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10360/",
     "requestLanguage": "en"
   },
   {
@@ -51774,6 +51774,48 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4467,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6ad0fef6e0288.jpeg",
+    "copyright": "c/o Nora Richter",
+    "courseName": "MA Social Work as a Human Rights Profession (MA-SWHR)",
+    "courseNameShort": "MA Social Work as a Human Rights Profession (MA-SWHR)",
+    "academy": "ASH Berlin",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "2,640",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 April 2027",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Cultural and linguistic preparation | Visa matters"
+    ],
+    "subject": "Social Work",
+    "typeOfElearning": [
+      "1",
+      "3",
+      "4",
+      "9",
+      "10"
+    ],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4467/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4292,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69d8c55775570.jpeg",
     "copyright": "DIT Marketing Department",
@@ -69878,6 +69920,51 @@
     "requestLanguage": "en"
   },
   {
+    "id": 8517,
+    "image": null,
+    "copyright": null,
+    "courseName": "MCQST Summer Bachelor's Programme",
+    "courseNameShort": "MCQST Summer Bachelor's Programme",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-08-01",
+        "end": "2027-08-27",
+        "costs": 220,
+        "registrationDeadline": "2027-02-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Physics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8517/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3966,
     "image": null,
     "copyright": null,
@@ -72360,11 +72447,99 @@
     "requestLanguage": "en"
   },
   {
+    "id": 5022,
+    "image": null,
+    "copyright": null,
+    "courseName": "MISU at LMU: Advanced Course in International Law (MACIL)",
+    "courseNameShort": "Advanced Course in International Law (MACIL)",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-08-02",
+        "end": "2027-08-12",
+        "costs": 750,
+        "registrationDeadline": "2027-04-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "International Law",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5022/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4988,
+    "image": null,
+    "copyright": null,
+    "courseName": "MISU at LMU: Amgen Scholars: From Molecules to Behaviour",
+    "courseNameShort": "Amgen Scholars: From Molecules to Behaviour",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-07-02",
+        "end": "2027-09-04",
+        "registrationDeadline": "2027-02-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": "Price only on request",
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Biology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4988/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 5148,
     "image": null,
     "copyright": null,
-    "courseName": "MISU at LMU: Artificial Intelligence and Machine Learning: Foundations and Applications in Corporate Finance (AIS)",
-    "courseNameShort": "Artificial Intelligence and Machine Learning (AIS)",
+    "courseName": "MISU at LMU: Artificial Intelligence and Machine Learning: Foundations and Applications in Corporate Finance (AI)",
+    "courseNameShort": "Artificial Intelligence and Machine Learning (AI)",
     "academy": "Ludwig-Maximilians-Universität München",
     "city": "München",
     "languages": [
@@ -72380,8 +72555,8 @@
     "date": [
       {
         "start": "2027-07-26",
-        "end": "2027-08-13",
-        "costs": 1457,
+        "end": "2027-08-12",
+        "costs": 1450,
         "registrationDeadline": "2027-05-01"
       }
     ],
@@ -72411,8 +72586,8 @@
     "id": 8516,
     "image": null,
     "copyright": null,
-    "courseName": "MISU at LMU: Big Data Analytics and Business Intelligence (BDS)",
-    "courseNameShort": "Big Data Analytics and Business Intelligence (BDS)",
+    "courseName": "MISU at LMU: Big Data Analytics and Business Intelligence (BD)",
+    "courseNameShort": "Big Data Analytics and Business Intelligence (BD)",
     "academy": "Ludwig-Maximilians-Universität München",
     "city": "München",
     "languages": [
@@ -72428,8 +72603,8 @@
     "date": [
       {
         "start": "2027-07-26",
-        "end": "2027-08-13",
-        "costs": 1357,
+        "end": "2027-08-12",
+        "costs": 1350,
         "registrationDeadline": "2027-05-01"
       }
     ],
@@ -72547,6 +72722,50 @@
     "requestLanguage": "en"
   },
   {
+    "id": 8435,
+    "image": null,
+    "copyright": null,
+    "courseName": "MISU at LMU: European Studies: Munich – Vienna (EU August)",
+    "courseNameShort": "European Studies: Munich – Vienna",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-08-03",
+        "end": "2027-08-24",
+        "costs": 1130,
+        "registrationDeadline": "2027-05-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "International Relations",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8435/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 5117,
     "image": null,
     "copyright": null,
@@ -72567,8 +72786,8 @@
     "date": [
       {
         "start": "2027-07-26",
-        "end": "2027-08-13",
-        "costs": 1257,
+        "end": "2027-08-12",
+        "costs": 1250,
         "registrationDeadline": "2027-05-01"
       }
     ],
@@ -72815,7 +73034,7 @@
     "date": [
       {
         "start": "2027-03-02",
-        "end": "2027-03-24",
+        "end": "2027-03-25",
         "costs": 480,
         "registrationDeadline": "2027-01-31"
       },
@@ -72842,6 +73061,94 @@
     "subject": "German as an Academic Language",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9761/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5014,
+    "image": null,
+    "copyright": null,
+    "courseName": "MISU at LMU: International Management and Communications (IM)",
+    "courseNameShort": "MISU at LMU: International Management and Communications",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-08-02",
+        "end": "2027-08-27",
+        "costs": 1250,
+        "registrationDeadline": "2027-05-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "Communication Studies",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5014/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4971,
+    "image": null,
+    "copyright": null,
+    "courseName": "MISU at LMU: Munich University Summer Training in German and European Law (MUST)",
+    "courseNameShort": "German and European Law (MUST)",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": [
+      "B2",
+      "C1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-07-05",
+        "end": "2027-07-30",
+        "costs": 750,
+        "registrationDeadline": "2027-03-30"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 6,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "European Law",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4971/",
     "requestLanguage": "en"
   },
   {
@@ -72930,6 +73237,53 @@
     "subject": "Applied Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/11123/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4897,
+    "image": null,
+    "copyright": null,
+    "courseName": "MISU at LMU: Summer German Language Course (SSK)",
+    "courseNameShort": "German Language Course (SSK)",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "German"
+    ],
+    "languageLevelGerman": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1"
+    ],
+    "languageLevelEnglish": null,
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-08-03",
+        "end": "2027-08-27",
+        "costs": 720,
+        "registrationDeadline": "2027-05-01"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 5,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "German as an Academic Language",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4897/",
     "requestLanguage": "en"
   },
   {
@@ -85158,7 +85512,7 @@
     ],
     "languageLevelGerman": null,
     "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
+    "beginning": "Winter semester",
     "programmeDuration": "7 semesters",
     "date": [],
     "typeCourseDate": "",
@@ -85168,7 +85522,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 July 2027 + 1 more",
+    "applicationDeadline": "Register by 15 July 2027",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
