@@ -6224,6 +6224,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3675,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6ad0a99acbb40.jpeg",
+    "copyright": null,
+    "courseName": "Bachelor of Arts in International Business Management (IBM)",
+    "courseNameShort": "International Business Management (IBM)",
+    "academy": "Furtwangen University",
+    "city": "Villingen-Schwenningen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "7 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p>Application deadline for <strong>winter semester</strong> (= start of lectures in October): <strong>15 July</strong></p>\r\n\r\n<p>The application deadline for non-EU applicants (with a foreign university entrance qualification) runs from <strong>1 March</strong> to <strong>15 June</strong>.&nbsp;</p>\r\n\r\n<p>Application deadline for <strong>summer semester</strong> (start of lectures in March): <strong>15 January</strong></p>\r\n\r\n<p>The application deadline for non-EU applicants (with a foreign university entrance qualification) runs from <strong>15 October</strong> to <strong>30 November.</strong></p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "International Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3675/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 3643,
     "image": null,
     "copyright": null,
@@ -7233,7 +7269,7 @@
     "date": [],
     "typeCourseDate": "",
     "costString": null,
-    "tuitionFees": "9,080",
+    "tuitionFees": "9,730",
     "courseType": 1,
     "isElearning": false,
     "preparationForDegree": null,
@@ -16494,7 +16530,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 April 2027 + 1 more",
+    "applicationDeadline": "Register by 31 March 2027 + 1 more",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -16659,6 +16695,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11217,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a731e7939054.jpeg",
+    "copyright": null,
+    "courseName": "Computer Science",
+    "courseNameShort": "Computer Science",
+    "academy": "Osnabrück University of Applied Sciences",
+    "city": "Osnabrück",
+    "languages": [
+      "German"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "8 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 June 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Support with registration procedures"
+    ],
+    "subject": "Applied Computer Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11217/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 9058,
     "image": null,
     "copyright": null,
@@ -16728,42 +16800,6 @@
     "subject": "Applied Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10354/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 11217,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a731e7939054.jpeg",
-    "copyright": null,
-    "courseName": "Computer Science",
-    "courseNameShort": "Computer Science",
-    "academy": "Osnabrück University of Applied Sciences",
-    "city": "Osnabrück",
-    "languages": [
-      "German"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "8 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 June 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Accompanying programme | Specialist counselling | Cultural and linguistic preparation | Support with registration procedures"
-    ],
-    "subject": "Applied Computer Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/11217/",
     "requestLanguage": "en"
   },
   {
@@ -27059,7 +27095,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 April 2027 + 1 more",
+    "applicationDeadline": "Register by 31 March 2027 + 1 more",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -28479,44 +28515,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10999,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a758c38df61c.jpeg",
-    "copyright": "Viadrina / Andreas Labes",
-    "courseName": "European Studies",
-    "courseNameShort": "European Studies",
-    "academy": "European University Viadrina",
-    "city": "Frankfurt (Oder)",
-    "languages": [
-      "German",
-      "English",
-      "Other teaching language"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 January 2027 + 1 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "Political Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10999/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4937,
     "image": null,
     "copyright": null,
@@ -28557,6 +28555,44 @@
     "subject": "International Relations",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4937/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10999,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a758c38df61c.jpeg",
+    "copyright": "Viadrina / Andreas Labes",
+    "courseName": "European Studies",
+    "courseNameShort": "European Studies",
+    "academy": "European University Viadrina",
+    "city": "Frankfurt (Oder)",
+    "languages": [
+      "German",
+      "English",
+      "Other teaching language"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 January 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Political Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10999/",
     "requestLanguage": "en"
   },
   {
@@ -52074,7 +52110,7 @@
     "copyright": null,
     "courseName": "Management (Master of Science)",
     "courseNameShort": "Management (Master of Science)",
-    "academy": "Witten/Herdecke University",
+    "academy": "University of Witten/Herdecke",
     "city": "Witten",
     "languages": [
       "English"
@@ -59668,42 +59704,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4208,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Economics",
-    "courseNameShort": "Master of Science in Economics",
-    "academy": "Ludwig-Maximilians-Universität München",
-    "city": "München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 April 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Economics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4208/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4193,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9e8aba5dc5.png",
     "copyright": "Anna Logue",
@@ -59917,6 +59917,42 @@
     "subject": "Economics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6323/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4208,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Economics",
+    "courseNameShort": "Master of Science in Economics",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 30 April 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "Economics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4208/",
     "requestLanguage": "en"
   },
   {
@@ -65431,8 +65467,8 @@
     "id": 8556,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661ea7c405ae1959572424.jpeg",
     "copyright": "EBS Universität",
-    "courseName": "Master's in Business Analytics (MSc)",
-    "courseNameShort": "Master's in Business Analytics",
+    "courseName": "Master's in Business Analytics and AI (MSc)",
+    "courseNameShort": "Master's in Business Analytics and AI",
     "academy": "EBS Universität für Wirtschaft und Recht",
     "city": "Oestrich-Winkel",
     "languages": [
@@ -65450,7 +65486,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>There are no application deadlines at EBS.</strong> However, to ensure a smooth start to your studies, we recommend that you submit your application before 30 June (for a start in&nbsp;the winter semester). For international applicants who require a visa, we recommend that you submit your application before 30 May (for a start in&nbsp;the winter semester).</p>",
+    "applicationDeadline": "<p><strong>There are no application deadlines at EBS.</strong> However, to ensure a smooth start to your studies, we recommend that you submit your application before 30 June (for a start in&nbsp;the winter semester). For international applicants who require a visa, we recommend submitting your application before 30 May (for a start in&nbsp;the winter semester).</p>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -66414,42 +66450,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 3938,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661d4bca7b994490606779.jpeg",
-    "copyright": "EBS Universität",
-    "courseName": "Master's in Management (MSc)",
-    "courseNameShort": "Master's in Management",
-    "academy": "EBS Universität für Wirtschaft und Recht",
-    "city": "Oestrich-Winkel",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "2 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>There are no application deadlines at EBS.</strong> However, to ensure a smooth start to your studies, we recommend that you submit your application before 30 June (for a start in&nbsp;the winter semester) and before 30 November (for a start in the summer semester). For international applicants who require a visa, we recommend that you submit your application before 30 May (for a start in&nbsp;the winter semester) or 15 October (for a start in the summer semester).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Cultural and linguistic preparation | Visa matters | Help with finding accommodation"
-    ],
-    "subject": "Business Administration",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3938/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4736,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/633443190769e517441898.jpeg",
     "copyright": "Christian Casper/TUM School of Management",
@@ -66519,6 +66519,42 @@
     "subject": "Business Administration",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9641/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 3938,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661d4bca7b994490606779.jpeg",
+    "copyright": "EBS Universität",
+    "courseName": "Master's in Management (MSc)",
+    "courseNameShort": "Master's in Management",
+    "academy": "EBS Universität für Wirtschaft und Recht",
+    "city": "Oestrich-Winkel",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "2 semesters, 4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>There are no application deadlines at EBS.</strong> However, to ensure a smooth start to your studies, we recommend that you submit your application before 30 June (for a start in&nbsp;the winter semester) and before 30 November (for a start in the summer semester). For international applicants who require a visa, we recommend that you submit your application before 30 May (for a start in&nbsp;the winter semester) or 15 October (for a start in the summer semester).</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Cultural and linguistic preparation | Visa matters | Help with finding accommodation"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3938/",
     "requestLanguage": "en"
   },
   {
@@ -67001,42 +67037,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 3957,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661e663c65512596128060.jpeg",
-    "copyright": "EBS Universität",
-    "courseName": "Master's in Real Estate (MSc)",
-    "courseNameShort": "Master's in Real Estate",
-    "academy": "EBS Universität für Wirtschaft und Recht",
-    "city": "Hamburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "2 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>There are no application deadlines at EBS.</strong> However, to ensure a smooth start to your studies, we recommend that you submit your application before 30 June (for a start in&nbsp;the winter semester). For international applicants who require a visa, we recommend that you submit your application before 30 May (for a start in&nbsp;the winter semester).</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Welcome event | Help with finding accommodation"
-    ],
-    "subject": "Financial Management, Insurance",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3957/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 10386,
     "image": null,
     "copyright": null,
@@ -67070,6 +67070,42 @@
     "subject": "Financial Management, Insurance",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/10386/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 3957,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/661e663c65512596128060.jpeg",
+    "copyright": "EBS Universität",
+    "courseName": "Master's in Real Estate (MSc)",
+    "courseNameShort": "Master's in Real Estate",
+    "academy": "EBS Universität für Wirtschaft und Recht",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "2 semesters, 4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>There are no application deadlines at EBS.</strong> However, to ensure a smooth start to your studies, we recommend that you submit your application before 30 June (for a start in&nbsp;the winter semester). For international applicants who require a visa, we recommend submitting your application before 30 May (for a start in&nbsp;the winter semester).</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Specialist counselling | Cultural and linguistic preparation | Visa matters | Welcome event | Help with finding accommodation"
+    ],
+    "subject": "Financial Management, Insurance",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3957/",
     "requestLanguage": "en"
   },
   {
@@ -70992,42 +71028,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10523,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/681a195ccb0aa.jpeg",
-    "copyright": "Hochschule Nordhausen",
-    "courseName": "Mechatronics",
-    "courseNameShort": "Mechatronics",
-    "academy": "Nordhausen University of Applied Sciences",
-    "city": "Nordhausen",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters, 4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 April 2027 + 1 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Welcome event | Tutors | Cultural and linguistic preparation | Support with registration procedures | Specialist counselling"
-    ],
-    "subject": "Mechatronics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10523/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 3633,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9cfe262ed0.jpeg",
     "copyright": null,
@@ -71170,6 +71170,42 @@
     "subject": "Mechatronics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/11062/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10523,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/681a195ccb0aa.jpeg",
+    "copyright": "Hochschule Nordhausen",
+    "courseName": "Mechatronics",
+    "courseNameShort": "Mechatronics",
+    "academy": "Nordhausen University of Applied Sciences",
+    "city": "Nordhausen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "3 semesters, 4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 March 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Welcome event | Tutors | Cultural and linguistic preparation | Support with registration procedures | Specialist counselling"
+    ],
+    "subject": "Mechatronics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10523/",
     "requestLanguage": "en"
   },
   {
@@ -81269,7 +81305,7 @@
     "copyright": null,
     "courseName": "PPE – Philosophy, Politics and Economics (Master of Arts)",
     "courseNameShort": "PPE – Philosophy, Politics and Economics (Master of Arts)",
-    "academy": "Witten/Herdecke University",
+    "academy": "University of Witten/Herdecke",
     "city": "Witten",
     "languages": [
       "English"
@@ -83507,7 +83543,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 April 2027 + 1 more",
+    "applicationDeadline": "Register by 31 March 2027 + 1 more",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -89543,7 +89579,7 @@
     ],
     "languageLevelGerman": null,
     "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
+    "beginning": "Winter semester",
     "programmeDuration": "7 semesters",
     "date": [],
     "typeCourseDate": "",
@@ -89553,7 +89589,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 July 2027 + 1 more",
+    "applicationDeadline": "Register by 15 July 2027",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
