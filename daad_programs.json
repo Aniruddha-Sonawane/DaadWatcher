@@ -12029,6 +12029,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3666,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5e9d4e9099300870599083.jpeg",
+    "copyright": "Bucerius Law School",
+    "courseName": "Bucerius Master of Law and Business (LLM/MLB)",
+    "courseNameShort": "Bucerius Master of Law and Business (LLM/MLB)",
+    "academy": "Bucerius Law School",
+    "city": "Hamburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Other",
+    "programmeDuration": "2 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "12,500",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 May 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Visa matters | Specialist counselling | Help with finding accommodation"
+    ],
+    "subject": "Business Administration",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3666/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 5583,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9d1cb0426a.jpeg",
     "copyright": null,
@@ -16659,6 +16695,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 8305,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a27bf8de6ee8.jpeg",
+    "copyright": null,
+    "courseName": "Computer Science",
+    "courseNameShort": "Computer Science",
+    "academy": "University of Potsdam",
+    "city": "Potsdam",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 1 December 2026 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Tutors | Accompanying programme | Cultural and linguistic preparation | Visa matters"
+    ],
+    "subject": "Medical Informatics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8305/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 11217,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a731e7939054.jpeg",
     "copyright": null,
@@ -16800,42 +16872,6 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7606/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 8305,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a27bf8de6ee8.jpeg",
-    "copyright": null,
-    "courseName": "Computer Science",
-    "courseNameShort": "Computer Science",
-    "academy": "University of Potsdam",
-    "city": "Potsdam",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 1 December 2026 + 1 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Tutors | Accompanying programme | Cultural and linguistic preparation | Visa matters"
-    ],
-    "subject": "Medical Informatics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/8305/",
     "requestLanguage": "en"
   },
   {
@@ -18881,6 +18917,43 @@
     "requestLanguage": "en"
   },
   {
+    "id": 6916,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69eb399a78ba9.jpeg",
+    "copyright": null,
+    "courseName": "Data Science",
+    "courseNameShort": "Data Science",
+    "academy": "Chemnitz University of Technology",
+    "city": "Chemnitz",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 July 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Welcome event"
+    ],
+    "subject": "Applied Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/6916/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 7660,
     "image": null,
     "copyright": null,
@@ -18986,43 +19059,6 @@
     "subject": "Computer Science",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7636/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 6916,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69eb399a78ba9.jpeg",
-    "copyright": null,
-    "courseName": "Data Science",
-    "courseNameShort": "Data Science",
-    "academy": "Chemnitz University of Technology",
-    "city": "Chemnitz",
-    "languages": [
-      "German",
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 July 2027 + 1 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Welcome event"
-    ],
-    "subject": "Applied Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/6916/",
     "requestLanguage": "en"
   },
   {
@@ -48158,12 +48194,13 @@
     "programmeDuration": null,
     "date": [
       {
-        "start": "2027-07",
-        "end": "2027-07",
-        "costs": 0
+        "start": "2027-07-20",
+        "end": "2027-07-22",
+        "costs": 0,
+        "registrationDeadline": "2027-07-15"
       }
     ],
-    "typeCourseDate": "The date of the course has been set approximately (month)",
+    "typeCourseDate": "The date of the course has been set",
     "costString": null,
     "tuitionFees": null,
     "courseType": 6,
@@ -66159,6 +66196,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11265,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6acf699a8166a.jpeg",
+    "copyright": "EBS Universität",
+    "courseName": "Master's in International Law, Politics and Economics (LLM)",
+    "courseNameShort": "Master's in International Law, Politics and Economics",
+    "academy": "EBS Universität für Wirtschaft und Recht",
+    "city": "Berlin",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "2 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "<p><strong>There are no application deadlines at EBS.</strong> However, to ensure a smooth start to your studies, we recommend that you submit your application before 30 June (for a start in the winter semester). For international applicants who require a visa, we recommend that you submit your application before 30 May (for a start in the winter semester).</p>",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Cultural and linguistic preparation | Visa matters | Help with finding accommodation"
+    ],
+    "subject": "International Relations",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11265/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 5260,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a82ed01b9a34.jpeg",
     "copyright": null,
@@ -70192,6 +70265,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 10350,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6811fe877e074.jpeg",
+    "copyright": "Coburg University",
+    "courseName": "Mechanical Engineering",
+    "courseNameShort": "Mechanical Engineering",
+    "academy": "Coburg University of Applied Sciences and Arts",
+    "city": "Coburg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "8 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 1,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 30 September 2026",
+    "isCompleteOnlinePossible": true,
+    "badgeLabel": "Partly online",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Buddy programme | Help with finding accommodation | Support with registration procedures | Welcome event"
+    ],
+    "subject": "Mechanical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10350/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 11029,
     "image": null,
     "copyright": null,
@@ -70298,42 +70407,6 @@
     "subject": "Plant Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/11038/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 10350,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6811fe877e074.jpeg",
-    "copyright": "Coburg University",
-    "courseName": "Mechanical Engineering",
-    "courseNameShort": "Mechanical Engineering",
-    "academy": "Coburg University of Applied Sciences and Arts",
-    "city": "Coburg",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "8 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 1,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 September 2026",
-    "isCompleteOnlinePossible": true,
-    "badgeLabel": "Partly online",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Buddy programme | Help with finding accommodation | Support with registration procedures | Welcome event"
-    ],
-    "subject": "Mechanical Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10350/",
     "requestLanguage": "en"
   },
   {
