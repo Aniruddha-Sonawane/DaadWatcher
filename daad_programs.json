@@ -5384,7 +5384,7 @@
     "financialSupport": null,
     "structuredResearch": null,
     "supportInternationalStudents": [
-      "Cultural and linguistic preparation | Visa matters | Welcome event"
+      "Cultural and linguistic preparation | Visa matters | Welcome event | Specialist counselling | Help with finding accommodation"
     ],
     "subject": "Automotive Engineering",
     "typeOfElearning": [
@@ -14777,7 +14777,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 14 August 2026",
+    "applicationDeadline": "Register by 31 March 2027",
     "isCompleteOnlinePossible": true,
     "badgeLabel": "Fully online",
     "financialSupport": null,
@@ -19346,7 +19346,7 @@
     "financialSupport": null,
     "structuredResearch": null,
     "supportInternationalStudents": [
-      "Welcome event | Cultural and linguistic preparation | Visa matters"
+      "Welcome event | Cultural and linguistic preparation | Visa matters | Buddy programme | Specialist counselling | Help with finding accommodation"
     ],
     "subject": "Mechanical Engineering",
     "typeOfElearning": [
@@ -34229,7 +34229,7 @@
     "date": [],
     "typeCourseDate": "",
     "costString": null,
-    "tuitionFees": "3,875",
+    "tuitionFees": "4,000",
     "courseType": 2,
     "isElearning": false,
     "preparationForDegree": null,
@@ -43708,7 +43708,7 @@
     "supportInternationalStudents": [
       "Welcome event | Buddy programme | Specialist counselling | Visa matters | Cultural and linguistic preparation"
     ],
-    "subject": "International Business Administration",
+    "subject": "Financial Management, Insurance",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/5426/",
     "requestLanguage": "en"
@@ -62381,42 +62381,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4852,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69eb11c792b99.png",
-    "copyright": "M. Gruber, Institut f. Analysis, LUH",
-    "courseName": "Master of Science in Mathematics",
-    "courseNameShort": "Master of Science in Mathematics",
-    "academy": "Leibniz University Hannover",
-    "city": "Hannover",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 January 2027 + 3 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling"
-    ],
-    "subject": "Applied Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4852/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 11099,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69ea03a88c337.jpeg",
     "copyright": "Jan Meßerschmidt/UG",
@@ -62486,6 +62450,42 @@
     "subject": "Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/5388/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4852,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69eb11c792b99.png",
+    "copyright": "M. Gruber, Institut f. Analysis, LUH",
+    "courseName": "Master of Science in Mathematics",
+    "courseNameShort": "Master of Science in Mathematics",
+    "academy": "Leibniz University Hannover",
+    "city": "Hannover",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 January 2027 + 3 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling"
+    ],
+    "subject": "Applied Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4852/",
     "requestLanguage": "en"
   },
   {
