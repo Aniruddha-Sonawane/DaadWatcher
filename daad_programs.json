@@ -32716,6 +32716,53 @@
     "requestLanguage": "en"
   },
   {
+    "id": 8555,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6ae318e413ec1.jpeg",
+    "copyright": "International Office, Osnabrück University",
+    "courseName": "German Language and Culture – Advanced (GLCA)",
+    "courseNameShort": "German Language and Culture – Advanced (GLCA)",
+    "academy": "Osnabrück University",
+    "city": "Osnabrück",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "languageLevelGerman": [
+      "A2",
+      "B1"
+    ],
+    "languageLevelEnglish": [
+      "B1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-07-05",
+        "end": "2027-07-30",
+        "costs": 1650,
+        "registrationDeadline": "2027-04-04"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 5,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "German as a Foreign Language",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/8555/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 5511,
     "image": null,
     "copyright": null,
@@ -48519,6 +48566,52 @@
     "subject": "International Relations",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7683/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 5627,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6ae313b84d6b0.jpeg",
+    "copyright": "International Office, Osnabrück University",
+    "courseName": "Introduction to German Language and Culture A1.1/A1.2",
+    "courseNameShort": "Introduction to German Language and Culture",
+    "academy": "Osnabrück University",
+    "city": "Osnabrück",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "languageLevelGerman": [
+      "A1"
+    ],
+    "languageLevelEnglish": [
+      "B1"
+    ],
+    "beginning": null,
+    "programmeDuration": null,
+    "date": [
+      {
+        "start": "2027-07-11",
+        "end": "2027-07-30",
+        "costs": 1400,
+        "registrationDeadline": "2027-04-04"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
+    "costString": null,
+    "tuitionFees": null,
+    "courseType": 5,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": null,
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": null,
+    "subject": "German Language Course (including Literature and Culture Studies)",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/5627/",
     "requestLanguage": "en"
   },
   {
