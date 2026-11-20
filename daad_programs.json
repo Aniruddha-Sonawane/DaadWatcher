@@ -14565,6 +14565,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11293,
+    "image": null,
+    "copyright": null,
+    "courseName": "Cognition, Brain, and Behaviour (MSc)",
+    "courseNameShort": "Cognition, Brain, and Behaviour (MSc)",
+    "academy": "University of Göttingen",
+    "city": "Göttingen",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 May 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Help with finding accommodation"
+    ],
+    "subject": "Psychology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11293/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 10334,
     "image": null,
     "copyright": null,
@@ -30645,6 +30681,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 11291,
+    "image": null,
+    "copyright": null,
+    "courseName": "Game Design (MA)",
+    "courseNameShort": "Game Design (MA)",
+    "academy": "Technische Hochschule Nürnberg Georg Simon Ohm",
+    "city": "Nürnberg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 December 2026",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Specialist counselling | Visa matters"
+    ],
+    "subject": "Psychology",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11291/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4247,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e623558063a.jpeg",
     "copyright": null,
@@ -36235,6 +36307,42 @@
     "subject": "Psychology",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4686/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 11292,
+    "image": null,
+    "copyright": null,
+    "courseName": "Human Computer Interaction and User Experience (MSc)",
+    "courseNameShort": "Human Computer Interaction and User Experience (MSc)",
+    "academy": "Technische Hochschule Nürnberg Georg Simon Ohm",
+    "city": "Nürnberg",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 1 December 2026",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Specialist counselling | Visa matters"
+    ],
+    "subject": "Multimedia Design",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/11292/",
     "requestLanguage": "en"
   },
   {
