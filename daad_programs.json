@@ -3165,7 +3165,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 November 2026",
+    "applicationDeadline": "Register by 15 January 2027",
     "isCompleteOnlinePossible": true,
     "badgeLabel": "Partly online",
     "financialSupport": null,
@@ -3644,7 +3644,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 November 2026",
+    "applicationDeadline": "Register by 15 January 2027",
     "isCompleteOnlinePossible": true,
     "badgeLabel": "Partly online",
     "financialSupport": null,
@@ -5407,7 +5407,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p>For applicants with a visa requirement with a Bachelor&#39;s degree from abroad who do not yet have a visa for Germany:</p>\r\n\r\n<ul>\r\n\t<li>15 May to 15 July for the summer semester of the following year</li>\r\n\t<li>15 November to 15 February for the winter semester of the respective year</li>\r\n</ul>\r\n\r\n<p>For Germans, applicants without a visa requirement or who already have a visa for Germany (with a Bachelor&#39;s degree from Germany or abroad):</p>\r\n\r\n<ul>\r\n\t<li>15 May to 15 December for the summer semester of the following year</li>\r\n\t<li>15 November to 15 June for the winter semester of the respective year</li>\r\n</ul>",
+    "applicationDeadline": "<p>For all applicants with international Bachelor&#39;s degrees (or equivalent) exclusively via uni-assist:</p>\r\n\r\n<ul>\r\n\t<li>15 May to 15 August for the summer semester of the following year</li>\r\n\t<li>15 November to 15 February for the winter semester of the respective year</li>\r\n</ul>\r\n\r\n<p>For applicants with German Bachelor&#39;s degrees via the application portal Apollo:</p>\r\n\r\n<ul>\r\n\t<li>15 May to 15 November for the summer semester of the following year</li>\r\n\t<li>15 November to 15 May for the winter semester of the respective year</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -15801,6 +15801,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3595,
+    "image": null,
+    "copyright": null,
+    "courseName": "Computational Mechanics",
+    "courseNameShort": "Computational Mechanics",
+    "academy": "Technical University of Munich",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 May 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Help with finding accommodation"
+    ],
+    "subject": "Civil Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3595/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 6249,
     "image": null,
     "copyright": null,
@@ -15839,42 +15875,6 @@
       "13"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/6249/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3595,
-    "image": null,
-    "copyright": null,
-    "courseName": "Computational Mechanics",
-    "courseNameShort": "Computational Mechanics",
-    "academy": "Technical University of Munich",
-    "city": "München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 31 May 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Help with finding accommodation"
-    ],
-    "subject": "Civil Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3595/",
     "requestLanguage": "en"
   },
   {
@@ -30155,8 +30155,9 @@
     "programmeDuration": null,
     "date": [
       {
-        "start": "2026-09-14",
-        "end": "2027-06-18"
+        "start": "2027-09-01",
+        "end": "2028-06-30",
+        "registrationDeadline": "2027-07-31"
       }
     ],
     "typeCourseDate": "The date of the course has been set",
@@ -57502,6 +57503,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3965,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a16a42851101.jpeg",
+    "copyright": "TUM Asia",
+    "courseName": "Master of Science in Aerospace Engineering",
+    "courseNameShort": "Master of Science in Aerospace Engineering",
+    "academy": "Technical University of Munich",
+    "city": "Singapore",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 31 March 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Tutors | Visa matters"
+    ],
+    "subject": "Aeronautical Engineering",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3965/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 7775,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/60956184ed422425476648.jpeg",
     "copyright": "TU Darmstadt / Fachgebiet SLA",
@@ -57542,42 +57579,6 @@
       "13"
     ],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/7775/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3965,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a16a42851101.jpeg",
-    "copyright": "TUM Asia",
-    "courseName": "Master of Science in Aerospace Engineering",
-    "courseNameShort": "Master of Science in Aerospace Engineering",
-    "academy": "Technical University of Munich",
-    "city": "Singapore",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 31 March 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Tutors | Visa matters"
-    ],
-    "subject": "Aeronautical Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3965/",
     "requestLanguage": "en"
   },
   {
@@ -59683,42 +59684,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 4208,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Economics",
-    "courseNameShort": "Master of Science in Economics",
-    "academy": "Ludwig-Maximilians-Universität München",
-    "city": "München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 April 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Economics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4208/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4193,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9e8aba5dc5.png",
     "copyright": "Anna Logue",
@@ -59896,6 +59861,42 @@
     "subject": "Economics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4076/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 4208,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Economics",
+    "courseNameShort": "Master of Science in Economics",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 30 April 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "Economics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4208/",
     "requestLanguage": "en"
   },
   {
@@ -68719,6 +68720,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 3872,
+    "image": null,
+    "copyright": null,
+    "courseName": "Mathematics",
+    "courseNameShort": "Mathematics",
+    "academy": "Technical University of Munich",
+    "city": "Garching b. München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "Tuition varies",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 30 November 2026 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Tutors | Support with registration procedures"
+    ],
+    "subject": "Applied Mathematics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/3872/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 8912,
     "image": null,
     "copyright": null,
@@ -68830,42 +68867,6 @@
     "subject": "Mathematics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/3972/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 3872,
-    "image": null,
-    "copyright": null,
-    "courseName": "Mathematics",
-    "courseNameShort": "Mathematics",
-    "academy": "Technical University of Munich",
-    "city": "Garching b. München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "Tuition varies",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 November 2026 + 1 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Specialist counselling | Cultural and linguistic preparation | Tutors | Support with registration procedures"
-    ],
-    "subject": "Applied Mathematics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/3872/",
     "requestLanguage": "en"
   },
   {
@@ -70529,42 +70530,6 @@
     "subject": "Electrical Engineering",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/9993/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 11038,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e7430bb1686.jpeg",
-    "copyright": "HS Emden/Leer",
-    "courseName": "Mechanical Engineering",
-    "courseNameShort": "Mechanical Engineering",
-    "academy": "University of Applied Sciences Emden/Leer",
-    "city": "Emden",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "3 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>For the winter semester (September to January)&nbsp;</strong><br />\r\n30 September</p>\r\n\r\n<p><strong>Summer semester (March to July):</strong><br />\r\n15 March</p>\r\n\r\n<p>Students who require a visa should allow sufficient time for the application process and apply well in advance to ensure they arrive at the university in time for the start of the first semester.&nbsp;</p>",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme | Visa matters | Help with finding accommodation | Support with registration procedures"
-    ],
-    "subject": "Plant Engineering",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/11038/",
     "requestLanguage": "en"
   },
   {
@@ -84427,7 +84392,7 @@
     ],
     "languageLevelGerman": null,
     "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
+    "beginning": "Winter semester",
     "programmeDuration": "4 semesters",
     "date": [],
     "typeCourseDate": "",
@@ -84437,7 +84402,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "<p><strong>Winter semester (regular start of studies)</strong></p>\r\n\r\n<ul>\r\n\t<li>Application period: 1 January to 28 February (especially recommended for non-EU applicants to allow sufficient time for the visa application)</li>\r\n\t<li>Application period: 1 January to 30 April (deadline for all students, EU and non-EU applicants)</li>\r\n</ul>\r\n\r\n<p><strong>Summer semester</strong></p>\r\n\r\n<p>Application period: 1 August - 31 October<br />\r\n<br />\r\nPlease note that starting your studies in the summer semester means an extension of the study period by the first semester (five semesters duration of studies).</p>",
+    "applicationDeadline": "<ul>\r\n\t<li>Application period: 1 January to 28 February (especially recommended for non-EU applicants to allow sufficient time for the visa application)</li>\r\n\t<li>Application period: 1 January to 30 April (deadline for all students, EU and non-EU applicants)</li>\r\n</ul>",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -93360,8 +93325,14 @@
     "languageLevelEnglish": null,
     "beginning": null,
     "programmeDuration": null,
-    "date": [],
-    "typeCourseDate": "The date of the course has not yet been set",
+    "date": [
+      {
+        "start": "2027-08-02",
+        "end": "2028-03-31",
+        "registrationDeadline": "2027-06-15"
+      }
+    ],
+    "typeCourseDate": "The date of the course has been set",
     "costString": null,
     "tuitionFees": "No tuition fees",
     "courseType": 7,
