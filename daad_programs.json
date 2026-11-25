@@ -24185,7 +24185,7 @@
     "isElearning": false,
     "preparationForDegree": null,
     "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 July 2027 + 1 more",
+    "applicationDeadline": "Register by 15 June 2027 + 1 more",
     "isCompleteOnlinePossible": false,
     "badgeLabel": "",
     "financialSupport": null,
@@ -28193,8 +28193,9 @@
     "academy": "Leibniz University Hannover",
     "city": "Hannover",
     "languages": [
-      "German",
       "English",
+      "German",
+      "French",
       "Other teaching language"
     ],
     "languageLevelGerman": null,
@@ -28514,44 +28515,6 @@
     "requestLanguage": "en"
   },
   {
-    "id": 10999,
-    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a758c38df61c.jpeg",
-    "copyright": "Viadrina / Andreas Labes",
-    "courseName": "European Studies",
-    "courseNameShort": "European Studies",
-    "academy": "European University Viadrina",
-    "city": "Frankfurt (Oder)",
-    "languages": [
-      "German",
-      "English",
-      "Other teaching language"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester, Summer semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 15 January 2027 + 1 more",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Specialist counselling | Cultural and linguistic preparation"
-    ],
-    "subject": "Political Science",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/10999/",
-    "requestLanguage": "en"
-  },
-  {
     "id": 4937,
     "image": null,
     "copyright": null,
@@ -28592,6 +28555,44 @@
     "subject": "International Relations",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4937/",
+    "requestLanguage": "en"
+  },
+  {
+    "id": 10999,
+    "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/6a758c38df61c.jpeg",
+    "copyright": "Viadrina / Andreas Labes",
+    "courseName": "European Studies",
+    "courseNameShort": "European Studies",
+    "academy": "European University Viadrina",
+    "city": "Frankfurt (Oder)",
+    "languages": [
+      "German",
+      "English",
+      "Other teaching language"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester, Summer semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 15 January 2027 + 1 more",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Specialist counselling | Cultural and linguistic preparation"
+    ],
+    "subject": "Political Science",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/10999/",
     "requestLanguage": "en"
   },
   {
@@ -59792,6 +59793,42 @@
     "requestLanguage": "en"
   },
   {
+    "id": 4208,
+    "image": null,
+    "copyright": null,
+    "courseName": "Master of Science in Economics",
+    "courseNameShort": "Master of Science in Economics",
+    "academy": "Ludwig-Maximilians-Universität München",
+    "city": "München",
+    "languages": [
+      "English"
+    ],
+    "languageLevelGerman": null,
+    "languageLevelEnglish": null,
+    "beginning": "Winter semester",
+    "programmeDuration": "4 semesters",
+    "date": [],
+    "typeCourseDate": "",
+    "costString": null,
+    "tuitionFees": "No tuition fees",
+    "courseType": 2,
+    "isElearning": false,
+    "preparationForDegree": null,
+    "preparationForSubjectGroups": null,
+    "applicationDeadline": "Register by 30 April 2027",
+    "isCompleteOnlinePossible": false,
+    "badgeLabel": "",
+    "financialSupport": null,
+    "structuredResearch": null,
+    "supportInternationalStudents": [
+      "Welcome event | Buddy programme"
+    ],
+    "subject": "Economics",
+    "typeOfElearning": [],
+    "link": "/deutschland/studienangebote/international-programmes/en/detail/4208/",
+    "requestLanguage": "en"
+  },
+  {
     "id": 4193,
     "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/69e9e8aba5dc5.png",
     "copyright": "Anna Logue",
@@ -59969,42 +60006,6 @@
     "subject": "Economics",
     "typeOfElearning": [],
     "link": "/deutschland/studienangebote/international-programmes/en/detail/4076/",
-    "requestLanguage": "en"
-  },
-  {
-    "id": 4208,
-    "image": null,
-    "copyright": null,
-    "courseName": "Master of Science in Economics",
-    "courseNameShort": "Master of Science in Economics",
-    "academy": "Ludwig-Maximilians-Universität München",
-    "city": "München",
-    "languages": [
-      "English"
-    ],
-    "languageLevelGerman": null,
-    "languageLevelEnglish": null,
-    "beginning": "Winter semester",
-    "programmeDuration": "4 semesters",
-    "date": [],
-    "typeCourseDate": "",
-    "costString": null,
-    "tuitionFees": "No tuition fees",
-    "courseType": 2,
-    "isElearning": false,
-    "preparationForDegree": null,
-    "preparationForSubjectGroups": null,
-    "applicationDeadline": "Register by 30 April 2027",
-    "isCompleteOnlinePossible": false,
-    "badgeLabel": "",
-    "financialSupport": null,
-    "structuredResearch": null,
-    "supportInternationalStudents": [
-      "Welcome event | Buddy programme"
-    ],
-    "subject": "Economics",
-    "typeOfElearning": [],
-    "link": "/deutschland/studienangebote/international-programmes/en/detail/4208/",
     "requestLanguage": "en"
   },
   {
@@ -64561,7 +64562,7 @@
     "copyright": null,
     "courseName": "Master of Science in Sustainable Energy and Hydrogen Infrastructures",
     "courseNameShort": "MSc in Sustainable Energy and Hydrogen Infrastructures",
-    "academy": "Ruhr-Universität Bochum",
+    "academy": "TU Dortmund University",
     "city": "Düsseldorf",
     "languages": [
       "English"
